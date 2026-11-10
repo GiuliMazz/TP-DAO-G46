@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "criterio": "Revisión selectiva de la muestra durante 3B.2. Se excluyen de la selección inicial; las fuentes originales no se corrigen ni se declara un rechazo definitivo de estas obras.",
+  "ediciones": {
+    "OL47181063M": "El registro de obra incluye a Christopher Tolkien; revisar el rol de editor frente a autor antes de representarlo sin roles.",
+    "OL22051565M": "Ray Friesen aparece junto a Terry Pratchett; revisar ilustración/adaptación frente a autoría de la obra.",
+    "OL61534509M": "Título Casa de tierra y sange: aparente errata. No corregir sin registrar evidencia y motivo.",
+    "OL8182461M": "Título Sons of Encouragement - The Priest en una edición marcada spa; verificar el idioma/título de esta edición.",
+    "OL33968812M": "Luis Murillo Fort figura con David Grann; revisar el rol de traductor frente a autor de la obra.",
+    "OL7543199M": "Título Kristy's Big Day - 6 en una edición marcada spa; revisar título e idioma de la edición.",
+    "OL9713072M": "Obra con tres personas acreditadas: revisar posibles créditos de ilustración/traducción.",
+    "OL7542295M": "Título Freeze Tag en edición marcada spa; revisar título e idioma de la edición.",
+    "OL30529644M": "Título La plaça del diamant y metadatos spa: revisar si corresponde a traducción española o edición catalana.",
+    "OL13364539M": "Título Heavier than Heaven: revisar la edición española y su título completo.",
+    "OL9841442M": "Título My Hairiest Adventure - 24 en edición marcada spa; revisar idioma y título.",
+    "OL37823049M": "Título Manifiesto Communista: aparente errata. Reservar para revisión con evidencia.",
+    "OL36103217M": "Título Futureroof: aparente errata respecto al título de obra. Reservar para revisión.",
+    "OL27226206M": "Born to run mezcla Bruce Springsteen y Michael Morpurgo como autores; revisar identidad de obra y edición.",
+    "OL57725438M": "Dos identidades de autor con el mismo nombre Julie Campbell; revisar duplicación frente a homonimia.",
+    "OL23944207M": "Dos identidades de autor con el mismo nombre Gerald Martin; revisar duplicación frente a homonimia.",
+    "OL22899901M": "Cronopaisaje incluye Gregory Benford, Pete Bradbury y Simon Prebble; verificar posibles créditos de narración frente a autoría."
+  }
+}

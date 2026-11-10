@@ -1,0 +1,1183 @@
+{
+  "version": 1,
+  "politica": "OL-2-LOCAL",
+  "fecha_preparacion_utc": "2026-11-04T10:23:19.156712+00:00",
+  "fuentes": {
+    "fuentes/busquedas.json": "0b130b4b7573f7a714a8ba7c9615c93423219dbcca73ead8b6bd69768c9cb336",
+    "fuentes/ediciones.json": "8f7c1e8676b8a8adc0ce50001c02319d5383ff7d5bcfddbc8d43332a47f6d8a2",
+    "fuentes/obras.json": "8498d4d7eaa8a3e471dbac277d9ed1f1dace6e5f97d9ac5e97b0968d0882597f",
+    "revision_seleccion.json": "4068946d65081231d8096d739dd168c1fa54aa29e571fe20f5306d35676b9aa7"
+  },
+  "registros": [
+    {
+      "obra_id": "OL7924103W",
+      "edicion_id": "OL47660205M"
+    },
+    {
+      "obra_id": "OL17546674W",
+      "edicion_id": "OL52226778M"
+    },
+    {
+      "obra_id": "OL8369445W",
+      "edicion_id": "OL13193119M"
+    },
+    {
+      "obra_id": "OL15358691W",
+      "edicion_id": "OL29659236M"
+    },
+    {
+      "obra_id": "OL27482W",
+      "edicion_id": "OL13268284M"
+    },
+    {
+      "obra_id": "OL2577486W",
+      "edicion_id": "OL31982642M"
+    },
+    {
+      "obra_id": "OL5738147W",
+      "edicion_id": "OL28345195M"
+    },
+    {
+      "obra_id": "OL34774028W",
+      "edicion_id": "OL61638992M"
+    },
+    {
+      "obra_id": "OL7924208W",
+      "edicion_id": "OL35617900M"
+    },
+    {
+      "obra_id": "OL15450W",
+      "edicion_id": "OL47099910M"
+    },
+    {
+      "obra_id": "OL16597059W",
+      "edicion_id": "OL35625508M"
+    },
+    {
+      "obra_id": "OL257943W",
+      "edicion_id": "OL25140747M"
+    },
+    {
+      "obra_id": "OL5734756W",
+      "edicion_id": "OL31854813M"
+    },
+    {
+      "obra_id": "OL516683W",
+      "edicion_id": "OL47506247M"
+    },
+    {
+      "obra_id": "OL81600W",
+      "edicion_id": "OL9111890M"
+    },
+    {
+      "obra_id": "OL257939W",
+      "edicion_id": "OL36697412M"
+    },
+    {
+      "obra_id": "OL24706481W",
+      "edicion_id": "OL36634839M"
+    },
+    {
+      "obra_id": "OL7924135W",
+      "edicion_id": "OL39206368M"
+    },
+    {
+      "obra_id": "OL41943074W",
+      "edicion_id": "OL57579205M"
+    },
+    {
+      "obra_id": "OL34028551W",
+      "edicion_id": "OL51343709M"
+    },
+    {
+      "obra_id": "OL2707183W",
+      "edicion_id": "OL35620097M"
+    },
+    {
+      "obra_id": "OL27513W",
+      "edicion_id": "OL9131874M"
+    },
+    {
+      "obra_id": "OL492658W",
+      "edicion_id": "OL25440625M"
+    },
+    {
+      "obra_id": "OL453936W",
+      "edicion_id": "OL27102136M"
+    },
+    {
+      "obra_id": "OL46241W",
+      "edicion_id": "OL9129665M"
+    },
+    {
+      "obra_id": "OL3295516W",
+      "edicion_id": "OL19719716M"
+    },
+    {
+      "obra_id": "OL503666W",
+      "edicion_id": "OL24343614M"
+    },
+    {
+      "obra_id": "OL1963276W",
+      "edicion_id": "OL13264621M"
+    },
+    {
+      "obra_id": "OL86318W",
+      "edicion_id": "OL13225931M"
+    },
+    {
+      "obra_id": "OL1168030W",
+      "edicion_id": "OL26956630M"
+    },
+    {
+      "obra_id": "OL4617627W",
+      "edicion_id": "OL24313014M"
+    },
+    {
+      "obra_id": "OL21062580W",
+      "edicion_id": "OL61528348M"
+    },
+    {
+      "obra_id": "OL81124W",
+      "edicion_id": "OL47589291M"
+    },
+    {
+      "obra_id": "OL17610507W",
+      "edicion_id": "OL50708990M"
+    },
+    {
+      "obra_id": "OL472388W",
+      "edicion_id": "OL13228031M"
+    },
+    {
+      "obra_id": "OL19731W",
+      "edicion_id": "OL20047146M"
+    },
+    {
+      "obra_id": "OL1925362W",
+      "edicion_id": "OL9129003M"
+    },
+    {
+      "obra_id": "OL1966501W",
+      "edicion_id": "OL25557041M"
+    },
+    {
+      "obra_id": "OL10143554W",
+      "edicion_id": "OL12992870M"
+    },
+    {
+      "obra_id": "OL39560W",
+      "edicion_id": "OL20348265M"
+    },
+    {
+      "obra_id": "OL73347W",
+      "edicion_id": "OL39820263M"
+    },
+    {
+      "obra_id": "OL52953W",
+      "edicion_id": "OL28762090M"
+    },
+    {
+      "obra_id": "OL471891W",
+      "edicion_id": "OL9142153M"
+    },
+    {
+      "obra_id": "OL3773939W",
+      "edicion_id": "OL10745399M"
+    },
+    {
+      "obra_id": "OL41050W",
+      "edicion_id": "OL13196722M"
+    },
+    {
+      "obra_id": "OL1882552W",
+      "edicion_id": "OL13188876M"
+    },
+    {
+      "obra_id": "OL46760W",
+      "edicion_id": "OL61297192M"
+    },
+    {
+      "obra_id": "OL3649331W",
+      "edicion_id": "OL1197927M"
+    },
+    {
+      "obra_id": "OL3199495W",
+      "edicion_id": "OL4978255M"
+    },
+    {
+      "obra_id": "OL19659793W",
+      "edicion_id": "OL29791898M"
+    },
+    {
+      "obra_id": "OL81601W",
+      "edicion_id": "OL22996851M"
+    },
+    {
+      "obra_id": "OL17461718W",
+      "edicion_id": "OL29652139M"
+    },
+    {
+      "obra_id": "OL1914079W",
+      "edicion_id": "OL23125290M"
+    },
+    {
+      "obra_id": "OL20168133W",
+      "edicion_id": "OL30777366M"
+    },
+    {
+      "obra_id": "OL17038299W",
+      "edicion_id": "OL27226080M"
+    },
+    {
+      "obra_id": "OL27675460W",
+      "edicion_id": "OL47350851M"
+    },
+    {
+      "obra_id": "OL2727030W",
+      "edicion_id": "OL13354143M"
+    },
+    {
+      "obra_id": "OL8076306W",
+      "edicion_id": "OL32097850M"
+    },
+    {
+      "obra_id": "OL25960185W",
+      "edicion_id": "OL48238136M"
+    },
+    {
+      "obra_id": "OL106084W",
+      "edicion_id": "OL46523962M"
+    },
+    {
+      "obra_id": "OL46358W",
+      "edicion_id": "OL22906395M"
+    },
+    {
+      "obra_id": "OL62073W",
+      "edicion_id": "OL37824181M"
+    },
+    {
+      "obra_id": "OL5734643W",
+      "edicion_id": "OL30153146M"
+    },
+    {
+      "obra_id": "OL3759017W",
+      "edicion_id": "OL9704390M"
+    },
+    {
+      "obra_id": "OL5822718W",
+      "edicion_id": "OL34929741M"
+    },
+    {
+      "obra_id": "OL2918760W",
+      "edicion_id": "OL13822200M"
+    },
+    {
+      "obra_id": "OL16814568W",
+      "edicion_id": "OL25649859M"
+    },
+    {
+      "obra_id": "OL319529W",
+      "edicion_id": "OL13266185M"
+    },
+    {
+      "obra_id": "OL3220664W",
+      "edicion_id": "OL1780833M"
+    },
+    {
+      "obra_id": "OL1140125W",
+      "edicion_id": "OL22900874M"
+    },
+    {
+      "obra_id": "OL167169W",
+      "edicion_id": "OL13188685M"
+    },
+    {
+      "obra_id": "OL17209694W",
+      "edicion_id": "OL25781868M"
+    },
+    {
+      "obra_id": "OL2950913W",
+      "edicion_id": "OL9174418M"
+    },
+    {
+      "obra_id": "OL18998144W",
+      "edicion_id": "OL1041846M"
+    },
+    {
+      "obra_id": "OL23188W",
+      "edicion_id": "OL47439951M"
+    },
+    {
+      "obra_id": "OL259010W",
+      "edicion_id": "OL28339503M"
+    },
+    {
+      "obra_id": "OL46191W",
+      "edicion_id": "OL25431866M"
+    },
+    {
+      "obra_id": "OL111499W",
+      "edicion_id": "OL24764809M"
+    },
+    {
+      "obra_id": "OL17077942W",
+      "edicion_id": "OL37065885M"
+    },
+    {
+      "obra_id": "OL362702W",
+      "edicion_id": "OL32248732M"
+    },
+    {
+      "obra_id": "OL3931534W",
+      "edicion_id": "OL27934353M"
+    },
+    {
+      "obra_id": "OL1835957W",
+      "edicion_id": "OL23124669M"
+    },
+    {
+      "obra_id": "OL18013978W",
+      "edicion_id": "OL28332858M"
+    },
+    {
+      "obra_id": "OL38128674W",
+      "edicion_id": "OL62559593M"
+    },
+    {
+      "obra_id": "OL2023483W",
+      "edicion_id": "OL13192653M"
+    },
+    {
+      "obra_id": "OL5952812W",
+      "edicion_id": "OL13359261M"
+    },
+    {
+      "obra_id": "OL259017W",
+      "edicion_id": "OL13068611M"
+    },
+    {
+      "obra_id": "OL5841457W",
+      "edicion_id": "OL9131814M"
+    },
+    {
+      "obra_id": "OL8453734W",
+      "edicion_id": "OL27158475M"
+    },
+    {
+      "obra_id": "OL3261123W",
+      "edicion_id": "OL29735595M"
+    },
+    {
+      "obra_id": "OL767941W",
+      "edicion_id": "OL8361597M"
+    },
+    {
+      "obra_id": "OL19977306W",
+      "edicion_id": "OL27904706M"
+    },
+    {
+      "obra_id": "OL15093856W",
+      "edicion_id": "OL13265150M"
+    },
+    {
+      "obra_id": "OL644246W",
+      "edicion_id": "OL13241599M"
+    },
+    {
+      "obra_id": "OL76350W",
+      "edicion_id": "OL40876411M"
+    },
+    {
+      "obra_id": "OL63215W",
+      "edicion_id": "OL15447926M"
+    },
+    {
+      "obra_id": "OL1717271W",
+      "edicion_id": "OL22946104M"
+    },
+    {
+      "obra_id": "OL69612W",
+      "edicion_id": "OL799594M"
+    },
+    {
+      "obra_id": "OL4278297W",
+      "edicion_id": "OL10748961M"
+    },
+    {
+      "obra_id": "OL149155W",
+      "edicion_id": "OL9893797M"
+    }
+  ],
+  "portadas": [
+    {
+      "id": 312004,
+      "archivo": "portadas/312004.jpg",
+      "url": "https://covers.openlibrary.org/b/id/312004-M.jpg?default=false",
+      "sha256": "7b88feb6ac1ea0b83e782f8225b3497cb08e57fbb413bbca8a4ef03d34b2286b"
+    },
+    {
+      "id": 743781,
+      "archivo": "portadas/743781.jpg",
+      "url": "https://covers.openlibrary.org/b/id/743781-M.jpg?default=false",
+      "sha256": "da2687efac73a09ec4dc273307d65bec47849ad34e5da04ff90eddf0f6133c79"
+    },
+    {
+      "id": 2270593,
+      "archivo": "portadas/2270593.jpg",
+      "url": "https://covers.openlibrary.org/b/id/2270593-M.jpg?default=false",
+      "sha256": "c2aa28c59897884ed08767ae8a1e3538f9da8ad40dae181812ca31ca98175721"
+    },
+    {
+      "id": 2410871,
+      "archivo": "portadas/2410871.jpg",
+      "url": "https://covers.openlibrary.org/b/id/2410871-M.jpg?default=false",
+      "sha256": "f119f4d7a96e189c6fb803b261d166d15f56cd586a7e8f0fd3855e43e6bda6ad"
+    },
+    {
+      "id": 3325288,
+      "archivo": "portadas/3325288.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3325288-M.jpg?default=false",
+      "sha256": "ae4ec91ac8dee8deb3d8f32d037e10071089730fb669ed12acf3424f135f7ba0"
+    },
+    {
+      "id": 3327245,
+      "archivo": "portadas/3327245.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3327245-M.jpg?default=false",
+      "sha256": "63e81ea22582b363eedc6aaf58507e5f0de330b358ba9a2bbbb5b1c77965639e"
+    },
+    {
+      "id": 3327547,
+      "archivo": "portadas/3327547.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3327547-M.jpg?default=false",
+      "sha256": "adcd7d05099606c1947afbbb904146b3e1d60df85f3be2b1ff01052cdd8b4054"
+    },
+    {
+      "id": 3348052,
+      "archivo": "portadas/3348052.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3348052-M.jpg?default=false",
+      "sha256": "584cb9f728501ba15a75232ccaa34e25a5c4857ba78a9d8d7f3773a31618881e"
+    },
+    {
+      "id": 3359659,
+      "archivo": "portadas/3359659.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3359659-M.jpg?default=false",
+      "sha256": "958af6705a0a6fb6d80c51a0ee0a6f5664131a8d2fde07220079f6fc8ab650cd"
+    },
+    {
+      "id": 3868036,
+      "archivo": "portadas/3868036.jpg",
+      "url": "https://covers.openlibrary.org/b/id/3868036-M.jpg?default=false",
+      "sha256": "488e5bb19bd4d614fa1d984ad1786d38875a335bff2ec07dfc015f3bd4f88350"
+    },
+    {
+      "id": 4015266,
+      "archivo": "portadas/4015266.jpg",
+      "url": "https://covers.openlibrary.org/b/id/4015266-M.jpg?default=false",
+      "sha256": "79dab96639bd8a6e51e5b22d5fca43de41547cc02ec957277da9b2ad3c183b75"
+    },
+    {
+      "id": 5004458,
+      "archivo": "portadas/5004458.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5004458-M.jpg?default=false",
+      "sha256": "3a8f4fdef77cf40c48c431ce8cc290a79c7136f9a7b7122b6f94c88c0ac837dd"
+    },
+    {
+      "id": 5074779,
+      "archivo": "portadas/5074779.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5074779-M.jpg?default=false",
+      "sha256": "8e4c9fe50eb3779afbc6652b955e6941ebcf92a4c3c856423bcc74b777bb6e80"
+    },
+    {
+      "id": 5240241,
+      "archivo": "portadas/5240241.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5240241-M.jpg?default=false",
+      "sha256": "302ba865e59548d264cb0214481836fa16c8bf594d57bcb353cf18b31b8234bc"
+    },
+    {
+      "id": 5257048,
+      "archivo": "portadas/5257048.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5257048-M.jpg?default=false",
+      "sha256": "30e83dc4556586f5d610113d612d4249b613bff5ec591e5c7cea4b38a258dba6"
+    },
+    {
+      "id": 5263899,
+      "archivo": "portadas/5263899.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5263899-M.jpg?default=false",
+      "sha256": "a1c453b3919c0a1a47fb1ff5bda384ccd0ada20c9103d339d0460d88090dc4a4"
+    },
+    {
+      "id": 5275708,
+      "archivo": "portadas/5275708.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5275708-M.jpg?default=false",
+      "sha256": "d240d9e0d6e107573af5a34c940c9e4406536c160adb77bc3e942ee81ec522c9"
+    },
+    {
+      "id": 5277137,
+      "archivo": "portadas/5277137.jpg",
+      "url": "https://covers.openlibrary.org/b/id/5277137-M.jpg?default=false",
+      "sha256": "4cd1aa0bded4a72c5367d96105bbae5da8cb7427f9ee4c4bf38ac3bdad746865"
+    },
+    {
+      "id": 6280288,
+      "archivo": "portadas/6280288.jpg",
+      "url": "https://covers.openlibrary.org/b/id/6280288-M.jpg?default=false",
+      "sha256": "c3d8c82a107c355876567b192b834c1bf589e4df959c445c839f6b5cb066c34d"
+    },
+    {
+      "id": 6437968,
+      "archivo": "portadas/6437968.jpg",
+      "url": "https://covers.openlibrary.org/b/id/6437968-M.jpg?default=false",
+      "sha256": "43a2efb2b85839b6e52d45a0aace8886b6eadc2e0f6042d0789bd689a3b2cf31"
+    },
+    {
+      "id": 6818650,
+      "archivo": "portadas/6818650.jpg",
+      "url": "https://covers.openlibrary.org/b/id/6818650-M.jpg?default=false",
+      "sha256": "2baa67bb1b3c5b39034ff80bf8dc6d88506cc236c08e622f93b1a82b32281060"
+    },
+    {
+      "id": 7320209,
+      "archivo": "portadas/7320209.jpg",
+      "url": "https://covers.openlibrary.org/b/id/7320209-M.jpg?default=false",
+      "sha256": "b4b3cc3da67f9ef2dd6c6cc1fea11c0406d44cf7feeadc08c92b6aff660fa2bb"
+    },
+    {
+      "id": 7373904,
+      "archivo": "portadas/7373904.jpg",
+      "url": "https://covers.openlibrary.org/b/id/7373904-M.jpg?default=false",
+      "sha256": "2c52dcdb3f7ef20228b20f795f891b121bb194cefc03dc59822eb1e32833c8ef"
+    },
+    {
+      "id": 8474026,
+      "archivo": "portadas/8474026.jpg",
+      "url": "https://covers.openlibrary.org/b/id/8474026-M.jpg?default=false",
+      "sha256": "b8a576d49f8e0363daef25d806407c9c2061abb4b69bdf1bdeb3f295531f908a"
+    },
+    {
+      "id": 9258886,
+      "archivo": "portadas/9258886.jpg",
+      "url": "https://covers.openlibrary.org/b/id/9258886-M.jpg?default=false",
+      "sha256": "b6f654e847ddcc0fd8ac9d863dd296313e022f105ffb3525a1dc75d43078fd5f"
+    },
+    {
+      "id": 9321796,
+      "archivo": "portadas/9321796.jpg",
+      "url": "https://covers.openlibrary.org/b/id/9321796-M.jpg?default=false",
+      "sha256": "eec240b667e499f81ccf41fe4058a8aad78757c606c567c48ee63fa0feea79fa"
+    },
+    {
+      "id": 9489141,
+      "archivo": "portadas/9489141.jpg",
+      "url": "https://covers.openlibrary.org/b/id/9489141-M.jpg?default=false",
+      "sha256": "c8bdb78a19a6948976421c4a2a405d5836255af61aa428811fea6d3d08098934"
+    },
+    {
+      "id": 9779408,
+      "archivo": "portadas/9779408.jpg",
+      "url": "https://covers.openlibrary.org/b/id/9779408-M.jpg?default=false",
+      "sha256": "8dcfe29476e17cc9cad5495b34709c1533e5a792350bc96b660b564e5c29b8bd"
+    },
+    {
+      "id": 10281855,
+      "archivo": "portadas/10281855.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10281855-M.jpg?default=false",
+      "sha256": "c2743d5f943a0a8c276561a73478fe16b7e212c46be521a5d170a5cceb144ab9"
+    },
+    {
+      "id": 10445945,
+      "archivo": "portadas/10445945.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10445945-M.jpg?default=false",
+      "sha256": "1b14d29ba9bdaba8573c6512ea019de1e682b756f55a0d0a6a5c412b9f2acfbd"
+    },
+    {
+      "id": 10500928,
+      "archivo": "portadas/10500928.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10500928-M.jpg?default=false",
+      "sha256": "0ce6948acca894d501b72c73605183f2c84d41cef70ad99dbf8b8845e717e838"
+    },
+    {
+      "id": 10543108,
+      "archivo": "portadas/10543108.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10543108-M.jpg?default=false",
+      "sha256": "a9b7fa2891b3e99c1add66e92f5f4af1d9b31ee5c842f5232f536651e14751cb"
+    },
+    {
+      "id": 10657267,
+      "archivo": "portadas/10657267.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10657267-M.jpg?default=false",
+      "sha256": "ff3ac4868967f3a5785b94d840d015e5996696f702a9f426873a76ef82da3589"
+    },
+    {
+      "id": 10753741,
+      "archivo": "portadas/10753741.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10753741-M.jpg?default=false",
+      "sha256": "f10ba7f1158d318df6e739aeb4726160ba8f00ac66281c5e6c6c4b171143a301"
+    },
+    {
+      "id": 10817920,
+      "archivo": "portadas/10817920.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10817920-M.jpg?default=false",
+      "sha256": "a5a577d17cf10e6b41247fdb13c0c02fff7e3f54a0076c80a1d5ceeec257556d"
+    },
+    {
+      "id": 10829409,
+      "archivo": "portadas/10829409.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10829409-M.jpg?default=false",
+      "sha256": "8e490a4271a6194ea748e7fd953b7861cadcdce703acca2a9bc080cb064210c7"
+    },
+    {
+      "id": 10878860,
+      "archivo": "portadas/10878860.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10878860-M.jpg?default=false",
+      "sha256": "600bc24241223ee620bd3cc744aa3f5a6be42b25ea65a39ee8749bb137c9cef8"
+    },
+    {
+      "id": 10880056,
+      "archivo": "portadas/10880056.jpg",
+      "url": "https://covers.openlibrary.org/b/id/10880056-M.jpg?default=false",
+      "sha256": "af44cb07ffec80a9dd819970a368b57411647559558c95fa6f62f808908e2983"
+    },
+    {
+      "id": 12325079,
+      "archivo": "portadas/12325079.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12325079-M.jpg?default=false",
+      "sha256": "e8a113f01476f066b7c9b3ae1a4dd81b330e413d474ec2db96e0b3c04a5b579b"
+    },
+    {
+      "id": 12327244,
+      "archivo": "portadas/12327244.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12327244-M.jpg?default=false",
+      "sha256": "e4959961baccfd7715dd72f9fce9f4e2630a6030c959bea9413e6954c987918c"
+    },
+    {
+      "id": 12389918,
+      "archivo": "portadas/12389918.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12389918-M.jpg?default=false",
+      "sha256": "5ce3359492619fc793cf3489e6b7f93a75b7c9a194c4b99763dc4a9416900bcd"
+    },
+    {
+      "id": 12586644,
+      "archivo": "portadas/12586644.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12586644-M.jpg?default=false",
+      "sha256": "fcc73e3d73f8297af3b212ddef784fe3d642462a3fb9d50d849b99e0b8d563c9"
+    },
+    {
+      "id": 12722368,
+      "archivo": "portadas/12722368.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12722368-M.jpg?default=false",
+      "sha256": "fda5c1b602d4e14c0aee68e1fa31072c8478da02fd7bda367a143b5e25a0feaa"
+    },
+    {
+      "id": 12725082,
+      "archivo": "portadas/12725082.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12725082-M.jpg?default=false",
+      "sha256": "c993571788329bab4ef7086d8c921bb81396faa1b0c7ecf9318bd11845d54b23"
+    },
+    {
+      "id": 12943501,
+      "archivo": "portadas/12943501.jpg",
+      "url": "https://covers.openlibrary.org/b/id/12943501-M.jpg?default=false",
+      "sha256": "188fc23f578c85007d479ef00b72282b3b634a4b8e72ff1446d9c1379ef442e6"
+    },
+    {
+      "id": 13012182,
+      "archivo": "portadas/13012182.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13012182-M.jpg?default=false",
+      "sha256": "da1f85e91042ce466fa37b305f2dc2cbeda9721fd68417ce60a216672a665781"
+    },
+    {
+      "id": 13148556,
+      "archivo": "portadas/13148556.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13148556-M.jpg?default=false",
+      "sha256": "b691e0b846dcba76111223f1ea4fb79f5ee20be357bf19e1a70fa2c1da2bb916"
+    },
+    {
+      "id": 13222477,
+      "archivo": "portadas/13222477.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13222477-M.jpg?default=false",
+      "sha256": "d72f10772188a4cbceb7bfd3b4e5ccc7f987b25038914a9d3db6bc7ce6230d6f"
+    },
+    {
+      "id": 13268724,
+      "archivo": "portadas/13268724.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13268724-M.jpg?default=false",
+      "sha256": "dbc2c644d47e47803fa7d01c3715a15b3a579a253bba314bfb94c70b7fc6976a"
+    },
+    {
+      "id": 13311188,
+      "archivo": "portadas/13311188.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13311188-M.jpg?default=false",
+      "sha256": "7c3b9427dddcbe5f7b574fd70c4db6019d6aaecc828dbd4a14b067c0bf8b549e"
+    },
+    {
+      "id": 13473407,
+      "archivo": "portadas/13473407.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13473407-M.jpg?default=false",
+      "sha256": "e6ddcb576f6978c31d2c43cbac7d158410c837f8b867a6c512f25c14ce2ab75a"
+    },
+    {
+      "id": 13783510,
+      "archivo": "portadas/13783510.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13783510-M.jpg?default=false",
+      "sha256": "24e3eb114b2b1a278ce8af873581dc02b018bf9e4f1847b408019abc2f09a965"
+    },
+    {
+      "id": 13862994,
+      "archivo": "portadas/13862994.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13862994-M.jpg?default=false",
+      "sha256": "ad9ea2fdffa7e36e6b7965b6f55e1c679a186796e51f4d37ec563dab57f6d28b"
+    },
+    {
+      "id": 13941263,
+      "archivo": "portadas/13941263.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13941263-M.jpg?default=false",
+      "sha256": "4d4573a30a8db7d7a0182aba579e9a2b6cae3eb1c1fe65ad2f50039c99ca2a19"
+    },
+    {
+      "id": 13984773,
+      "archivo": "portadas/13984773.jpg",
+      "url": "https://covers.openlibrary.org/b/id/13984773-M.jpg?default=false",
+      "sha256": "da923b52d05eda7149b2a037fd755bc12ede2e4d81b5a2a498f3da8eb3317c95"
+    },
+    {
+      "id": 14042107,
+      "archivo": "portadas/14042107.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14042107-M.jpg?default=false",
+      "sha256": "e8949bab935f22246aa0d993b0348770b2ecbbaf23ff2281a78b715290f44b2b"
+    },
+    {
+      "id": 14119104,
+      "archivo": "portadas/14119104.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14119104-M.jpg?default=false",
+      "sha256": "460bbc206ad87b5534857c4f547aacfb509e686be992098861bb52474cbe2394"
+    },
+    {
+      "id": 14212156,
+      "archivo": "portadas/14212156.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14212156-M.jpg?default=false",
+      "sha256": "30485a8bc0c94e2257bb643001a9eb741f61c2b82d0be11892645958fd08a6dc"
+    },
+    {
+      "id": 14286609,
+      "archivo": "portadas/14286609.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14286609-M.jpg?default=false",
+      "sha256": "cca6e8071d8fc9775ff6158038495b07f3fdbe57965b6bc8c4b7f2c4c0b12c56"
+    },
+    {
+      "id": 14393971,
+      "archivo": "portadas/14393971.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14393971-M.jpg?default=false",
+      "sha256": "7c9a82fad0a136b4f2c6506b8ef14143494c01f1b92910f2de68c7b0d578da46"
+    },
+    {
+      "id": 14425257,
+      "archivo": "portadas/14425257.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14425257-M.jpg?default=false",
+      "sha256": "e4a65542c3c75c3ff499299d517a84988f07bf9b749ed24ab6ba99a02b9839e0"
+    },
+    {
+      "id": 14431979,
+      "archivo": "portadas/14431979.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14431979-M.jpg?default=false",
+      "sha256": "0d98f7113c758ed1ee3aeb4a2b52aedeb6fd32fb24044ac241fc012e6b622b50"
+    },
+    {
+      "id": 14569170,
+      "archivo": "portadas/14569170.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14569170-M.jpg?default=false",
+      "sha256": "e82a458cb51bd4a10dbb39b2b8a2bf3dfa2bde39ab8c1e305b7b6c3bf46f9ca3"
+    },
+    {
+      "id": 14575935,
+      "archivo": "portadas/14575935.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14575935-M.jpg?default=false",
+      "sha256": "bf9cb4350682e1ddb20a2f384bd3b7e88892e6f257785f9e718156890c4df300"
+    },
+    {
+      "id": 14649237,
+      "archivo": "portadas/14649237.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14649237-M.jpg?default=false",
+      "sha256": "e553cadbe255606158fa83b2bfa199d8ae4c46214ec74ca603ee554c7f9cdf48"
+    },
+    {
+      "id": 14652794,
+      "archivo": "portadas/14652794.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14652794-M.jpg?default=false",
+      "sha256": "f7d8b9345c1dec6ee4fca1c6e209cb29c1568e97f241b7f51aca7d8b7020fd5d"
+    },
+    {
+      "id": 14658409,
+      "archivo": "portadas/14658409.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14658409-M.jpg?default=false",
+      "sha256": "d2a0ec71ee295541c2a594495ce59b05eae4f33814b8d00d96daef7bf27a1302"
+    },
+    {
+      "id": 14658419,
+      "archivo": "portadas/14658419.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14658419-M.jpg?default=false",
+      "sha256": "87c00e9168b5fb187fec79b8a498aa74399f45edbe255782a5556656888f98dc"
+    },
+    {
+      "id": 14831764,
+      "archivo": "portadas/14831764.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14831764-M.jpg?default=false",
+      "sha256": "801c527367d111aa0a55d83690314dd7b99a8195ad0a50199dc099d91401bf2a"
+    },
+    {
+      "id": 14835861,
+      "archivo": "portadas/14835861.jpg",
+      "url": "https://covers.openlibrary.org/b/id/14835861-M.jpg?default=false",
+      "sha256": "ea188e3b6f6a64e8c468479f8900d13ff11be92c9e328777a7ad1e6c2610acba"
+    },
+    {
+      "id": 15084044,
+      "archivo": "portadas/15084044.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15084044-M.jpg?default=false",
+      "sha256": "dbf4267b91b55e82539dd7c655d91453a3e895b555ef8fe40b019859b470b4b9"
+    },
+    {
+      "id": 15084045,
+      "archivo": "portadas/15084045.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15084045-M.jpg?default=false",
+      "sha256": "f0ca39bd1088ced0af8256ba2cca1fa78a0727fa876a10dde1945072ef749ef2"
+    },
+    {
+      "id": 15089633,
+      "archivo": "portadas/15089633.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15089633-M.jpg?default=false",
+      "sha256": "edd67094a520a59760e7e3aa677705f4e700e3084661ecba52a3d05788eeddbf"
+    },
+    {
+      "id": 15096091,
+      "archivo": "portadas/15096091.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15096091-M.jpg?default=false",
+      "sha256": "3fce4f0ce33673f00a90e6af4caff01987e2e37094438786b2a0f29918418e82"
+    },
+    {
+      "id": 15102331,
+      "archivo": "portadas/15102331.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15102331-M.jpg?default=false",
+      "sha256": "b15e2201d6645348c1ab17945738b5e312d1000c284e8204190e0878defbc974"
+    },
+    {
+      "id": 15106964,
+      "archivo": "portadas/15106964.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15106964-M.jpg?default=false",
+      "sha256": "7aaa319b6763978db6753431d57f4e55092b314c916c457429e636d4e3631555"
+    },
+    {
+      "id": 15131939,
+      "archivo": "portadas/15131939.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15131939-M.jpg?default=false",
+      "sha256": "69b64b1b9d5cd181ffedb208b3a782690a8b0fa371907912222ba6c288749706"
+    },
+    {
+      "id": 15145687,
+      "archivo": "portadas/15145687.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15145687-M.jpg?default=false",
+      "sha256": "c29a1bfb0b2037bb5eae61f3e3dc1c2aef3ca3a0bf5980818ecd134d9005ae79"
+    },
+    {
+      "id": 15158217,
+      "archivo": "portadas/15158217.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15158217-M.jpg?default=false",
+      "sha256": "d3a939d9b71c61d9a3caeb1c4e740d535dff23ce156f1c0315e223bca5aa4724"
+    },
+    {
+      "id": 15169513,
+      "archivo": "portadas/15169513.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15169513-M.jpg?default=false",
+      "sha256": "f221f3653420f69bdc3153d536c31537b77606a6c54f8f2d18c5e6b1eea2c6d3"
+    },
+    {
+      "id": 15209091,
+      "archivo": "portadas/15209091.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15209091-M.jpg?default=false",
+      "sha256": "ea3ff2a69e75f47a89f971222062f14c522a6c6ebde21c49ef3889d840fbed86"
+    },
+    {
+      "id": 15214203,
+      "archivo": "portadas/15214203.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15214203-M.jpg?default=false",
+      "sha256": "b8b6f5d507e8b2f5fad52fd33ae1e18a6630324d839695a02a9708d1ce272af6"
+    },
+    {
+      "id": 15241888,
+      "archivo": "portadas/15241888.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15241888-M.jpg?default=false",
+      "sha256": "92dfb2a19024351b1ffff973600f6bd4ea0773f962587ef6086bf41a41e132ca"
+    },
+    {
+      "id": 15241978,
+      "archivo": "portadas/15241978.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15241978-M.jpg?default=false",
+      "sha256": "4b49380a6bcfe348add36f1573a511e9c42ca00a51e0f3070187e9dfe3612e1c"
+    },
+    {
+      "id": 15255526,
+      "archivo": "portadas/15255526.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15255526-M.jpg?default=false",
+      "sha256": "c86f5bcdaeb233beea9cbd172e0f539a9b85a9157724bcb35dfdd2e1b0794372"
+    },
+    {
+      "id": 15255545,
+      "archivo": "portadas/15255545.jpg",
+      "url": "https://covers.openlibrary.org/b/id/15255545-M.jpg?default=false",
+      "sha256": "5d627339a09ce346c373ee5fa0ae9cb4d812fae2492a13e65f35f7593a8beb54"
+    }
+  ],
+  "portadas_no_disponibles": [],
+  "excluidas_antes_de_completar": [
+    {
+      "obra_id": "OL5738154W",
+      "edicion_id": "OL29292017M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL27495W",
+      "edicion_id": "OL47181063M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "El registro de obra incluye a Christopher Tolkien; revisar el rol de editor frente a autor antes de representarlo sin roles."
+    },
+    {
+      "obra_id": "OL27310398W",
+      "edicion_id": "OL46535310M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_breve_revisar",
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL453697W",
+      "edicion_id": "OL22051565M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Ray Friesen aparece junto a Terry Pratchett; revisar ilustración/adaptación frente a autoría de la obra."
+    },
+    {
+      "obra_id": "OL2577482W",
+      "edicion_id": "OL25838520M",
+      "estado": "RECHAZADA",
+      "alertas": [
+        "isbn_invalidos_en_fuente"
+      ]
+    },
+    {
+      "obra_id": "OL20650912W",
+      "edicion_id": "OL61534509M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Casa de tierra y sange: aparente errata. No corregir sin registrar evidencia y motivo."
+    },
+    {
+      "obra_id": "OL453658W",
+      "edicion_id": "OL9144662M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_breve_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL17802920W",
+      "edicion_id": "OL26975613M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL15645808W",
+      "edicion_id": "OL48324098M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL21433W",
+      "edicion_id": "OL8182461M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Sons of Encouragement - The Priest en una edición marcada spa; verificar el idioma/título de esta edición."
+    },
+    {
+      "obra_id": "OL17778665W",
+      "edicion_id": "OL33968812M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Luis Murillo Fort figura con David Grann; revisar el rol de traductor frente a autor de la obra."
+    },
+    {
+      "obra_id": "OL818123W",
+      "edicion_id": "OL7543199M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Kristy's Big Day - 6 en una edición marcada spa; revisar título e idioma de la edición."
+    },
+    {
+      "obra_id": "OL14959247W",
+      "edicion_id": "OL13187453M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "muchos_autores_revisar_creditos"
+      ]
+    },
+    {
+      "obra_id": "OL1285005W",
+      "edicion_id": "OL578919M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "isbn_multiples_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL15024341W",
+      "edicion_id": "OL9713072M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Obra con tres personas acreditadas: revisar posibles créditos de ilustración/traducción."
+    },
+    {
+      "obra_id": "OL12393W",
+      "edicion_id": "OL7542295M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Freeze Tag en edición marcada spa; revisar título e idioma de la edición."
+    },
+    {
+      "obra_id": "OL798419W",
+      "edicion_id": "OL30529644M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título La plaça del diamant y metadatos spa: revisar si corresponde a traducción española o edición catalana."
+    },
+    {
+      "obra_id": "OL1884862W",
+      "edicion_id": "OL3670355M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "edicion_multilingue_revisar",
+        "isbn_multiples_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL8552918W",
+      "edicion_id": "OL13364539M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Heavier than Heaven: revisar la edición española y su título completo."
+    },
+    {
+      "obra_id": "OL50450W",
+      "edicion_id": "OL9128842M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_breve_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL10263W",
+      "edicion_id": "OL22007893M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "edicion_multilingue_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL17104741W",
+      "edicion_id": "OL25720656M",
+      "estado": "RECHAZADA",
+      "alertas": [
+        "isbn_invalidos_en_fuente"
+      ]
+    },
+    {
+      "obra_id": "OL72309W",
+      "edicion_id": "OL9841442M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título My Hairiest Adventure - 24 en edición marcada spa; revisar idioma y título."
+    },
+    {
+      "obra_id": "OL50567W",
+      "edicion_id": "OL22930800M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "isbn_multiples_revisar",
+        "titulo_breve_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL629052W",
+      "edicion_id": "OL37823049M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Manifiesto Communista: aparente errata. Reservar para revisión con evidencia."
+    },
+    {
+      "obra_id": "OL6036830W",
+      "edicion_id": "OL27136330M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "isbn_multiples_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL21693701W",
+      "edicion_id": "OL36103217M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Título Futureroof: aparente errata respecto al título de obra. Reservar para revisión."
+    },
+    {
+      "obra_id": "OL1943602W",
+      "edicion_id": "OL27226206M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Born to run mezcla Bruce Springsteen y Michael Morpurgo como autores; revisar identidad de obra y edición."
+    },
+    {
+      "obra_id": "OL16002468W",
+      "edicion_id": "OL27141369M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL46904W",
+      "edicion_id": "OL26783591M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_breve_revisar"
+      ]
+    },
+    {
+      "obra_id": "OL17095301W",
+      "edicion_id": "OL34404482M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    },
+    {
+      "obra_id": "OL4217057W",
+      "edicion_id": "OL57725438M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Dos identidades de autor con el mismo nombre Julie Campbell; revisar duplicación frente a homonimia."
+    },
+    {
+      "obra_id": "OL12628272W",
+      "edicion_id": "OL23944207M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Dos identidades de autor con el mismo nombre Gerald Martin; revisar duplicación frente a homonimia."
+    },
+    {
+      "obra_id": "OL108288W",
+      "edicion_id": "OL22899901M",
+      "estado": "REVISION_BIBLIOGRAFICA",
+      "motivo": "Cronopaisaje incluye Gregory Benford, Pete Bradbury y Simon Prebble; verificar posibles créditos de narración frente a autoría."
+    },
+    {
+      "obra_id": "OL27729743W",
+      "edicion_id": "OL48293412M",
+      "estado": "ENRIQUECIDA",
+      "alertas": [
+        "titulo_y_titulo_completo_difieren"
+      ]
+    }
+  ]
+}

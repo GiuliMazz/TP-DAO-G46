@@ -1,0 +1,41 @@
+digraph Catalogo {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.38 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.82 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Obra [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Obra</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- idOpenLibrary: str {unique}<BR ALIGN="LEFT"/>- tituloOriginal: str<BR ALIGN="LEFT"/>- descripcionOriginal: str?<BR ALIGN="LEFT"/>- anioPrimeraPublicacion: int?<BR ALIGN="LEFT"/>- tipoMaterial: TipoMaterial<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ tituloPresentacion(): str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Edicion [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Edicion</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- idOpenLibrary: str {unique}<BR ALIGN="LEFT"/>- titulo: str<BR ALIGN="LEFT"/>- idioma: str<BR ALIGN="LEFT"/>- isbn13: str?; isbn10: str?<BR ALIGN="LEFT"/>- editorial: str?<BR ALIGN="LEFT"/>- anioPublicacion: int?<BR ALIGN="LEFT"/>- paginas: int?<BR ALIGN="LEFT"/>- portadaEdicionId: int?<BR ALIGN="LEFT"/>- descripcionEs: str?<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Autor [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Autor</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- idOpenLibrary: str {unique}?<BR ALIGN="LEFT"/>- nombre: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Genero [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Genero</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- nombre: str {unique}<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Etiqueta [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Etiqueta</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- nombre: str {unique}<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ObraGenero [label=<<TABLE BORDER="1" COLOR="#664983" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#f5f0fb">
+    <TR><TD BGCOLOR="#664983" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ObraGenero</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#f5f0fb"><FONT FACE="DejaVu Sans" COLOR="#405a70" POINT-SIZE="9"><I>asociacion con atributos</I></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- estadoClasificacion: EstadoClasificacion<BR ALIGN="LEFT"/>- origenAsignacion: str<BR ALIGN="LEFT"/>- fechaRevision: datetime?<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ObraEtiqueta [label=<<TABLE BORDER="1" COLOR="#664983" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#f5f0fb">
+    <TR><TD BGCOLOR="#664983" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ObraEtiqueta</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#f5f0fb"><FONT FACE="DejaVu Sans" COLOR="#405a70" POINT-SIZE="9"><I>asociacion con atributos</I></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- estadoClasificacion: EstadoClasificacion<BR ALIGN="LEFT"/>- origenAsignacion: str<BR ALIGN="LEFT"/>- fechaRevision: datetime?<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Ejemplar [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Ejemplar</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- codigoInventario: str {unique}<BR ALIGN="LEFT"/>- estadoOperativo: EstadoEjemplar<BR ALIGN="LEFT"/>- estadoFisico: EstadoFisico<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ estaDisponible(): bool<BR ALIGN="LEFT"/>+ registrarUbicacion(sede: Sede?)<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Sede [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Sede</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- nombre: str<BR ALIGN="LEFT"/>- direccion: str<BR ALIGN="LEFT"/>- contacto: str<BR ALIGN="LEFT"/>- horarios: str<BR ALIGN="LEFT"/>- activa: bool<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ estaActiva(): bool<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Obra -> Edicion [label=posee headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Obra -> Autor [label="escrita por" headlabel="1..*" labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Obra -> ObraGenero [label=clasificacion headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	ObraGenero -> Genero [label=genero headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Obra -> ObraEtiqueta [label=etiquetado headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	ObraEtiqueta -> Etiqueta [label=etiqueta headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Edicion -> Ejemplar [label="copias fisicas" headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Ejemplar -> Sede [label=propietaria headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Ejemplar -> Sede [label="ubicacion actual" color="#966a86" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+}

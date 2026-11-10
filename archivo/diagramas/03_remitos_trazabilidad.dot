@@ -1,0 +1,37 @@
+digraph Logistica {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.45 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.82 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Sede [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Sede</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- nombre: str<BR ALIGN="LEFT"/>- activa: bool<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Remito [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Remito</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- numero: str {unique}<BR ALIGN="LEFT"/>- fechaCreacion: datetime<BR ALIGN="LEFT"/>- tipo: TipoRemito<BR ALIGN="LEFT"/>- estado: CodigoEstadoRemito<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ empaquetar(); despachar()<BR ALIGN="LEFT"/>+ registrarTransito()<BR ALIGN="LEFT"/>+ recibir(); cancelar()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	DetalleRemito [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>DetalleRemito</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- estadoItem: EstadoItemRemito<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ registrarResultadoRecepcion()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Ejemplar [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Ejemplar</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- codigoInventario: str<BR ALIGN="LEFT"/>- estadoOperativo: EstadoEjemplar<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	SolicitudPrestamo [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>SolicitudPrestamo</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- tipo: TipoSolicitud<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Prestamo [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Prestamo</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaEntrega: datetime<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	EventoRemito [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>EventoRemito</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaHora: datetime<BR ALIGN="LEFT"/>- estadoAnterior: CodigoEstadoRemito?<BR ALIGN="LEFT"/>- estadoNuevo: CodigoEstadoRemito<BR ALIGN="LEFT"/>- observacion: str?<BR ALIGN="LEFT"/>- operadorId: UUID?<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	RevisionRecepcion [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>RevisionRecepcion</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaHora: datetime<BR ALIGN="LEFT"/>- resultado: ResultadoRevision<BR ALIGN="LEFT"/>- observaciones: str?<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ registrarIncidencia()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Remito -> Sede [label="sede origen" headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Remito -> Sede [label="sede destino" color="#966a86" headlabel=1 labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+	Remito -> DetalleRemito [label=contiene arrowhead=none arrowtail=diamond dir=both headlabel="1..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	DetalleRemito -> Ejemplar [label=transporta headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	DetalleRemito -> SolicitudPrestamo [label="IDA: solicitud" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+	DetalleRemito -> Prestamo [label="RETORNO: prestamo" color="#966a86" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+	Remito -> EventoRemito [label=historial arrowhead=none arrowtail=diamond dir=both headlabel="1..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	DetalleRemito -> RevisionRecepcion [label="inspeccion final" arrowhead=none arrowtail=diamond dir=both headlabel="0..1" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+}

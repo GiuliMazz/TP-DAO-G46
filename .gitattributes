@@ -1,0 +1,16 @@
+# Texto portable; no transformar las capturas bibliográficas verificadas por SHA.
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.sql text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.js text eol=lf
+*.txt text eol=lf
+/datos/catalogo_local/** -text
+/datos/openlibrary/*.json -text
+*.jpg binary
+*.png binary
+*.pdf binary
+*.docx binary

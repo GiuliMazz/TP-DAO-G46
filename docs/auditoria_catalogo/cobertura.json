@@ -1,0 +1,648 @@
+{
+  "obras": 100,
+  "tipos": {
+    "GENERO": {
+      "APROBADO": 53,
+      "PROPUESTO": 19,
+      "RECHAZADO": 0,
+      "sin_aprobadas": 47
+    },
+    "ETIQUETA": {
+      "APROBADO": 26,
+      "PROPUESTO": 0,
+      "RECHAZADO": 0,
+      "sin_aprobadas": 74
+    },
+    "PUBLICO": {
+      "APROBADO": 16,
+      "PROPUESTO": 13,
+      "RECHAZADO": 0,
+      "sin_aprobadas": 84
+    }
+  },
+  "terminos": [
+    {
+      "tipo": "ETIQUETA",
+      "nombre": "Amistad",
+      "estado": "APROBADO",
+      "obras": 4
+    },
+    {
+      "tipo": "ETIQUETA",
+      "nombre": "Ciencia",
+      "estado": "APROBADO",
+      "obras": 6
+    },
+    {
+      "tipo": "ETIQUETA",
+      "nombre": "Dragones",
+      "estado": "APROBADO",
+      "obras": 7
+    },
+    {
+      "tipo": "ETIQUETA",
+      "nombre": "Magia",
+      "estado": "APROBADO",
+      "obras": 10
+    },
+    {
+      "tipo": "ETIQUETA",
+      "nombre": "Tecnología",
+      "estado": "APROBADO",
+      "obras": 5
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Ciencia ficción",
+      "estado": "APROBADO",
+      "obras": 6
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Ciencia ficción",
+      "estado": "PROPUESTO",
+      "obras": 8
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Fantasía",
+      "estado": "APROBADO",
+      "obras": 27
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Fantasía",
+      "estado": "PROPUESTO",
+      "obras": 5
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Novela histórica",
+      "estado": "APROBADO",
+      "obras": 7
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Novela histórica",
+      "estado": "PROPUESTO",
+      "obras": 4
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Policial",
+      "estado": "APROBADO",
+      "obras": 7
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Policial",
+      "estado": "PROPUESTO",
+      "obras": 2
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Romance",
+      "estado": "APROBADO",
+      "obras": 9
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Romance",
+      "estado": "PROPUESTO",
+      "obras": 2
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Terror",
+      "estado": "APROBADO",
+      "obras": 6
+    },
+    {
+      "tipo": "GENERO",
+      "nombre": "Terror",
+      "estado": "PROPUESTO",
+      "obras": 2
+    },
+    {
+      "tipo": "PUBLICO",
+      "nombre": "Infantil",
+      "estado": "APROBADO",
+      "obras": 16
+    },
+    {
+      "tipo": "PUBLICO",
+      "nombre": "Juvenil",
+      "estado": "APROBADO",
+      "obras": 4
+    },
+    {
+      "tipo": "PUBLICO",
+      "nombre": "Juvenil",
+      "estado": "PROPUESTO",
+      "obras": 13
+    }
+  ],
+  "muestra": [
+    {
+      "id": "b90381dc-825d-42d5-8d11-a41dc8884f31",
+      "obra_ol": "OL7924103W",
+      "titulo_original": "The Eye of the World",
+      "titulo": "La Rueda del Tiempo. El Ojo del Mundo",
+      "edicion_ol": "OL47660205M",
+      "isbn_10": "8445011979",
+      "isbn_13": "9788445011973",
+      "editorial": "Booket",
+      "anio_publicacion": null,
+      "portada_edicion_id": 14286609,
+      "autores": "Robert Jordan",
+      "evidencia": "Search + edición + Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Ciencia ficción",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Fantasía",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Infantil",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "742ed715-c11f-4e16-9a90-bd115c0fe1ce",
+      "obra_ol": "OL27482W",
+      "titulo_original": "The Hobbit",
+      "titulo": "El Hobbit",
+      "edicion_ol": "OL13268284M",
+      "isbn_10": "8445074857",
+      "isbn_13": "9788445074855",
+      "editorial": "Minotauro",
+      "anio_publicacion": 2013,
+      "portada_edicion_id": 14831764,
+      "autores": "J.R.R. Tolkien",
+      "evidencia": "Search + edición + Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Dragones",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Magia",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Fantasía",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Infantil",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Juvenil",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "4e9f3942-f535-49e4-aa47-ccfa9c67f4cf",
+      "obra_ol": "OL453936W",
+      "titulo_original": "Good Omens",
+      "titulo": "Buenos Presagios",
+      "edicion_ol": "OL27102136M",
+      "isbn_10": "8479048778",
+      "isbn_13": "9788479048778",
+      "editorial": "Norma Editorial",
+      "anio_publicacion": 2002,
+      "portada_edicion_id": 14649237,
+      "autores": "Terry Pratchett; Neil Gaiman",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Fantasía",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "e6d262df-5267-491a-9f94-0b17e3b7ffc5",
+      "obra_ol": "OL46241W",
+      "titulo_original": "I, Robot",
+      "titulo": "Yo, Robot",
+      "edicion_ol": "OL9129665M",
+      "isbn_10": "8435015742",
+      "isbn_13": "9788435015745",
+      "editorial": "Edhasa",
+      "anio_publicacion": null,
+      "portada_edicion_id": 15131939,
+      "autores": "Isaac Asimov",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Ciencia ficción",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Infantil",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "a4d409df-cc47-4250-956b-e9ca2a9de4cd",
+      "obra_ol": "OL17077942W",
+      "titulo_original": "Horrorstör",
+      "titulo": "Horrorstör",
+      "edicion_ol": "OL37065885M",
+      "isbn_10": "8415709757",
+      "isbn_13": "9788415709756",
+      "editorial": "Editorial Hidra",
+      "anio_publicacion": 2014,
+      "portada_edicion_id": 15158217,
+      "autores": "Grady Hendrix",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Terror",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "05facdec-6747-44ea-8f6c-dd7a834aa03b",
+      "obra_ol": "OL471891W",
+      "titulo_original": "Crooked House",
+      "titulo": "La casa torcida",
+      "edicion_ol": "OL9142153M",
+      "isbn_10": "8478713131",
+      "isbn_13": "9788478713134",
+      "editorial": "RBA",
+      "anio_publicacion": 2005,
+      "portada_edicion_id": 14575935,
+      "autores": "Agatha Christie",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Policial",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Juvenil",
+          "estado": "PROPUESTO"
+        }
+      ]
+    },
+    {
+      "id": "c4336fac-c05a-42db-bc40-892f56ae6666",
+      "obra_ol": "OL1914079W",
+      "titulo_original": "World Without End",
+      "titulo": "Un mundo sin fin",
+      "edicion_ol": "OL23125290M",
+      "isbn_10": "0307392252",
+      "isbn_13": "9780307392251",
+      "editorial": "Random House Mondadori",
+      "anio_publicacion": 2008,
+      "portada_edicion_id": 12389918,
+      "autores": "Ken Follett",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Novela histórica",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "722f5b47-455b-4d8c-8f81-db8f87ec764c",
+      "obra_ol": "OL19977306W",
+      "titulo_original": "Maybe someday",
+      "titulo": "Tal vez mañana",
+      "edicion_ol": "OL27904706M",
+      "isbn_10": null,
+      "isbn_13": "9788408150275",
+      "editorial": "Planeta",
+      "anio_publicacion": 2017,
+      "portada_edicion_id": 9258886,
+      "autores": "Colleen Hoover",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Amistad",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Romance",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "1afa2dce-0295-4231-865f-595933442b09",
+      "obra_ol": "OL492658W",
+      "titulo_original": "The Lightning Thief",
+      "titulo": "El ladrón del rayo",
+      "edicion_ol": "OL25440625M",
+      "isbn_10": null,
+      "isbn_13": "9788498382365",
+      "editorial": "Salamandra",
+      "anio_publicacion": 2009,
+      "portada_edicion_id": 13012182,
+      "autores": "Rick Riordan",
+      "evidencia": "Search + edición + Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Amistad",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Fantasía",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Infantil",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Juvenil",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "7a1b15e2-2d72-4fa9-aabe-56430e904a46",
+      "obra_ol": "OL69612W",
+      "titulo_original": "The Secret Garden",
+      "titulo": "El jardín secreto",
+      "edicion_ol": "OL799594M",
+      "isbn_10": "0486291995",
+      "isbn_13": null,
+      "editorial": "Dover Publications",
+      "anio_publicacion": 1996,
+      "portada_edicion_id": 312004,
+      "autores": "Frances Hodgson Burnett",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Amistad",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Fantasía",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "GENERO",
+          "nombre": "Policial",
+          "estado": "PROPUESTO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Infantil",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Juvenil",
+          "estado": "PROPUESTO"
+        }
+      ]
+    },
+    {
+      "id": "385fe982-a7f8-45c8-8047-2ffac8dd68a8",
+      "obra_ol": "OL503666W",
+      "titulo_original": "Don Quijote de la Mancha",
+      "titulo": "El ingenioso hidalgo Don Quijote de la Mancha",
+      "edicion_ol": "OL24343614M",
+      "isbn_10": null,
+      "isbn_13": null,
+      "editorial": "Ramón Sopena",
+      "anio_publicacion": 1900,
+      "portada_edicion_id": 14569170,
+      "autores": "Miguel de Cervantes Saavedra",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Romance",
+          "estado": "PROPUESTO"
+        }
+      ]
+    },
+    {
+      "id": "c3c9ff4d-3722-4a89-b318-949d2d6d09a1",
+      "obra_ol": "OL17610507W",
+      "titulo_original": "Death's End (The Three-Body Problem Series Book 3)",
+      "titulo": "Fin de la Muerte / Death's End",
+      "edicion_ol": "OL50708990M",
+      "isbn_10": "8413146461",
+      "isbn_13": "9788413146461",
+      "editorial": "Ediciones B Mexico",
+      "anio_publicacion": 2024,
+      "portada_edicion_id": 15106964,
+      "autores": "刘慈欣",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "GENERO",
+          "nombre": "Ciencia ficción",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "8740fc03-8569-415b-97b1-c095bb1c366d",
+      "obra_ol": "OL149155W",
+      "titulo_original": "Riding the Bullet",
+      "titulo": "Riding the Bullet",
+      "edicion_ol": "OL9893797M",
+      "isbn_10": "8484504883",
+      "isbn_13": "9788484504887",
+      "editorial": "Debolsillo",
+      "anio_publicacion": null,
+      "portada_edicion_id": 14652794,
+      "autores": "Stephen King",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": []
+    },
+    {
+      "id": "95e9d3f1-92a8-4481-9afd-2899edd22cd5",
+      "obra_ol": "OL1835957W",
+      "titulo_original": "Fun Home",
+      "titulo": "Fun Home",
+      "edicion_ol": "OL23124669M",
+      "isbn_10": "8439721048",
+      "isbn_13": "9788439721048",
+      "editorial": "Random House Mondadori",
+      "anio_publicacion": null,
+      "portada_edicion_id": 6280288,
+      "autores": "Alison Bechdel",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": []
+    },
+    {
+      "id": "214d2c50-21b4-4b66-b560-f3f8d2c0d815",
+      "obra_ol": "OL16814568W",
+      "titulo_original": "Le capital au XXIe siècle",
+      "titulo": "El capital en el siglo XXI",
+      "edicion_ol": "OL25649859M",
+      "isbn_10": null,
+      "isbn_13": "9788437507231",
+      "editorial": "Fondo de Cultura Económica",
+      "anio_publicacion": 2014,
+      "portada_edicion_id": 7320209,
+      "autores": "Thomas Piketty",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": []
+    },
+    {
+      "id": "e0feb9e1-5388-4502-be82-8f99399c30c0",
+      "obra_ol": "OL2950913W",
+      "titulo_original": "Broca's Brain",
+      "titulo": "El Cerebro de Broca",
+      "edicion_ol": "OL9174418M",
+      "isbn_10": "968419420X",
+      "isbn_13": "9789684194205",
+      "editorial": "Editorial Grijalbo, S.A. de C.V.",
+      "anio_publicacion": 2004,
+      "portada_edicion_id": 9779408,
+      "autores": "Carl Sagan",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Ciencia",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "6a45b4e8-13b8-49f1-bbce-b2b2ea472817",
+      "obra_ol": "OL1717271W",
+      "titulo_original": "Incredible Cross Sections",
+      "titulo": "El asombroso libro del interior de las cosas",
+      "edicion_ol": "OL22946104M",
+      "isbn_10": "8437245249",
+      "isbn_13": null,
+      "editorial": "Altea",
+      "anio_publicacion": 1992,
+      "portada_edicion_id": 14393971,
+      "autores": "Richard Platt",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": true,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Ciencia",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Tecnología",
+          "estado": "APROBADO"
+        },
+        {
+          "tipo": "PUBLICO",
+          "nombre": "Juvenil",
+          "estado": "PROPUESTO"
+        }
+      ]
+    },
+    {
+      "id": "aca43c02-6707-4600-9419-039e3f01f2ea",
+      "obra_ol": "OL8453734W",
+      "titulo_original": "Between a Rock and a Hard Place",
+      "titulo": "127 horas",
+      "edicion_ol": "OL27158475M",
+      "isbn_10": "8493795437",
+      "isbn_13": "9788493795436",
+      "editorial": "Indicios",
+      "anio_publicacion": 2011,
+      "portada_edicion_id": null,
+      "autores": "Aron Ralston",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": false,
+      "clasificaciones": []
+    },
+    {
+      "id": "1c1599d4-b213-46e8-b32c-38f5087c3001",
+      "obra_ol": "OL63215W",
+      "titulo_original": "General chemistry",
+      "titulo": "Química general",
+      "edicion_ol": "OL15447926M",
+      "isbn_10": null,
+      "isbn_13": null,
+      "editorial": "Aguilar",
+      "anio_publicacion": 1949,
+      "portada_edicion_id": null,
+      "autores": "Linus Pauling",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": false,
+      "clasificaciones": [
+        {
+          "tipo": "ETIQUETA",
+          "nombre": "Ciencia",
+          "estado": "APROBADO"
+        }
+      ]
+    },
+    {
+      "id": "b9bc06d4-8800-4d3f-b527-2038b4c149b6",
+      "obra_ol": "OL39560W",
+      "titulo_original": "Moments of being",
+      "titulo": "Momentos de vida",
+      "edicion_ol": "OL20348265M",
+      "isbn_10": "8426411363",
+      "isbn_13": null,
+      "editorial": "Editorial Lumen",
+      "anio_publicacion": 1980,
+      "portada_edicion_id": null,
+      "autores": "Virginia Woolf",
+      "evidencia": "Search + edición; sin detalle Works",
+      "portada_local": false,
+      "clasificaciones": []
+    }
+  ],
+  "generado_utc": "2026-11-04T12:04:22.135599+00:00"
+}

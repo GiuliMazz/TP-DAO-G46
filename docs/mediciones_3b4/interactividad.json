@@ -1,0 +1,11 @@
+{
+  "respuesta": {
+    "cambio_tema_ms": 178.5300000011921,
+    "indicador_carga_al_cambiar_tema": true
+  },
+  "obsoleta": {
+    "resultado_final": "Libro sintético 001234",
+    "consulta_reemplazada": "sintético",
+    "texto_final": "Original sintético 001234"
+  }
+}

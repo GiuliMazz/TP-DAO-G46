@@ -1,0 +1,100 @@
+{
+  "muestras_cliente": 35,
+  "calentamientos_excluidos": 8,
+  "escenarios": [
+    {
+      "escenario": "titulo_original",
+      "muestras": 3,
+      "backend_mediana_ms": 109.238359,
+      "cliente_semantica_mediana_ms": 826.8449999988079,
+      "cliente_captura_mediana_ms": 892.6300000026822,
+      "cliente_captura_maximo_ms": 895.2700000032783
+    },
+    {
+      "escenario": "titulo_edicion",
+      "muestras": 3,
+      "backend_mediana_ms": 104.313009,
+      "cliente_semantica_mediana_ms": 823.7199999988079,
+      "cliente_captura_mediana_ms": 886.1349999979138,
+      "cliente_captura_maximo_ms": 892.929999999702
+    },
+    {
+      "escenario": "titulo_alternativo",
+      "muestras": 3,
+      "backend_mediana_ms": 107.004719,
+      "cliente_semantica_mediana_ms": 828.890000000596,
+      "cliente_captura_mediana_ms": 900.1750000044703,
+      "cliente_captura_maximo_ms": 913.3000000044703
+    },
+    {
+      "escenario": "autor",
+      "muestras": 3,
+      "backend_mediana_ms": 121.343868,
+      "cliente_semantica_mediana_ms": 825.5499999970198,
+      "cliente_captura_mediana_ms": 888.2849999964237,
+      "cliente_captura_maximo_ms": 901.4500000029802
+    },
+    {
+      "escenario": "sin_resultados",
+      "muestras": 3,
+      "backend_mediana_ms": 95.647507,
+      "cliente_semantica_mediana_ms": 822.2299999967217,
+      "cliente_captura_mediana_ms": 886.1149999946356,
+      "cliente_captura_maximo_ms": 886.5599999949336
+    },
+    {
+      "escenario": "pagina_completa",
+      "muestras": 3,
+      "backend_mediana_ms": 2702.633122,
+      "cliente_semantica_mediana_ms": 3341.320000000298,
+      "cliente_captura_mediana_ms": 3410.3649999946356,
+      "cliente_captura_maximo_ms": 3421.820000000298
+    },
+    {
+      "escenario": "genero",
+      "muestras": 3,
+      "backend_mediana_ms": 770.277656,
+      "cliente_semantica_mediana_ms": 1368.8849999979138,
+      "cliente_captura_mediana_ms": 1430.6299999952316,
+      "cliente_captura_maximo_ms": 1475.6749999970198
+    },
+    {
+      "escenario": "disponibilidad_local",
+      "muestras": 3,
+      "backend_mediana_ms": 555.19982,
+      "cliente_semantica_mediana_ms": 891.7899999991059,
+      "cliente_captura_mediana_ms": 974.0499999970198,
+      "cliente_captura_maximo_ms": 1009.140000000596
+    },
+    {
+      "escenario": "pagina_siguiente",
+      "muestras": 3,
+      "backend_mediana_ms": 406.352232,
+      "cliente_semantica_mediana_ms": 854.1349999979138,
+      "cliente_captura_mediana_ms": 923.5799999982119,
+      "cliente_captura_maximo_ms": 927.5300000011921
+    }
+  ],
+  "page_update_mediana_ms": 4.144346499999999,
+  "page_update_maximo_ms": 123.237287,
+  "cambio_tema_durante_sql": [
+    {
+      "consulta": 330,
+      "texto": "sintético",
+      "inicio_ns": 54987474485592,
+      "cambio_tema_ns": 54987577966365,
+      "fin_ns": 54990037166339
+    }
+  ],
+  "respuesta_obsoleta_no_enviada": true,
+  "detalle_obsoleta": {
+    "consulta_anterior": 339,
+    "intencion_nueva_parche": 340,
+    "fin_anterior": 341,
+    "inicio_sql_nueva": 342,
+    "fin_nueva": 343,
+    "parche_resultado_nuevo": 344,
+    "consultas_sql_en_serie": true,
+    "resultado_viejo_no_enviado": true
+  }
+}

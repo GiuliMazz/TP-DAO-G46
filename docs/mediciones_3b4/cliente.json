@@ -1,0 +1,376 @@
+{
+  "fecha_utc": "2026-11-07T19:31:55.894Z",
+  "muestras": [
+    {
+      "escenario": "titulo_original",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 34.875,
+      "hasta_semantica_ms": 870.3250000029802,
+      "hasta_frame_ms": 875.5649999976158,
+      "hasta_captura_ms": 936.3149999976158,
+      "captura_bytes": 43516,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_original",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 32.70499999821186,
+      "hasta_semantica_ms": 828.445000000298,
+      "hasta_frame_ms": 833.9099999964237,
+      "hasta_captura_ms": 895.2700000032783,
+      "captura_bytes": 43516,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_original",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 35.58500000089407,
+      "hasta_semantica_ms": 823.6699999943376,
+      "hasta_frame_ms": 826.4149999991059,
+      "hasta_captura_ms": 887.7199999988079,
+      "captura_bytes": 43516,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_original",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 35.395000003278255,
+      "hasta_semantica_ms": 826.8449999988079,
+      "hasta_frame_ms": 834.2250000014901,
+      "hasta_captura_ms": 892.6300000026822,
+      "captura_bytes": 43516,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_edicion",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 32.95499999821186,
+      "hasta_semantica_ms": 827.4799999967217,
+      "hasta_frame_ms": 834.5,
+      "hasta_captura_ms": 908.5899999961257,
+      "captura_bytes": 43123,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_edicion",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 34.04499999433756,
+      "hasta_semantica_ms": 821.3349999934435,
+      "hasta_frame_ms": 827.0649999976158,
+      "hasta_captura_ms": 886.1349999979138,
+      "captura_bytes": 43123,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_edicion",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 36.54500000178814,
+      "hasta_semantica_ms": 823.7199999988079,
+      "hasta_frame_ms": 827.3800000026822,
+      "hasta_captura_ms": 885.9050000011921,
+      "captura_bytes": 43123,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_edicion",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 36.92499999701977,
+      "hasta_semantica_ms": 828.6199999973178,
+      "hasta_frame_ms": 833.9099999964237,
+      "hasta_captura_ms": 892.929999999702,
+      "captura_bytes": 43123,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_alternativo",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 32.20499999821186,
+      "hasta_semantica_ms": 820.734999999404,
+      "hasta_frame_ms": 827.2849999964237,
+      "hasta_captura_ms": 892.695000000298,
+      "captura_bytes": 45175,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_alternativo",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 35.28999999910593,
+      "hasta_semantica_ms": 828.890000000596,
+      "hasta_frame_ms": 834.1450000032783,
+      "hasta_captura_ms": 900.1750000044703,
+      "captura_bytes": 45175,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_alternativo",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 31.889999993145466,
+      "hasta_semantica_ms": 820.3249999955297,
+      "hasta_frame_ms": 827.1749999970198,
+      "hasta_captura_ms": 885.7949999943376,
+      "captura_bytes": 45175,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "titulo_alternativo",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 51.78000000119209,
+      "hasta_semantica_ms": 847.6649999991059,
+      "hasta_frame_ms": 854.109999999404,
+      "hasta_captura_ms": 913.3000000044703,
+      "captura_bytes": 45175,
+      "esperado": "1–1 de 1 · 24 por página"
+    },
+    {
+      "escenario": "autor",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 52.105000004172325,
+      "hasta_semantica_ms": 852.2700000032783,
+      "hasta_frame_ms": 853.9750000014901,
+      "hasta_captura_ms": 919.8950000032783,
+      "captura_bytes": 50971,
+      "esperado": "1–24 de 100 · 24 por página"
+    },
+    {
+      "escenario": "autor",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 32.75999999791384,
+      "hasta_semantica_ms": 825.5499999970198,
+      "hasta_frame_ms": 826.6649999991059,
+      "hasta_captura_ms": 888.2849999964237,
+      "captura_bytes": 50971,
+      "esperado": "1–24 de 100 · 24 por página"
+    },
+    {
+      "escenario": "autor",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 32.28000000119209,
+      "hasta_semantica_ms": 825.9600000008941,
+      "hasta_frame_ms": 834.0200000032783,
+      "hasta_captura_ms": 901.4500000029802,
+      "captura_bytes": 50971,
+      "esperado": "1–24 de 100 · 24 por página"
+    },
+    {
+      "escenario": "autor",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 34.730000004172325,
+      "hasta_semantica_ms": 825.2850000038743,
+      "hasta_frame_ms": 826.8700000047684,
+      "hasta_captura_ms": 885.179999999702,
+      "captura_bytes": 50971,
+      "esperado": "1–24 de 100 · 24 por página"
+    },
+    {
+      "escenario": "sin_resultados",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 44.4100000038743,
+      "hasta_semantica_ms": 839.3850000053644,
+      "hasta_frame_ms": 846.8150000050664,
+      "hasta_captura_ms": 906.4250000044703,
+      "captura_bytes": 43480,
+      "esperado": "Sin resultados"
+    },
+    {
+      "escenario": "sin_resultados",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 29.65999999642372,
+      "hasta_semantica_ms": 822.2299999967217,
+      "hasta_frame_ms": 827.7249999940395,
+      "hasta_captura_ms": 886.5599999949336,
+      "captura_bytes": 43480,
+      "esperado": "Sin resultados"
+    },
+    {
+      "escenario": "sin_resultados",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 35.82499999552965,
+      "hasta_semantica_ms": 828.1299999952316,
+      "hasta_frame_ms": 833.6849999949336,
+      "hasta_captura_ms": 886.1149999946356,
+      "captura_bytes": 43480,
+      "esperado": "Sin resultados"
+    },
+    {
+      "escenario": "sin_resultados",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 30.844999998807907,
+      "hasta_semantica_ms": 819.5600000023842,
+      "hasta_frame_ms": 820.6649999991059,
+      "hasta_captura_ms": 882.4149999991059,
+      "captura_bytes": 43480,
+      "esperado": "Sin resultados"
+    },
+    {
+      "escenario": "pagina_completa",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_carga_ms": 29.94999999552965,
+      "hasta_semantica_ms": 3340.439999997616,
+      "hasta_frame_ms": 3347.3549999967217,
+      "hasta_captura_ms": 3423.2099999934435,
+      "captura_bytes": 49838,
+      "esperado": "1–24 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "pagina_completa",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_carga_ms": 32.899999998509884,
+      "hasta_semantica_ms": 3351.384999997914,
+      "hasta_frame_ms": 3360.5750000029802,
+      "hasta_captura_ms": 3421.820000000298,
+      "captura_bytes": 49838,
+      "esperado": "1–24 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "pagina_completa",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_carga_ms": 33.40500000119209,
+      "hasta_semantica_ms": 3341.320000000298,
+      "hasta_frame_ms": 3346.780000001192,
+      "hasta_captura_ms": 3410.3649999946356,
+      "captura_bytes": 49838,
+      "esperado": "1–24 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "pagina_completa",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_carga_ms": 31.774999998509884,
+      "hasta_semantica_ms": 3335.740000002086,
+      "hasta_frame_ms": 3339.8549999967217,
+      "hasta_captura_ms": 3407.329999998212,
+      "captura_bytes": 49838,
+      "esperado": "1–24 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "genero",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_semantica_ms": 935.554999999702,
+      "hasta_captura_ms": 1028.625,
+      "captura_bytes": 52501,
+      "esperado": "1–24 de 18182 · 24 por página"
+    },
+    {
+      "escenario": "genero",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_semantica_ms": 875.9799999967217,
+      "hasta_captura_ms": 973.2100000008941,
+      "captura_bytes": 52501,
+      "esperado": "1–24 de 18182 · 24 por página"
+    },
+    {
+      "escenario": "genero",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_semantica_ms": 1410.4100000038743,
+      "hasta_captura_ms": 1475.6749999970198,
+      "captura_bytes": 52501,
+      "esperado": "1–24 de 18182 · 24 por página"
+    },
+    {
+      "escenario": "genero",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_semantica_ms": 1368.8849999979138,
+      "hasta_captura_ms": 1430.6299999952316,
+      "captura_bytes": 52501,
+      "esperado": "1–24 de 18182 · 24 por página"
+    },
+    {
+      "escenario": "disponibilidad_local",
+      "repeticion": 0,
+      "calentamiento": true,
+      "hasta_semantica_ms": 870.3699999973178,
+      "hasta_captura_ms": 948.9549999982119,
+      "captura_bytes": 54209,
+      "esperado": "1–24 de 15824 · 24 por página"
+    },
+    {
+      "escenario": "disponibilidad_local",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_semantica_ms": 874.9899999946356,
+      "hasta_captura_ms": 958.5399999991059,
+      "captura_bytes": 54209,
+      "esperado": "1–24 de 15824 · 24 por página"
+    },
+    {
+      "escenario": "disponibilidad_local",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_semantica_ms": 910.7800000011921,
+      "hasta_captura_ms": 1009.140000000596,
+      "captura_bytes": 54209,
+      "esperado": "1–24 de 15824 · 24 por página"
+    },
+    {
+      "escenario": "disponibilidad_local",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_semantica_ms": 891.7899999991059,
+      "hasta_captura_ms": 974.0499999970198,
+      "captura_bytes": 54209,
+      "esperado": "1–24 de 15824 · 24 por página"
+    },
+    {
+      "escenario": "pagina_siguiente",
+      "repeticion": 1,
+      "calentamiento": false,
+      "hasta_semantica_ms": 862.875,
+      "hasta_captura_ms": 927.5300000011921,
+      "captura_bytes": 51122,
+      "esperado": "25–48 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "pagina_siguiente",
+      "repeticion": 2,
+      "calentamiento": false,
+      "hasta_semantica_ms": 839.7249999940395,
+      "hasta_captura_ms": 912.8499999940395,
+      "captura_bytes": 51586,
+      "esperado": "49–72 de 100000 · 24 por página"
+    },
+    {
+      "escenario": "pagina_siguiente",
+      "repeticion": 3,
+      "calentamiento": false,
+      "hasta_semantica_ms": 854.1349999979138,
+      "hasta_captura_ms": 923.5799999982119,
+      "captura_bytes": 51871,
+      "esperado": "73–96 de 100000 · 24 por página"
+    }
+  ],
+  "finalizada": true,
+  "navegador": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.144.0 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36",
+  "viewport": {
+    "ancho": 929,
+    "alto": 548,
+    "dpr": 1
+  },
+  "metodologia": "Entrada a semántica, dos requestAnimationFrame y captura completada; incluye debounce, protocolo y automatización. No equivale a latencia física de escritorio."
+}

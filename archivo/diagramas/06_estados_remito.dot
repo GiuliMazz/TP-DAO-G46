@@ -1,0 +1,22 @@
+digraph CicloRemito {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.42 pad=.3 rankdir=LR ranksep=.67 splines=polyline
+	node [color="#557994" fillcolor="#eaf1f8" fontname="DejaVu Sans" fontsize=12 margin=".20,.13" shape=box style="rounded,filled"]
+	edge [arrowsize=.7 color="#557994" fontname="DejaVu Sans" fontsize=10]
+	Pendiente
+	Empaquetado
+	Despachado
+	"En transito"
+	Recibido
+	"Con incidencias"
+	Cancelado
+	Recibido [color="#357c5b" fillcolor="#eaf6ee"]
+	"Con incidencias" [color="#b96c38" fillcolor="#fff0e7"]
+	Cancelado [color="#b65d5d" fillcolor="#f7ebeb"]
+	Pendiente -> Empaquetado [label=empaquetar]
+	Empaquetado -> Despachado [label=despachar]
+	Despachado -> "En transito" [label="registrar salida / seguimiento"]
+	"En transito" -> Recibido [label="todo conforme"]
+	"En transito" -> "Con incidencias" [label="perdida / dano / faltante"]
+	Pendiente -> Cancelado [label=cancelar]
+	Empaquetado -> Cancelado [label=cancelar]
+}

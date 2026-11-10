@@ -1,0 +1,135 @@
+{
+  "alcance": "Sólo COUNT de disponibilidad Norte, sin filtro textual; 100000 obras",
+  "comparacion": {
+    "anterior_correlacionada": {
+      "interrumpida": true,
+      "limite_ms": 3000,
+      "duracion_ms": 3001.580613999977,
+      "sql": "SELECT COUNT(*) FROM obra o JOIN edicion ep ON ep.id = COALESCE(o.edicion_preferida_id,\n            (SELECT id FROM edicion WHERE obra_id = o.id AND idioma = 'spa' ORDER BY id LIMIT 1))\n            AND ep.obra_id = o.id AND ep.idioma = 'spa' WHERE EXISTS (SELECT 1 FROM obra_autor oa WHERE oa.obra_id = o.id) AND EXISTS (SELECT 1 FROM edicion d JOIN ejemplar e ON e.edicion_id = d.id\n            JOIN sede s ON s.id = e.sede_actual_id\n            WHERE d.obra_id = o.id AND e.situacion_operativa = 'LIBRE'\n                AND e.condicion_fisica = 'APTO' AND e.sede_actual_id = e.sede_propietaria_id\n                AND s.activa = 1 AND e.sede_actual_id = '077350a5-2867-5c24-81ce-d27c6a4cd78c')",
+      "plan": [
+        {
+          "id": 7,
+          "parent": 0,
+          "notused": 216,
+          "detail": "SCAN ep"
+        },
+        {
+          "id": 11,
+          "parent": 0,
+          "notused": 46,
+          "detail": "SEARCH o USING INDEX sqlite_autoindex_obra_1 (id=?)"
+        },
+        {
+          "id": 17,
+          "parent": 0,
+          "notused": 0,
+          "detail": "CORRELATED SCALAR SUBQUERY 3"
+        },
+        {
+          "id": 25,
+          "parent": 17,
+          "notused": 46,
+          "detail": "SEARCH s USING INDEX sqlite_autoindex_sede_1 (id=?)"
+        },
+        {
+          "id": 34,
+          "parent": 17,
+          "notused": 61,
+          "detail": "SEARCH e USING INDEX ix_ejemplar_sede_estado_codigo (sede_actual_id=? AND situacion_operativa=? AND condicion_fisica=?)"
+        },
+        {
+          "id": 45,
+          "parent": 17,
+          "notused": 44,
+          "detail": "SEARCH d USING COVERING INDEX sqlite_autoindex_edicion_3 (id=? AND obra_id=?)"
+        },
+        {
+          "id": 59,
+          "parent": 0,
+          "notused": 0,
+          "detail": "CORRELATED SCALAR SUBQUERY 1"
+        },
+        {
+          "id": 65,
+          "parent": 59,
+          "notused": 62,
+          "detail": "SEARCH edicion USING INDEX ix_edicion_obra (obra_id=?)"
+        },
+        {
+          "id": 78,
+          "parent": 0,
+          "notused": 55,
+          "detail": "SEARCH oa EXISTS USING COVERING INDEX sqlite_autoindex_obra_autor_2 (obra_id=?)"
+        }
+      ]
+    },
+    "actual_por_identidades": {
+      "total": 15824,
+      "interrumpida": false,
+      "duracion_ms": 552.2601580014452,
+      "sql": "SELECT COUNT(*) FROM obra o JOIN edicion ep ON ep.id = COALESCE(o.edicion_preferida_id,\n            (SELECT id FROM edicion WHERE obra_id = o.id AND idioma = 'spa' ORDER BY id LIMIT 1))\n            AND ep.obra_id = o.id AND ep.idioma = 'spa' WHERE EXISTS (SELECT 1 FROM obra_autor oa WHERE oa.obra_id = o.id) AND o.id IN (SELECT d.obra_id FROM edicion d JOIN ejemplar e ON e.edicion_id = d.id\n            JOIN sede s ON s.id = e.sede_actual_id\n            WHERE e.situacion_operativa = 'LIBRE'\n                AND e.condicion_fisica = 'APTO' AND e.sede_actual_id = e.sede_propietaria_id\n                AND s.activa = 1 AND e.sede_actual_id = '077350a5-2867-5c24-81ce-d27c6a4cd78c')",
+      "plan": [
+        {
+          "id": 8,
+          "parent": 0,
+          "notused": 92,
+          "detail": "SEARCH o USING INDEX sqlite_autoindex_obra_1 (id=?)"
+        },
+        {
+          "id": 12,
+          "parent": 0,
+          "notused": 0,
+          "detail": "LIST SUBQUERY 3"
+        },
+        {
+          "id": 21,
+          "parent": 12,
+          "notused": 46,
+          "detail": "SEARCH s USING INDEX sqlite_autoindex_sede_1 (id=?)"
+        },
+        {
+          "id": 30,
+          "parent": 12,
+          "notused": 61,
+          "detail": "SEARCH e USING INDEX ix_ejemplar_sede_estado_codigo (sede_actual_id=? AND situacion_operativa=? AND condicion_fisica=?)"
+        },
+        {
+          "id": 41,
+          "parent": 12,
+          "notused": 46,
+          "detail": "SEARCH d USING INDEX sqlite_autoindex_edicion_1 (id=?)"
+        },
+        {
+          "id": 50,
+          "parent": 12,
+          "notused": 0,
+          "detail": "CREATE BLOOM FILTER"
+        },
+        {
+          "id": 60,
+          "parent": 0,
+          "notused": 46,
+          "detail": "SEARCH ep USING INDEX sqlite_autoindex_edicion_3 (id=? AND obra_id=?)"
+        },
+        {
+          "id": 64,
+          "parent": 0,
+          "notused": 0,
+          "detail": "CORRELATED SCALAR SUBQUERY 1"
+        },
+        {
+          "id": 70,
+          "parent": 64,
+          "notused": 62,
+          "detail": "SEARCH edicion USING INDEX ix_edicion_obra (obra_id=?)"
+        },
+        {
+          "id": 93,
+          "parent": 0,
+          "notused": 55,
+          "detail": "SEARCH oa EXISTS USING COVERING INDEX sqlite_autoindex_obra_autor_2 (obra_id=?)"
+        }
+      ]
+    }
+  }
+}

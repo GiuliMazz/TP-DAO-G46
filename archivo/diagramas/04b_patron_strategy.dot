@@ -1,0 +1,20 @@
+digraph Strategy {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.56 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.77 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	ServicioPrestamos [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ServicioPrestamos</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- politica: PoliticaPrestamo<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ aprobarSolicitud(solicitud)<BR ALIGN="LEFT"/>+ entregarEjemplar(solicitud)<BR ALIGN="LEFT"/>+ validarDisponibilidad()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	PoliticaPrestamo [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>PoliticaPrestamo</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#eaf6f1"><FONT FACE="DejaVu Sans" COLOR="#405a70" POINT-SIZE="9"><I>abstracta / interfaz</I></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ validar(solicitud, ejemplar)<BR ALIGN="LEFT"/>+ calcularVencimiento(fecha): date<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	PoliticaLocal [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>PoliticaLocal</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ validar(solicitud, ejemplar)<BR ALIGN="LEFT"/>+ calcularVencimiento(fecha): date<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	PoliticaInterbibliotecaria [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>PoliticaInterbibliotecaria</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ validar(solicitud, ejemplar)<BR ALIGN="LEFT"/>+ calcularVencimiento(fecha): date<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ServicioPrestamos -> PoliticaPrestamo [label=utiliza arrowhead=vee dir=forward headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	PoliticaLocal -> PoliticaPrestamo [label=implementa arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	PoliticaInterbibliotecaria -> PoliticaPrestamo [label=implementa arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+}

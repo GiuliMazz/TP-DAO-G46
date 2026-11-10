@@ -1,0 +1,5874 @@
+{
+  "OL7924103W": {
+    "datos": {
+      "author_key": [
+        "OL233594A"
+      ],
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "cover_i": 980232,
+      "first_publish_year": 1990,
+      "key": "/works/OL7924103W",
+      "title": "The Eye of the World",
+      "subject": [
+        "series:The Wheel of Time",
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Reader recommended, 2001-02",
+        "Fantasy .",
+        "American Fantasy",
+        "al'Thor Rand (Fictitious character)",
+        "Good and evil",
+        "Monsters",
+        "Rand al'thor (fictitious character), fiction",
+        "Fiction, fantasy, epic",
+        "Science fiction",
+        "Children's fiction",
+        "Fiction, fantasy, general",
+        "Comics & graphic novels, fantasy",
+        "Comic books, strips",
+        "nyt:hardcover-graphic-books=2013-02-17",
+        "New York Times bestseller",
+        "Fantasy",
+        "Children's stories",
+        "American literature"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47660205M",
+            "title": "La Rueda del Tiempo. El Ojo del Mundo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL7924103W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL17546674W": {
+    "datos": {
+      "author_key": [
+        "OL7115219A"
+      ],
+      "author_name": [
+        "Sarah J. Maas"
+      ],
+      "cover_i": 7794980,
+      "first_publish_year": 2014,
+      "key": "/works/OL17546674W",
+      "title": "The Assassin’s Blade",
+      "subject": [
+        "Fiction, fantasy, collections & anthologies",
+        "Female assassins in fiction",
+        "Young adult fiction, fantasy, dark fantasy",
+        "[series:Throne_of_Glass]",
+        "Fantasy",
+        "Assassins",
+        "Fiction"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL52226778M",
+            "title": "La Espada de la Asesina",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL17546674W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL8369445W": {
+    "datos": {
+      "author_key": [
+        "OL2787719A"
+      ],
+      "author_name": [
+        "Scott Lynch"
+      ],
+      "cover_i": 6307636,
+      "first_publish_year": 2001,
+      "key": "/works/OL8369445W",
+      "title": "The Lies of Locke Lamora",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Fantasy",
+        "Fiction",
+        "American Science Fiction And Fantasy",
+        "Fiction - Fantasy",
+        "Fantasy - Epic",
+        "Fiction / Fantasy / Epic",
+        "Juvenile fiction",
+        "Gangsters",
+        "Swindlers and swindling",
+        "Orphans",
+        "Adventure stories",
+        "Fantasy fiction",
+        "Robbers and outlaws",
+        "Fiction, fantasy, epic"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13193119M",
+            "title": "Las mentiras de Locke Lamora / The Lies of Locke Lamora",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL8369445W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL15358691W": {
+    "datos": {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "cover_i": 14658316,
+      "first_publish_year": 2010,
+      "key": "/works/OL15358691W",
+      "title": "The Way of Kings",
+      "subject": [
+        "New York Times Bestseller",
+        "Fantasy",
+        "Epic Fantasy",
+        "Imaginary places",
+        "Kings and rulers",
+        "Magic",
+        "Imaginary wars and battles",
+        "Manuscripts",
+        "Slavery",
+        "Fiction",
+        "Fiction, fantasy, epic",
+        "high fantasy",
+        "nyt:hardcover-fiction=2010-09-19",
+        "Fiction, fantasy, general",
+        "American literature",
+        "series:Stormlight Archive"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL29659236M",
+            "title": "CAMINO DE LOS REYES (EL ARCHIVO DE LAS TORMENTAS 1)",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL15358691W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL27482W": {
+    "datos": {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "cover_i": 14627509,
+      "first_publish_year": 1937,
+      "key": "/works/OL27482W",
+      "title": "The Hobbit",
+      "subject": [
+        "Fantasy",
+        "Arkenstone",
+        "Battle of Five Armies",
+        "invisibility",
+        "thrushes",
+        "eagles",
+        "hobbits",
+        "wizards",
+        "dragons",
+        "dwarves",
+        "elves",
+        "men",
+        "trolls",
+        "goblins",
+        "giant spiders",
+        "the one ring",
+        "juvenile fantasy",
+        "YOUNG ADULT FICTION",
+        "Fantasy fiction",
+        "Juvenile fiction",
+        "Fiction",
+        "Classics",
+        "General",
+        "Media Tie-In",
+        "children's books",
+        "juvenile works",
+        "Teen & Young Adult literature",
+        "English Fantasy fiction",
+        "Specimens",
+        "Juvenile Fantasy fiction",
+        "Toy and movable books",
+        "Magic in fiction",
+        "Open Library Staff Picks",
+        "juvenile literature",
+        "Pictorial works",
+        "Magic",
+        "Quests (Expeditions)",
+        "Graphic novels",
+        "Dragons in fiction",
+        "Children's stories",
+        "Ficción fantástica inglesa",
+        "Fantasy in fiction",
+        "Translations into Russian",
+        "Ficción",
+        "Middle Earth (Imaginary place)",
+        "Tierra Media (Lugar imaginario)",
+        "Bilbo Baggins (Fictitious character)",
+        "Dwarfs",
+        "Comic books, strips",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 12",
+        "British and irish fiction (fictional works by one author)",
+        "Fiction, fantasy, general",
+        "Middle earth (imaginary place), fiction",
+        "Comics & graphic novels, fantasy",
+        "Science fiction, fantasy, horror",
+        "Child and youth fiction",
+        "Gollum (Fictitious character)",
+        "Hobbits (Fictitious characters)",
+        "Baggins, bilbo (fictitious character), fiction",
+        "Children's fiction",
+        "Gandalf (fictitious character), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Characters",
+        "Characters and characteristics",
+        "Hobbit, an unexpected journey (Motion picture)",
+        "Hobbit (Tolkien, J.R.R.)",
+        "YOUNG ADULT FICTION / Classics",
+        "YOUNG ADULT FICTION / Fantasy / General",
+        "YOUNG ADULT FICTION / Media Tie-In",
+        "Motion pictures",
+        "Fiction, fantasy, epic",
+        "English literature",
+        "Fiction, media tie-in",
+        "Courage",
+        "Literatura angielska dla młodzieży",
+        "Tłumaczenia polskie",
+        "Novela Inglesa",
+        "Spanish language materials",
+        "Untranslated",
+        "Terre du Milieu (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "Hobbits (Personnages fictifs)",
+        "Novela fantástica",
+        "Magiciens",
+        "Schultheater",
+        "Fiction, fairy tales, folk tales, legends & mythology",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Comics & graphic novels, fantasy, general",
+        "Good and evil",
+        "English Fantasy literature",
+        "English fiction",
+        "Adventure stories"
+      ],
+      "editions": {
+        "numFound": 26,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13268284M",
+            "title": "El Hobbit",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL27482W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL2577486W": {
+    "datos": {
+      "author_key": [
+        "OL368638A"
+      ],
+      "author_name": [
+        "Andrzej Sapkowski"
+      ],
+      "cover_i": 8457619,
+      "first_publish_year": 1994,
+      "key": "/works/OL2577486W",
+      "title": "Krew elfów",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Science fiction, fantasy, horror",
+        "Assassins",
+        "Polish Fantasy fiction",
+        "Fiction, fantasy, epic",
+        "Vampires, fiction",
+        "nyt:trade-fiction-paperback=2022-01-09",
+        "New York Times bestseller",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Fiction, fantasy, paranormal"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL31982642M",
+            "title": "La sangre de los elfos",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL2577486W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL5738147W": {
+    "datos": {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "cover_i": 14658083,
+      "first_publish_year": 2005,
+      "key": "/works/OL5738147W",
+      "title": "Elantris",
+      "subject": [
+        "Princes",
+        "Blessing and cursing",
+        "Fiction",
+        "Princesses",
+        "City and town life",
+        "Fiction, fantasy, epic",
+        "FICTION / Fantasy / Epic",
+        "Fantasy fiction",
+        "Fiction, fantasy, general",
+        "Bénédiction et malédiction",
+        "Romans, nouvelles",
+        "Vie urbaine",
+        "Fantasy",
+        "Epic",
+        "Klątwa",
+        "Wojna"
+      ],
+      "editions": {
+        "numFound": 7,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL28345195M",
+            "title": "Elantris",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL5738147W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL34774028W": {
+    "datos": {
+      "author_key": [
+        "OL11086929A"
+      ],
+      "author_name": [
+        "Lauren Roberts"
+      ],
+      "cover_i": 14567864,
+      "first_publish_year": 2023,
+      "key": "/works/OL34774028W",
+      "title": "Powerless",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Fiction, romance, general",
+        "Fiction, general"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL61638992M",
+            "title": "Powerless",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL34774028W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL7924208W": {
+    "datos": {
+      "author_key": [
+        "OL233594A"
+      ],
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "cover_i": 182398,
+      "first_publish_year": 1994,
+      "key": "/works/OL7924208W",
+      "title": "Lord of Chaos",
+      "subject": [
+        "Fantasy fiction",
+        "Rand al'Thor (Fictitious character)",
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Rand al'thor (fictitious character), fiction",
+        "American Fantasy fiction",
+        "Dragons",
+        "Fiction, fantasy, general",
+        "American literature"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL35617900M",
+            "title": "La Rueda del Tiempo 6",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL7924208W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL15450W": {
+    "datos": {
+      "author_key": [
+        "OL23082A"
+      ],
+      "author_name": [
+        "George MacDonald"
+      ],
+      "cover_i": 14358814,
+      "first_publish_year": 1850,
+      "key": "/works/OL15450W",
+      "title": "Phantastes",
+      "subject": [
+        "Fairy tales",
+        "Scottish Fantasy fiction",
+        "Fiction, romance, fantasy",
+        "Fiction, science fiction, general",
+        "Fiction, fantasy, general",
+        "Classic Literature",
+        "Fantasy",
+        "Fiction",
+        "English literature",
+        "Fairies",
+        "Fairyland (Imaginary place)",
+        "English Fantasy fiction",
+        "Scottish authors",
+        "Fantasy fiction",
+        "Fiction, general",
+        "Imaginary places"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47099910M",
+            "title": "Fantastes",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL15450W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL16597059W": {
+    "datos": {
+      "author_key": [
+        "OL1394865A"
+      ],
+      "author_name": [
+        "Brandon Sanderson"
+      ],
+      "cover_i": 14658081,
+      "first_publish_year": 2001,
+      "key": "/works/OL16597059W",
+      "title": "The Alloy of Law",
+      "subject": [
+        "Imaginary Places",
+        "Magic",
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "New York Times bestseller",
+        "FICTION / Fantasy / Epic"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL35625508M",
+            "title": "Aleación de ley",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL16597059W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL257943W": {
+    "datos": {
+      "author_key": [
+        "OL234664A"
+      ],
+      "author_name": [
+        "George R. R. Martin"
+      ],
+      "cover_i": 9269962,
+      "first_publish_year": 1996,
+      "key": "/works/OL257943W",
+      "title": "A Game of Thrones",
+      "subject": [
+        "Adult",
+        "Action & Adventure",
+        "Fantasy",
+        "High Fantasy",
+        "Epic",
+        "Epic Fantasy",
+        "Epic Fiction",
+        "Epic Literature",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, general",
+        "Science Fiction",
+        "Fantastic Fiction",
+        "Fiction",
+        "Ficción",
+        "Moral Ambiguity",
+        "Betrayal",
+        "Loyalty",
+        "Family",
+        "Revenge",
+        "Vengeance",
+        "Bien y mal",
+        "Civil War",
+        "War and Conflict",
+        "Imaginary Wars and Battles",
+        "Guerras imaginarias",
+        "Politics",
+        "Intrigue",
+        "Feudalism",
+        "Royalty and Nobility",
+        "Kings and Rulers",
+        "Knights",
+        "Courts and Courtiers",
+        "Seasons",
+        "Invierno",
+        "Trial by Combat",
+        "Voyages and Travels",
+        "Walls",
+        "Penal Colonies",
+        "Magic",
+        "Dragons",
+        "Supernatural",
+        "Wights",
+        "Folk Healers",
+        "Incest",
+        "Forced Marriage",
+        "Persistent Vegetative States",
+        "Imaginary Places",
+        "Seven Kingdoms (Imaginary Place)",
+        "Hugo Award Winner",
+        "Ignotus Award Winner",
+        "Locus Award Winner",
+        "New York Times Bestseller",
+        "Fantasy fiction",
+        "Novela",
+        "Reyes y soberanos",
+        "Guerra civil",
+        "nyt:trade_fiction_paperback=2011-09-10",
+        "Accessible book",
+        "Protected DAISY",
+        "OverDrive",
+        "nyt:mass-market-paperback=2011-04-10",
+        "Seven kingdoms (imaginary place), fiction",
+        "American Fantasy fiction",
+        "general",
+        "good and evil",
+        "winter",
+        "series:A Song of Ice and Fire"
+      ],
+      "editions": {
+        "numFound": 8,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25140747M",
+            "title": "Juego de tronos",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL257943W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL5734756W": {
+    "datos": {
+      "author_key": [
+        "OL1394250A"
+      ],
+      "author_name": [
+        "Steven Erikson"
+      ],
+      "cover_i": 374277,
+      "first_publish_year": 1999,
+      "key": "/works/OL5734756W",
+      "title": "Gardens of the Moon",
+      "subject": [
+        "Fantasy",
+        "Fiction",
+        "Prophets",
+        "Battles",
+        "Imaginary places",
+        "Fiction, fantasy, general",
+        "Geographical myths",
+        "Literature & Fiction",
+        "Science Fiction & Fantasy -- Authors, A-Z -- ( E ) -- Erikson, Steven",
+        "Science Fiction & Fantasy -- Fantasy -- Epic",
+        "malazan",
+        "sorcery",
+        "dragons",
+        "empire",
+        "epic",
+        "Fiction, fantasy, epic",
+        "series:Malazan Book of the Fallen"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL31854813M",
+            "title": "Los jardines de la luna",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL5734756W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL516683W": {
+    "datos": {
+      "author_key": [
+        "OL35996A"
+      ],
+      "author_name": [
+        "R. A. Salvatore"
+      ],
+      "cover_i": 1005943,
+      "first_publish_year": 1991,
+      "key": "/works/OL516683W",
+      "title": "Sojourn",
+      "subject": [
+        "Fiction",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Fiction, fantasy, epic",
+        "Comics & graphic novels, fantasy, general",
+        "Dungeons & Dragons Novel",
+        "collection:Forgotten Realms"
+      ],
+      "editions": {
+        "numFound": 7,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47506247M",
+            "title": "Elfo Oscuro nº 03/03 El refugio",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL516683W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL81600W": {
+    "datos": {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 14656148,
+      "first_publish_year": 1990,
+      "key": "/works/OL81600W",
+      "title": "The Dark Tower",
+      "subject": [
+        "Roland (Fictitious character : King)",
+        "Fiction",
+        "The Dark Tower",
+        "fantasy fiction",
+        "Post-apocalpytic",
+        "Apocalyptic literature",
+        "American fantasy fiction",
+        "Science fiction, fantasy, horror",
+        "Roland (fictitious character : king), fiction",
+        "Fiction, fantasy, epic",
+        "Dark tower (imaginary place), fiction",
+        "Roland of Gilead (Fictitious character)",
+        "Horror tales",
+        "Fiction, fantasy, general",
+        "Fantasy",
+        "Good and evil",
+        "Romans, nouvelles",
+        "Adventure / thriller",
+        "Crime & mystery",
+        "Horror & ghost stories",
+        "New York (N.Y.)",
+        "Fiction - Fantasy",
+        "American Horror Fiction",
+        "King, Stephen - Prose & Criticism",
+        "Suspense",
+        "Mystery/Suspense",
+        "Maine",
+        "Horror - General",
+        "Fantasy - Epic",
+        "Fantasy - Series",
+        "Fiction / General",
+        "Fantasy - General"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9111890M",
+            "title": "Torre Oscura VII",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL81600W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL257939W": {
+    "datos": {
+      "author_key": [
+        "OL234664A"
+      ],
+      "author_name": [
+        "George R. R. Martin"
+      ],
+      "cover_i": 8231751,
+      "first_publish_year": 1998,
+      "key": "/works/OL257939W",
+      "title": "A Clash of Kings",
+      "subject": [
+        "Fantasy fiction",
+        "Fiction",
+        "Fantasy",
+        "New York Times bestseller",
+        "nyt:trade_fiction_paperback=2011-12-31",
+        "Fiction - Fantasy",
+        "Fantasy - Epic",
+        "Fantasy - Series",
+        "Fiction / Fantasy / Epic",
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction",
+        "Civil war",
+        "Imaginary places",
+        "Magic",
+        "Action & Adventure",
+        "Dragons",
+        "Science Fiction",
+        "Epic",
+        "Refugees",
+        "Good and evil",
+        "American Fantasy fiction",
+        "Kings and rulers",
+        "Imaginary wars and battles",
+        "Alchemy",
+        "Seven Kingdoms (Imaginary place)",
+        "Guerras imaginarias",
+        "Betrayal",
+        "Revenge",
+        "Voyages and travels",
+        "Traición",
+        "Viajes",
+        "Alquimia",
+        "Ficción",
+        "Reyes y soberanos",
+        "American literature",
+        "Brothers",
+        "Novela",
+        "Dystopian",
+        "Romans, nouvelles",
+        "series:A Song of Ice and Fire",
+        "Rois et souverains",
+        "Frères",
+        "Guerres et batailles imaginaires"
+      ],
+      "editions": {
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL36697412M",
+            "title": "Choque de reyes",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL257939W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL24706481W": {
+    "datos": {
+      "author_key": [
+        "OL7387659A"
+      ],
+      "author_name": [
+        "Stephanie Garber"
+      ],
+      "cover_i": 11427092,
+      "first_publish_year": 2021,
+      "key": "/works/OL24706481W",
+      "title": "Once Upon a Broken Heart",
+      "subject": [
+        "Children's fiction",
+        "nyt:young-adult-hardcover=2021-10-17",
+        "New York Times bestseller",
+        "American literature",
+        "Series:Once_Upon_a_Broken_Heart",
+        "Fantasy",
+        "Fantasy fiction",
+        "Fantasy Romance",
+        "Fiction",
+        "Magic",
+        "Romance",
+        "Romantasy",
+        "Serie:Once_Upon_a_Broken_Heart",
+        "Young Adult",
+        "Young Adult Fantasy"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL36634839M",
+            "title": "Érase una vez un corazón roto",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL24706481W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL7924135W": {
+    "datos": {
+      "author_key": [
+        "OL233594A"
+      ],
+      "author_name": [
+        "Robert Jordan"
+      ],
+      "cover_i": 182352,
+      "first_publish_year": 1990,
+      "key": "/works/OL7924135W",
+      "title": "The Great Hunt (The Wheel of Time Book 2)",
+      "subject": [
+        "series:The Wheel of Time",
+        "Fiction",
+        "Fantasy fiction",
+        "Fantasy",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, historical",
+        "Fiction, fantasy, general",
+        "Aes Sedai",
+        "Rand al'Thor",
+        "wheel of time",
+        "robert jordon",
+        "American Fantasy fiction",
+        "Imaginary places",
+        "Good and evil",
+        "Adventure stories",
+        "Heroes",
+        "Magic",
+        "Imaginary wars and battles",
+        "Sex role",
+        "Prophecies",
+        "Reincarnation",
+        "American literature",
+        "Novela estadounidense",
+        "Novela fantástica estadounidense"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL39206368M",
+            "title": "El despertar de los héroes",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL7924135W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL41943074W": {
+    "datos": {
+      "author_key": [
+        "OL7825177A"
+      ],
+      "author_name": [
+        "Rebecca Yarros"
+      ],
+      "cover_i": 14826089,
+      "first_publish_year": 2025,
+      "key": "/works/OL41943074W",
+      "title": "Onyx Storm",
+      "subject": [
+        "American literature",
+        "Fiction, fantasy, epic",
+        "Fiction, fantasy, romance",
+        "Fiction, romance, fantasy",
+        "Serie:The_Empyrean",
+        "Onyx Storm",
+        "Rebecca Yarros",
+        "Onyx Storm Rebecca Yarros",
+        "Roman Empire",
+        "Books",
+        "Rare books"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL57579205M",
+            "title": "Alas de ónix",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL41943074W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL34028551W": {
+    "datos": {
+      "author_key": [
+        "OL7825177A"
+      ],
+      "author_name": [
+        "Rebecca Yarros"
+      ],
+      "cover_i": 14405746,
+      "first_publish_year": 2023,
+      "key": "/works/OL34028551W",
+      "title": "Iron Flame",
+      "subject": [
+        "nyt:combined-print-and-e-book-fiction=2023-11-26",
+        "New York Times bestseller",
+        "Fiction, fantasy, action & adventure",
+        "Fiction, fantasy, dragons & mythical creatures",
+        "Fiction, fantasy, epic",
+        "Serie:The_Empyrean"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL51343709M",
+            "title": "Alas de Hierro",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL34028551W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL2707183W": {
+    "datos": {
+      "author_key": [
+        "OL395837A"
+      ],
+      "author_name": [
+        "Robin Hobb"
+      ],
+      "cover_i": 4915230,
+      "first_publish_year": 1995,
+      "key": "/works/OL2707183W",
+      "title": "Assassin's Apprentice",
+      "subject": [
+        "Fiction, fantasy, general",
+        "Assassins",
+        "Fiction",
+        "The Realm of the Elderlings",
+        "The Farseer Trilogy",
+        "Fantasy",
+        "Fantasy fiction",
+        "Ke xue huan xiang xiao shuo",
+        "Fiction, fantasy, epic",
+        "Magic",
+        "Ability",
+        "Kings, queens, rulers",
+        "Fantastischer Roman",
+        "Amerikanisches Englisch"
+      ],
+      "editions": {
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL35620097M",
+            "title": "Aprendiz de asesino",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL2707183W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL27513W": {
+    "datos": {
+      "author_key": [
+        "OL26320A"
+      ],
+      "author_name": [
+        "J.R.R. Tolkien"
+      ],
+      "cover_i": 14627060,
+      "first_publish_year": 1954,
+      "key": "/works/OL27513W",
+      "title": "The Fellowship of the Ring",
+      "subject": [
+        "Elves",
+        "Dwarves",
+        "evil",
+        "fear",
+        "hope",
+        "young adult fiction",
+        "Ficción",
+        "Ficción fantástica inglesa",
+        "Fantastic fiction",
+        "The Lord of the Rings",
+        "English Fantasy fiction",
+        "Open Library Staff Picks",
+        "Fiction",
+        "Fantasy",
+        "Fairy tales",
+        "Adventure stories",
+        "Fantasy fiction",
+        "Middle Earth (Imaginary place)",
+        "History and criticism",
+        "FICTION / Fantasy / Epic",
+        "Adventure fiction",
+        "English fiction",
+        "Translations in Chinese",
+        "Fiction, fantasy, epic",
+        "Middle earth (imaginary place), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Gandalf (fictitious character), fiction",
+        "British and irish fiction (fictional works by one author)",
+        "Baggins, bilbo (fictitious character), fiction",
+        "Fiction, media tie-in",
+        "Children's fiction",
+        "English literature",
+        "Roman",
+        "Français (langue)",
+        "Lectures et morceaux choisis",
+        "Vol. 1.",
+        "Lord of the rings (Tolkien, J.R.R.)",
+        "Gandolf (Fictitious character)",
+        "Terre du Milieu (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "Frodo Baggins (Fictitious character)",
+        "Fiction, fantasy, general",
+        "Translations into Yiddish"
+      ],
+      "editions": {
+        "numFound": 20,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9131874M",
+            "title": "La comunidad del anillo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL27513W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL492658W": {
+    "datos": {
+      "author_key": [
+        "OL30765A"
+      ],
+      "author_name": [
+        "Rick Riordan"
+      ],
+      "cover_i": 7239831,
+      "first_publish_year": 2005,
+      "key": "/works/OL492658W",
+      "title": "The Lightning Thief",
+      "subject": [
+        "Serie:Percy_Jackson_and_the_Olympians",
+        "Fiction",
+        "Greek Mythology",
+        "Juvenile fiction",
+        "Camps",
+        "Friendship",
+        "Fantasy fiction",
+        "Fantasy",
+        "Young Adult Fiction",
+        "New York Times bestseller",
+        "nyt:series_books=2007-07-21",
+        "Mythology, Greek",
+        "Identity",
+        "Adaptations",
+        "Greek Gods",
+        "Cartoons and comics",
+        "Children's fiction",
+        "Camps, fiction",
+        "Gods, fiction",
+        "Action & Adventure",
+        "Fantasy & Magic",
+        "Legends, Myths, Fables",
+        "Gods and goddesses",
+        "Literature and fiction, juvenile",
+        "Child and youth fiction",
+        "Science fiction, fantasy, horror",
+        "New York Times reviewed",
+        "Colonies de vacances",
+        "Amitié",
+        "Amistad",
+        "Ficción juvenil",
+        "Campamentos",
+        "Mitología griega",
+        "Children's books",
+        "Dieux grecs",
+        "Novela juvenil",
+        "Adventure and adventurers, fiction"
+      ],
+      "editions": {
+        "numFound": 6,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25440625M",
+            "title": "El ladrón del rayo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=key%3A%2Fworks%2FOL492658W",
+    "captura_utc": null,
+    "origen_anterior": "datos/openlibrary/respuestas_originales.json"
+  },
+  "OL453936W": {
+    "datos": {
+      "author_key": [
+        "OL25712A",
+        "OL53305A"
+      ],
+      "author_name": [
+        "Terry Pratchett",
+        "Neil Gaiman"
+      ],
+      "cover_i": 10482258,
+      "first_publish_year": 1990,
+      "key": "/works/OL453936W",
+      "title": "Good Omens",
+      "subject": [
+        "End of the world",
+        "Humorous",
+        "Fantasy fiction",
+        "Fiction",
+        "Prophecies",
+        "Occult fiction",
+        "Witches",
+        "Humorous fiction",
+        "Apocalypse",
+        "Roman",
+        "Sorcières",
+        "Antichrist",
+        "Angels",
+        "Fiction, fantasy, contemporary",
+        "Fiction, humorous",
+        "fantasy",
+        "humor",
+        "Fiction, fantasy, general",
+        "nyt:trade-fiction-paperback=2019-06-23",
+        "New York Times bestseller",
+        "New York Times reviewed",
+        "Fiction, humorous, general",
+        "Fin du monde",
+        "Romans, nouvelles",
+        "Large type books",
+        "Prophéties",
+        "Livres en gros caractères",
+        "Large print books"
+      ],
+      "editions": {
+        "numFound": 7,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL27102136M",
+            "title": "Buenos Presagios",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/95bc5e2f7d9c497a34.json",
+    "sha256_archivo_anterior": "a35096ed14170b2615bdddfed3fa8d3326726489b69f743935006eeae9639201"
+  },
+  "OL46241W": {
+    "datos": {
+      "author_key": [
+        "OL34221A"
+      ],
+      "author_name": [
+        "Isaac Asimov"
+      ],
+      "cover_i": 12385229,
+      "first_publish_year": 1950,
+      "key": "/works/OL46241W",
+      "title": "I, Robot",
+      "subject": [
+        "smear campaigns",
+        "supercomputers",
+        "computers",
+        "Frankenstein complex",
+        "hyperspace",
+        "heisenbugs",
+        "asteroids",
+        "Shahada",
+        "space stations",
+        "space-based solar power",
+        "cognitive dissonance",
+        "selenium",
+        "robots",
+        "morality",
+        "robotics",
+        "robopsychology",
+        "positronic brains",
+        "three laws of robotics",
+        "American Science fiction",
+        "Readers (Secondary)",
+        "Readers",
+        "Fiction",
+        "Science fiction",
+        "human-robot relations",
+        "Thriller",
+        "Long Now Manual for Civilization",
+        "Science fiction, American",
+        "Short stories",
+        "American Short stories",
+        "Artificial intelligence",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Fiction, science fiction, short stories",
+        "Roman",
+        "Fiction, science fiction, collections & anthologies",
+        "American literature",
+        "Robots in fiction",
+        "Children's fiction",
+        "High tech and hard science fiction"
+      ],
+      "editions": {
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9129665M",
+            "title": "Yo, Robot",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5ccaf8f41a52a9a49b.json",
+    "sha256_archivo_anterior": "0914ea7970ae174c5a2d62267535f0726fd2b5334e4f67b78c1e2a818bee2e5e"
+  },
+  "OL3295516W": {
+    "datos": {
+      "author_key": [
+        "OL2632008A"
+      ],
+      "author_name": [
+        "Raymond Chandler"
+      ],
+      "cover_i": 254507,
+      "first_publish_year": 1943,
+      "key": "/works/OL3295516W",
+      "title": "The Lady in the Lake",
+      "subject": [
+        "Private investigators",
+        "Detective and mystery stories",
+        "Fiction",
+        "American Detective and mystery stories",
+        "Philip Marlowe (Fictitious character)",
+        "Marlowe, Philip (Fictitious character)",
+        "Marlowe, philip (fictitious character), fiction",
+        "Private investigators, fiction",
+        "Fiction, mystery & detective, hard-boiled",
+        "Los angeles (calif.), fiction",
+        "Readers",
+        "Large type books",
+        "Fiction in English"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL19719716M",
+            "title": "La  dama del lago",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/48c4009cf8a3d8bef4.json",
+    "sha256_archivo_anterior": "9a96f6df971e5724b77eea26067f483edb480d619ce6d3c819c50c6101c9170b"
+  },
+  "OL503666W": {
+    "datos": {
+      "author_key": [
+        "OL66452A"
+      ],
+      "author_name": [
+        "Miguel de Cervantes Saavedra"
+      ],
+      "cover_i": 14428305,
+      "first_publish_year": 1600,
+      "key": "/works/OL503666W",
+      "title": "Don Quijote de la Mancha",
+      "subject": [
+        "Don Quixote (Cervantes Saavedra, Miguel de)",
+        "Quotations",
+        "Knights and knighthood",
+        "Social life and customs",
+        "Fiction",
+        "Classic Literature",
+        "Don Quixote (Fictitious character)",
+        "Early works to 1800",
+        "Dictionaries",
+        "Literatura picaresca",
+        "España",
+        "Readers",
+        "Caballeros y caballería",
+        "great_books_of_the_western_world",
+        "Squires",
+        "Spanish fiction",
+        "Illustrations",
+        "Relatos de aventura",
+        "Criticism and interpretation",
+        "Spanish Adventure fiction",
+        "Dulcinea",
+        "Real Academia Española,",
+        "Characters",
+        "Dulcinea (Fictitious character)",
+        "Rhetoric",
+        "Spanish Proverbs",
+        "Spanish literature",
+        "Quests",
+        "History",
+        "Study and teaching (Secondary)",
+        "Chivalry",
+        "Vida social y costumbres",
+        "Spanish language",
+        "Composition and exercises",
+        "Ficción",
+        "Long Now Manual for Civilization",
+        "Sancho Panza (Fictitious character)",
+        "Manners and customs",
+        "Spanish language materials",
+        "Spanish: Adult Fiction",
+        "Classics",
+        "General",
+        "Literature - Classics / Criticism",
+        "Continental european fiction (fictional works by one author)",
+        "Spain, fiction",
+        "Don quixote (fictitious character), fiction",
+        "Fiction, action & adventure",
+        "Fiction, historical",
+        "Dulcinea (fictitious character), fiction",
+        "Romance literature",
+        "Cide Hamete Benengeli (Fictitious character)",
+        "Open Library Staff Picks",
+        "Humor",
+        "Pictorial works",
+        "Literature",
+        "Modern Literature",
+        "Spanish",
+        "Knights and knighthood, fiction",
+        "Wishbone (fictitious character), fiction",
+        "Dogs, fiction",
+        "Chivalry, fiction",
+        "Fiction, general",
+        "NOVELAS ESPAÑOLAS",
+        "Novela española",
+        "Translations into English",
+        "Bibliography",
+        "Adventure stories",
+        "Literary",
+        "Shōsetsu-Shōsetsushū",
+        "Biography",
+        "Literatura española",
+        "Appreciation",
+        "NOVELISTAS ESPAÑOLES",
+        "BIOGRAFIA",
+        "Crítica e Interpretación",
+        "Fiction, romance, general",
+        "Dalziel Brothers",
+        "Spanish Authors",
+        "Quixote",
+        "Don quixote (fictitious character)--fiction",
+        "Knights and knighthood--spain--fiction",
+        "World literature",
+        "Fiction subjects",
+        "Peoples & cultures - fiction",
+        "Literature, collections",
+        "Politics and government",
+        "Spain -- Social life and customs -- 16th century -- Fiction",
+        "Knights and knighthood -- Spain -- Fiction",
+        "Picaresque literature",
+        "Romances",
+        "Library",
+        "Personal copy",
+        "Sabine Hall (Richmond County, Va.). Library",
+        "Real Academia Española",
+        "FICTION / Classics",
+        "FICTION / Historical",
+        "FICTION / Action & Adventure",
+        "Islam",
+        "Quests (Expeditions)",
+        "Fine books",
+        "Specimens",
+        "Textbooks for foreign speakers",
+        "Gentry",
+        "Painting",
+        "Art",
+        "Philosophy",
+        "Aesthetics",
+        "Dictionaries, indexes",
+        "English literature",
+        "History and criticism"
+      ],
+      "editions": {
+        "numFound": 448,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL24343614M",
+            "title": "El ingenioso hidalgo Don Quijote de la Mancha",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5444df7355ca043438.json",
+    "sha256_archivo_anterior": "6a91d7b94583b4760eb013f5540fb3702e3d6d31709233409ed62683f3701bcf"
+  },
+  "OL1963276W": {
+    "datos": {
+      "author_key": [
+        "OL235668A"
+      ],
+      "author_name": [
+        "Dan Simmons"
+      ],
+      "cover_i": 380351,
+      "first_publish_year": 1985,
+      "key": "/works/OL1963276W",
+      "title": "Song of Kali",
+      "subject": [
+        "Romans",
+        "Fantastique",
+        "Fiction",
+        "Kālī (Hindu deity)",
+        "Literature",
+        "Fiction, horror",
+        "Human sacrifice",
+        "India, fiction",
+        "Fiction, fantasy, general",
+        "Fiction, science fiction, general"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13264621M",
+            "title": "La canción de Kali",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/27b8461d0c9de85e1c.json",
+    "sha256_archivo_anterior": "a15247af2272c8b2c3c2fe9d47e4831c48d51cb2e37c38ff4f3d91f2036d1c9d"
+  },
+  "OL86318W": {
+    "datos": {
+      "author_key": [
+        "OL31827A"
+      ],
+      "author_name": [
+        "James Joyce"
+      ],
+      "cover_i": 13136548,
+      "first_publish_year": 1914,
+      "key": "/works/OL86318W",
+      "title": "Ulysses",
+      "subject": [
+        "Married people",
+        "Male friendship",
+        "Fiction",
+        "Historical Fiction",
+        "Psychological fiction",
+        "Alienation (Social psychology)",
+        "Textual Criticism",
+        "Molly Bloom (Fictitious character)",
+        "Bloom, Molly (Personaje literario)",
+        "Men",
+        "Facsimiles",
+        "Jewish men",
+        "Leopold Bloom (Fictitious character)",
+        "English Manuscripts",
+        "Classic Literature",
+        "Domestic fiction",
+        "Proofs (Printing)",
+        "Prohibited books",
+        "Bloom, Leopold (Personaje literario)",
+        "Open Library Staff Picks",
+        "Immoral Literature",
+        "open_syllabus_project",
+        "Translations into Irish",
+        "City and town life",
+        "Law and legislation",
+        "Manuscripts",
+        "Hombres",
+        "Artists",
+        "Ficción",
+        "Long Now Manual for Civilization",
+        "Stream of consciousness",
+        "British and irish fiction (fictional works by one author)",
+        "Bloom, leopold (fictitious character), fiction",
+        "Bloom, molly (fictitious character), fiction",
+        "Dublin (ireland), fiction",
+        "Fiction, psychological",
+        "Dedalus, stephen (fictitious character), fiction",
+        "Fiction, family life",
+        "Married people, fiction",
+        "Friendship, fiction",
+        "Joyce, james, 1882-1941",
+        "Photograph collections",
+        "Revolutions",
+        "Revolutionaries",
+        "Photography",
+        "Pictorial works",
+        "History",
+        "Artists, fiction",
+        "Fiction, general",
+        "English fiction",
+        "English literature",
+        "Ireland, fiction",
+        "Fiction, family life, general",
+        "New York Times reviewed",
+        "Fiction, erotica, general",
+        "Vie urbaine",
+        "Romans, nouvelles",
+        "Couples mariés",
+        "Hommes juifs",
+        "Artistes",
+        "Aliénation (Psychologie sociale)",
+        "Amitié masculine",
+        "Littérature anglaise",
+        "Experimental fiction",
+        "Englisch",
+        "NOVELAS IRLANDESAS",
+        "Stream of consciousness fiction",
+        "Courant de conscience (Littérature)",
+        "Belletristische Darstellung",
+        "Bloom, leopold (fictitious character)",
+        "Bloom, leopold (fictitious character)--fiction",
+        "Bloom, molly (fictitious character)",
+        "Bloom, molly (fictitious character)--fiction",
+        "Men--ireland--dublin--fiction",
+        "Bloom, leopold (fictional character)",
+        "Bloom, leopold (fictional character)--fiction",
+        "Bloom, molly (fictional character)",
+        "Bloom, molly (fictional character)--fiction",
+        "Men--dublin (ireland)--fiction",
+        "Pr6019.o9 u442 1993",
+        "823/.912",
+        "Alienation (social psychology)--fiction",
+        "City and town life--fiction",
+        "Male friendship--fiction",
+        "Married people--fiction",
+        "Jewish men--fiction",
+        "Artists--fiction",
+        "Pr6019.o9 u4 1990",
+        "Book: sga joy",
+        "Psychology",
+        "Loss (Psychology)",
+        "Irish literature",
+        "Irish authors",
+        "History and criticism",
+        "In literature",
+        "Epic literature",
+        "Jewish fiction",
+        "collection:Name",
+        "City and town life -- Fiction",
+        "Married people -- Fiction",
+        "Male friendship -- Fiction",
+        "Dublin (Ireland) -- Fiction",
+        "Artists -- Fiction",
+        "Jewish men -- Fiction",
+        "Alienation (Social psychology) -- Fiction",
+        "Psychiatry",
+        "Blood pressure",
+        "Mental Disorders",
+        "Pornography",
+        "Irish fiction"
+      ],
+      "editions": {
+        "numFound": 35,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13225931M",
+            "title": "Ulises",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/65a3db1d4793c7f68e.json",
+    "sha256_archivo_anterior": "4b41efcae202536cdb086370ad78abdfa7f710b0e57e9018968354277876d28b"
+  },
+  "OL1168030W": {
+    "datos": {
+      "author_key": [
+        "OL118077A"
+      ],
+      "author_name": [
+        "George Orwell"
+      ],
+      "cover_i": 5539329,
+      "first_publish_year": 1933,
+      "key": "/works/OL1168030W",
+      "title": "Down and Out in Paris and London",
+      "subject": [
+        "Poor",
+        "Literature",
+        "Fiction",
+        "Homelessness",
+        "Social conditions",
+        "History",
+        "British and irish fiction (fictional works by one author)",
+        "Orwell, george, 1903-1950",
+        "Poor, france",
+        "Poor, great britain",
+        "London (england), social conditions",
+        "Paris (france), social conditions",
+        "Authors, english",
+        "Authors, biography",
+        "Condiciones sociales",
+        "Unemployed",
+        "Pobres",
+        "Desempleo",
+        "Authors",
+        "Ficción",
+        "Autores",
+        "Sociology",
+        "Social history",
+        "Social classes",
+        "History, modern, 20th century",
+        "Personal memoirs",
+        "1903-1950",
+        "Homes and haunts"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL26956630M",
+            "title": "Sin blanca en París y Londres",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/b44fe193740a427bd1.json",
+    "sha256_archivo_anterior": "d6b67714267e10267a6a5d04ae0410ce3a8f392930831bcc9be011f64071a664"
+  },
+  "OL4617627W": {
+    "datos": {
+      "author_key": [
+        "OL946967A"
+      ],
+      "author_name": [
+        "Brian W. Kernighan"
+      ],
+      "cover_i": 7243621,
+      "first_publish_year": 2001,
+      "key": "/works/OL4617627W",
+      "title": "La Practica de La Programacion",
+      "subject": [
+        "Computer Technology",
+        "Engineering",
+        "Nonfiction"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL24313014M",
+            "title": "La Practica de la Programacion",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/7e7ff1c8ce229fb6cb.json",
+    "sha256_archivo_anterior": "7ebc65b33ba28943be83193e5549ebb177c150f6540c1939e8438c44f8216d4f"
+  },
+  "OL21062580W": {
+    "datos": {
+      "author_key": [
+        "OL190100A"
+      ],
+      "author_name": [
+        "Paul Auster"
+      ],
+      "cover_i": 10823355,
+      "first_publish_year": 2012,
+      "key": "/works/OL21062580W",
+      "title": "Winter Journal",
+      "subject": [
+        "Auster, paul, 1947-",
+        "Authors, american",
+        "Authors, biography",
+        "American Authors",
+        "Biography",
+        "Large type books",
+        "Écrivains américains",
+        "Biographies"
+      ],
+      "editions": {
+        "numFound": 7,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL61528348M",
+            "title": "Diario de invierno",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/268e648081a6e2baa3.json",
+    "sha256_archivo_anterior": "d92cffc6b186a71995cab37ce453b8c3d6dba0cbb627c40b44413a5b2d76fcf0"
+  },
+  "OL81124W": {
+    "datos": {
+      "author_key": [
+        "OL19954A"
+      ],
+      "author_name": [
+        "Thomas A. Barron"
+      ],
+      "cover_i": 259656,
+      "first_publish_year": 1996,
+      "key": "/works/OL81124W",
+      "title": "The Lost Years of Merlin",
+      "subject": [
+        "Merlin (Legendary character)",
+        "Juvenile fiction",
+        "Fiction",
+        "Wizards",
+        "Fantasy",
+        "American Fantasy fiction",
+        "Fantasy fiction",
+        "Reading list",
+        "4th grade",
+        "St. Marks",
+        "Fiction, fantasy, historical",
+        "Children's fiction",
+        "Merlin (legendary character), fiction",
+        "Magicians, fiction",
+        "Fincayra (imaginary place), fiction",
+        "German language materials",
+        "Wizards, fiction",
+        "Witchcraft"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47589291M",
+            "title": "Merlín. Los años perdidos",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/20d0afdb0ec1b86958.json",
+    "sha256_archivo_anterior": "2787a9c5d4325e5de71ce4eb796cfb8a7a3d118dc8427360ef2d7fb4b53cc927"
+  },
+  "OL17610507W": {
+    "datos": {
+      "author_key": [
+        "OL7044246A"
+      ],
+      "author_name": [
+        "刘慈欣"
+      ],
+      "cover_i": 7893958,
+      "first_publish_year": 2010,
+      "key": "/works/OL17610507W",
+      "title": "Death's End (The Three-Body Problem Series Book 3)",
+      "subject": [
+        "Fiction",
+        "Science Fiction",
+        "Fiction, science fiction, general",
+        "Human-alien encounters",
+        "Imaginary wars and battles",
+        "Fiction, science fiction, action & adventure",
+        "Chinese Science fiction",
+        "Survival",
+        "Extraterrestrial beings",
+        "Hard Science Fiction",
+        "Alien Contact",
+        "FICTION / Science Fiction / Hard Science Fiction",
+        "FICTION / Science Fiction / Alien Contact",
+        "Chinese fiction"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL50708990M",
+            "title": "Fin de la Muerte / Death's End",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5ccaf8f41a52a9a49b.json",
+    "sha256_archivo_anterior": "0914ea7970ae174c5a2d62267535f0726fd2b5334e4f67b78c1e2a818bee2e5e"
+  },
+  "OL472388W": {
+    "datos": {
+      "author_key": [
+        "OL27695A"
+      ],
+      "author_name": [
+        "Agatha Christie"
+      ],
+      "cover_i": 9831097,
+      "first_publish_year": 1934,
+      "key": "/works/OL472388W",
+      "title": "Why Didn't they Ask Evans?",
+      "subject": [
+        "English Detective and mystery stories",
+        "Lectures et morceaux choisis",
+        "Detective and mystery stories",
+        "Anglais (langue)",
+        "Roman policier anglais",
+        "Translations from English",
+        "Thai fiction",
+        "Fiction, mystery & detective, general",
+        "Large type books",
+        "Murder",
+        "Investigation",
+        "Fiction",
+        "Fiction, crime",
+        "English literature",
+        "Fiction, mystery & detective, women sleuths",
+        "Fiction, mystery & detective, traditional",
+        "England, fiction",
+        "Murders",
+        "Murder mystery",
+        "Mystery and detective stories"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13228031M",
+            "title": "Trayectoria de boomerang",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/e842be18a885c735c1.json",
+    "sha256_archivo_anterior": "9e76200b5d95a171f69affa7ac69e70256d070db2a815284b18d03dcb46b1897"
+  },
+  "OL19731W": {
+    "datos": {
+      "author_key": [
+        "OL24452A"
+      ],
+      "author_name": [
+        "Danielle Steel"
+      ],
+      "cover_i": 280207,
+      "first_publish_year": 1976,
+      "key": "/works/OL19731W",
+      "title": "Passion's promise",
+      "subject": [
+        "Fiction",
+        "Socialites",
+        "Women journalists",
+        "Fiction, romance, general",
+        "Fiction, romance, contemporary",
+        "Large type books"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL20047146M",
+            "title": "Promesa de pasión",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/16ad5691eb1252cb09.json",
+    "sha256_archivo_anterior": "6c5cb37a8103e4fa5cb4fc55d2750c6d752654cb7e74876cfcc7b39ac79986ce"
+  },
+  "OL1925362W": {
+    "datos": {
+      "author_key": [
+        "OL230834A"
+      ],
+      "author_name": [
+        "Tom Wolfe"
+      ],
+      "cover_i": 14839523,
+      "first_publish_year": 1968,
+      "key": "/works/OL1925362W",
+      "title": "The Electric Kool-Aid Acid Test",
+      "subject": [
+        "Drug addiction",
+        "Travel",
+        "Recreational Drug Use",
+        "Hippies",
+        "Merry Band of Pranksters",
+        "LSD (Drug)",
+        "Drug abuse",
+        "American Novelists",
+        "Journeys",
+        "Biography",
+        "20th century american history - social aspects - post world war ii",
+        "U.s. authors - 20th century - literary biography",
+        "Drugs & controlled substances - social aspects",
+        "Counterculture",
+        "American fiction (fictional works by one author)"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9129003M",
+            "title": "Ponche de Acido Lisergico",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/33df5ab9b5a52b3bcf.json",
+    "sha256_archivo_anterior": "7be5a3220e77cc645bd7102445aa39c61b5590eee4fa39aca7b4ce1293e096b3"
+  },
+  "OL1966501W": {
+    "datos": {
+      "author_key": [
+        "OL236174A"
+      ],
+      "author_name": [
+        "Richard Dawkins"
+      ],
+      "cover_i": 95763,
+      "first_publish_year": 1986,
+      "key": "/works/OL1966501W",
+      "title": "The Blind Watchmaker",
+      "subject": [
+        "Natural selection",
+        "Evolution (Biology)",
+        "Evolution",
+        "Biodiversity",
+        "Evolution.",
+        "Evolution.\u001e 0",
+        "open_syllabus_project",
+        "Evolutionstheorie",
+        "Selection naturelle",
+        "Evolutie",
+        "Natuurlijke selectie",
+        "Biological Evolution",
+        "Genetic Selection",
+        "Darwinismus",
+        "Biology",
+        "Genetics",
+        "Genetic inheritance",
+        "Popular Science",
+        "Evolution (biologi)",
+        "Naturligt urval",
+        "Qh366.2 .d37 1986",
+        "575"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25557041M",
+            "title": "El relojero ciego",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/d5e24698da3f98d817.json",
+    "sha256_archivo_anterior": "41e9054e1038393ea0238a54036522ecf9759fdb335c6c2d8df2c69d1f14a0d6"
+  },
+  "OL10143554W": {
+    "datos": {
+      "author_key": [
+        "OL4136535A"
+      ],
+      "author_name": [
+        "Christian Ferrer"
+      ],
+      "cover_i": 3348052,
+      "first_publish_year": 1996,
+      "key": "/works/OL10143554W",
+      "title": "Mal de ojo",
+      "subject": [
+        "Technology",
+        "Social aspects",
+        "Moral and ethical aspects",
+        "Philosophy",
+        "Vision",
+        "Social aspects of Technology",
+        "Moral and ethical aspects of Technology"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL12992870M",
+            "title": "Mal De Ojo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/19a6a02ee1e14fc1fb.json",
+    "sha256_archivo_anterior": "cefeab841a07a3a88981a88cbd88633dc7ee071a4895820305bff5a2ec6d9c5a"
+  },
+  "OL39560W": {
+    "datos": {
+      "author_key": [
+        "OL19450A"
+      ],
+      "author_name": [
+        "Virginia Woolf"
+      ],
+      "cover_i": 116375,
+      "first_publish_year": 1920,
+      "key": "/works/OL39560W",
+      "title": "Moments of being",
+      "subject": [
+        "Biography",
+        "English Novelists",
+        "English Authors",
+        "English Women novelists",
+        "Woolf, virginia, 1882-1941",
+        "Authors, english",
+        "Woolf, virginia , 1882-1941",
+        "Novelists, english",
+        "Novelists, english--20th century--biography",
+        "Pr6045.o72 z47 1985",
+        "823/.912",
+        "Authors, english--20th century--biography",
+        "Pr6045.o72 z496 1976"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL20348265M",
+            "title": "Momentos de vida",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/a2dfd3bba1d58bdd8b.json",
+    "sha256_archivo_anterior": "eea5bb6b3d63c26c6d5d7af8a4a26f4d64d15d97e38d67dcfd46a2fb4249cb5a"
+  },
+  "OL73347W": {
+    "datos": {
+      "author_key": [
+        "OL19880A"
+      ],
+      "author_name": [
+        "Anne McCaffrey"
+      ],
+      "cover_i": 4083444,
+      "first_publish_year": 1989,
+      "key": "/works/OL73347W",
+      "title": "The Renegades of Pern",
+      "subject": [
+        "Fiction",
+        "Pern (Imaginary place)",
+        "Dragons",
+        "Life on other planets",
+        "Space colonies",
+        "Science fiction",
+        "Pern (imaginary place), fiction",
+        "Fiction, fantasy, epic",
+        "American Fantasy fiction",
+        "American fiction"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL39820263M",
+            "title": "Los renegados de Pern",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/39dced7315e65dad1c.json",
+    "sha256_archivo_anterior": "8f7fbfcc72aa2004ebca3da11837e29360e135447dbff5699c5eef7a91bb206f"
+  },
+  "OL52953W": {
+    "datos": {
+      "author_key": [
+        "OL34328A"
+      ],
+      "author_name": [
+        "Lee Child"
+      ],
+      "cover_i": 14424685,
+      "first_publish_year": 2005,
+      "key": "/works/OL52953W",
+      "title": "One Shot",
+      "subject": [
+        "Detective and mystery stories",
+        "Serial murders",
+        "Fiction",
+        "Science Fiction",
+        "Military police",
+        "Thriller",
+        "Snipers",
+        "Fiction, thrillers, general",
+        "Reacher, jack (fictitious character), fiction",
+        "Serial murders, fiction",
+        "Fiction, thrillers",
+        "nyt:mass-market-paperback=2009-12-06",
+        "New York Times bestseller",
+        "New York Times reviewed",
+        "Suspense fiction",
+        "Action & Adventure",
+        "Adventure fiction",
+        "American Detective and mystery stories",
+        "American literature",
+        "Americans",
+        "Americans in fiction",
+        "Assassins",
+        "Crime, fiction",
+        "Criminal investigation",
+        "Detectives",
+        "Ex-police officers",
+        "Ficción",
+        "Fictin",
+        "Fiction, action & adventure",
+        "Fiction, general",
+        "Fiction, mystery & detective, general",
+        "Fiction, suspense",
+        "Fiction, thrillers, military",
+        "Fiction, thrillers, suspense",
+        "General",
+        "Government investigators",
+        "Investigation"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL28762090M",
+            "title": "Jack Reacher",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/46505a973e5e178d51.json",
+    "sha256_archivo_anterior": "06e784a5a71df18cd5ebad6d689719d8a70d904dbc90e637a38eb32b372c7e34"
+  },
+  "OL471891W": {
+    "datos": {
+      "author_key": [
+        "OL27695A"
+      ],
+      "author_name": [
+        "Agatha Christie"
+      ],
+      "cover_i": 14570595,
+      "first_publish_year": 1949,
+      "key": "/works/OL471891W",
+      "title": "Crooked House",
+      "subject": [
+        "Mystery",
+        "Fiction",
+        "Jane Marple (Fictitious character)",
+        "Large type books",
+        "Women detectives",
+        "Murder",
+        "Investigation",
+        "Detective and mystery stories",
+        "Drama",
+        "Radio plays",
+        "Family secrets",
+        "Film adaptations",
+        "Fiction, mystery & detective, general",
+        "Juvenile fiction",
+        "English literature",
+        "English language",
+        "Fiction, mystery & detective, traditional",
+        "England, fiction",
+        "Family life",
+        "Homicide",
+        "Mystery fiction",
+        "Fiction in English"
+      ],
+      "editions": {
+        "numFound": 8,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9142153M",
+            "title": "La casa torcida",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/e842be18a885c735c1.json",
+    "sha256_archivo_anterior": "9e76200b5d95a171f69affa7ac69e70256d070db2a815284b18d03dcb46b1897"
+  },
+  "OL3773939W": {
+    "datos": {
+      "author_key": [
+        "OL665753A"
+      ],
+      "author_name": [
+        "Lynne Graham"
+      ],
+      "cover_i": 5074779,
+      "first_publish_year": 1999,
+      "key": "/works/OL3773939W",
+      "title": "The Sicilian'S Mistress (La Amante Del Siciliano)",
+      "subject": [
+        "Fiction, romance, general",
+        "Amnesia",
+        "Fiction",
+        "Unmarried mothers",
+        "Fiction, romance, contemporary"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL10745399M",
+            "title": "La Amante Del Siciliano (The Sicilian'S Mistress)",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/991a690c1dee9949e3.json",
+    "sha256_archivo_anterior": "51df1bbc504363fb3dd1d4168f8aa468e4c6f83437363b2b68798aafccb028d0"
+  },
+  "OL41050W": {
+    "datos": {
+      "author_key": [
+        "OL28127A"
+      ],
+      "author_name": [
+        "Edgar Allan Poe"
+      ],
+      "cover_i": 11860130,
+      "first_publish_year": 1922,
+      "key": "/works/OL41050W",
+      "title": "The Masque of the Red Death",
+      "subject": [
+        "gothic fiction",
+        "horror",
+        "short story",
+        "plagues",
+        "abbeys",
+        "nobility",
+        "Hematidrosis",
+        "masquerade balls",
+        "shrouds",
+        "daggers",
+        "American horror tales",
+        "Fiction",
+        "Juvenile audience",
+        "Horror tales",
+        "Horror stories",
+        "Horror fiction",
+        "American fiction (fictional works by one author)",
+        "Fiction, horror",
+        "Children's fiction",
+        "Reading comprehension",
+        "Compréhension de la lecture",
+        "Fiction, general"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13196722M",
+            "title": "La Mascara de La Muerte Roja",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/6222a90e74671511e6.json",
+    "sha256_archivo_anterior": "4cb7936d29e36e255a7dd3fb70aa4013ade1fd1d6f4f8d9a715f2f043698c00e"
+  },
+  "OL1882552W": {
+    "datos": {
+      "author_key": [
+        "OL225331A"
+      ],
+      "author_name": [
+        "Colleen McCullough"
+      ],
+      "cover_i": 2269334,
+      "first_publish_year": 1997,
+      "key": "/works/OL1882552W",
+      "title": "Caesar",
+      "subject": [
+        "Fiction, historical",
+        "Fiction",
+        "History",
+        "Generals",
+        "Fiction, historical, general",
+        "Rome, fiction",
+        "Fiction, romance, historical, general",
+        "Novela australiana",
+        "Novela histórica australiana"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13188876M",
+            "title": "Cesar",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/20d0afdb0ec1b86958.json",
+    "sha256_archivo_anterior": "2787a9c5d4325e5de71ce4eb796cfb8a7a3d118dc8427360ef2d7fb4b53cc927"
+  },
+  "OL46760W": {
+    "datos": {
+      "author_key": [
+        "OL34287A"
+      ],
+      "author_name": [
+        "Jeannette Walls"
+      ],
+      "cover_i": 11517692,
+      "first_publish_year": 2005,
+      "key": "/works/OL46760W",
+      "title": "The Glass Castle",
+      "subject": [
+        "Poor",
+        "Problem families",
+        "Dysfunctional families",
+        "Homeless persons",
+        "Case studies",
+        "New York Times bestseller",
+        "Family relationships",
+        "nyt:paperback_nonfiction=2007-03-03",
+        "Biography",
+        "Children of alcoholics",
+        "Extraterrestrial beings",
+        "Science fiction",
+        "Survival",
+        "War",
+        "Fiction",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 12",
+        "Child of Impaired Parents",
+        "Family Relations",
+        "Large type books",
+        "West virginia, biography",
+        "Rural poor",
+        "Poor, united states",
+        "Journalists, biography",
+        "New York Times reviewed",
+        "nyt:e-book-nonfiction=2011-02-13",
+        "Casos de estudio",
+        "Biografi a.",
+        "Hijos de padres alcoho licos",
+        "Desamparados",
+        "Pobres",
+        "Familias problema ticas",
+        "Relaciones familiares",
+        "Familias problemáticas",
+        "Hijos de padres alcohólicos",
+        "Personas sin hogar",
+        "Biografía",
+        "Childhood and youth",
+        "Women journalists",
+        "Pobreza",
+        "Families",
+        "Hijos de alcohólicos",
+        "Familias",
+        "Poverty",
+        "Relaciones de familia",
+        "Problemas familiares",
+        "Biographies",
+        "Enfance et jeunesse",
+        "Famille",
+        "Enfants d'alcooliques",
+        "Familles inadaptées",
+        "Cas, Études de",
+        "Pauvres",
+        "Sans-abri",
+        "Relations familiales",
+        "Enfant d'alcoolique",
+        "Famille dysfonctionnelle",
+        "Itinérance",
+        "Jeunesse (Biographie)",
+        "Pauvreté",
+        "Biographie",
+        "Enfant de parents alcooliques",
+        "Document",
+        "collectionID:EanesChallenge",
+        "collectionID:ConroeChallenge",
+        "Adult Children",
+        "Personal Narratives",
+        "Alcoholism",
+        "collectionID:bannedbooks",
+        "Walls, jeannette",
+        "Children of alcoholics--united states--biography",
+        "Children of alcoholics--west virginia--welch--biography",
+        "Dysfunctional families--united states--case studies",
+        "Dysfunctional families--west virginia--welch--case studies",
+        "Poor--west virginia--welch--biography",
+        "Homeless persons--family relationships",
+        "Homeless persons--new york (state)--new york--family relationships",
+        "Homeless persons--family relationships--new york (state)--new york",
+        "Hv5132 .w35 2005",
+        "Ws 105.5.f2 w215g 2005",
+        "362.82/092 b",
+        "Social work & human services",
+        "General & miscellaneous biography",
+        "United states studies",
+        "Family memoirs - biography",
+        "Public affairs & policies",
+        "Patient narratives",
+        "Social problems"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL61297192M",
+            "title": "El castillo de cristal",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5444df7355ca043438.json",
+    "sha256_archivo_anterior": "6a91d7b94583b4760eb013f5540fb3702e3d6d31709233409ed62683f3701bcf"
+  },
+  "OL3649331W": {
+    "datos": {
+      "author_key": [
+        "OL625035A"
+      ],
+      "author_name": [
+        "Francisco Triguero Ruiz"
+      ],
+      "first_publish_year": 1989,
+      "key": "/works/OL3649331W",
+      "title": "Tecnologías de la información",
+      "subject": [
+        "Information technology",
+        "History"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL1197927M",
+            "title": "Tecnologías de la información",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8aa87b8f2f3f50f1a1.json",
+    "sha256_archivo_anterior": "11d2f04a991ff2fb249fc043ac303fddbf31963ce83f66f294590c45f6dba8d6"
+  },
+  "OL3199495W": {
+    "datos": {
+      "author_key": [
+        "OL515330A",
+        "OL382273A"
+      ],
+      "author_name": [
+        "Black Elk",
+        "John Gneisenau Neihardt"
+      ],
+      "cover_i": 5492603,
+      "first_publish_year": 1932,
+      "key": "/works/OL3199495W",
+      "title": "Black Elk speaks",
+      "subject": [
+        "Biography",
+        "Indians of North America",
+        "Oglala Indians",
+        "Religion",
+        "Religion and mythology",
+        "Teton Indians",
+        "Indios de América del Norte",
+        "Teton (Indios)",
+        "Lakota Indians",
+        "Oglala (Indios)",
+        "Dakota Indians",
+        "Oglala mythology",
+        "Indian mythology",
+        "Oglala Sioux",
+        "73.53 immaterial culture (ethnology)",
+        "Black Elk, Oglala Indian, 1863-1950",
+        "Lakota",
+        "University of South Alabama",
+        "Indianer",
+        "Oglala",
+        "Weltbild",
+        "State & Local",
+        "Historical",
+        "BIOGRAPHY & AUTOBIOGRAPHY",
+        "HISTORY",
+        "Black elk, 1863-1950",
+        "Indians of north america, west (u.s.)",
+        "Indians of north america, biography",
+        "Black elk , 1863-1950",
+        "Oglala indians--biography",
+        "Oglala indians--religion",
+        "E99.o3 b484 2004",
+        "978.004/975244/0092 b",
+        "E99.q3 b48 2008",
+        "978.004/9752440092 b",
+        "Indians of north america, great plains"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL4978255M",
+            "title": "Los últimos Sioux",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/d87d9a8385e4818afb.json",
+    "sha256_archivo_anterior": "ae94fb93155e72671242b3520ea33e4b5c0c9650b6f573180a19a48cf7a7ba8e"
+  },
+  "OL19659793W": {
+    "datos": {
+      "author_key": [
+        "OL7511248A"
+      ],
+      "author_name": [
+        "Tomi Adeyemi"
+      ],
+      "cover_i": 8572526,
+      "first_publish_year": 2017,
+      "key": "/works/OL19659793W",
+      "title": "Children of Blood and Bone",
+      "subject": [
+        "YOUNG ADULT FICTION / Legends, Myths, Fables / General",
+        "Magic",
+        "Brothers and sisters",
+        "Resistance to Government",
+        "Youths' writings",
+        "Prejudices",
+        "Fiction",
+        "Fantasy",
+        "YOUNG ADULT FICTION / Social Themes / Prejudice & Racism",
+        "YOUNG ADULT FICTION / Fantasy / General",
+        "Princesses",
+        "Siblings",
+        "Princes",
+        "Children's fiction",
+        "Magic, fiction",
+        "Fantasy fiction",
+        "nyt:young-adult-hardcover=2018-03-25",
+        "New York Times bestseller",
+        "Young adult",
+        "sci-fi",
+        "Juvenile fiction",
+        "YOUNG ADULT FICTION",
+        "General",
+        "Legends, Myths, Fables",
+        "Social Themes",
+        "Prejudice & Racism",
+        "Teenagers' writings",
+        "Young adult fiction, legends, myths, fables, general",
+        "Young adult fiction, fantasy, epic",
+        "Young adult fiction, social themes, prejudice & racism"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL29791898M",
+            "title": "Hijos de sangre y hueso",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/e9ddb16f49e827c857.json",
+    "sha256_archivo_anterior": "2de1658a735f7c7850006323e7f970e594a5a2918e1cdcb61b99eda835c7b377"
+  },
+  "OL81601W": {
+    "datos": {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 9255939,
+      "first_publish_year": 1999,
+      "key": "/works/OL81601W",
+      "title": "On Writing",
+      "subject": [
+        "writing",
+        "Salem’s Lot",
+        "science fiction",
+        "Happy Stamps",
+        "The Elements of Style",
+        "drinking",
+        "adverbs",
+        "Horror tales--Authorship",
+        "Locus Award winner",
+        "Bram Stoker Award winner",
+        "biography",
+        "Arte de escribir",
+        "Novelistas estadounidenses",
+        "Biografía",
+        "Autores estadounidenses",
+        "American Novelists",
+        "Technique",
+        "Literary Memoir",
+        "American Authors",
+        "Authorship",
+        "Memoir",
+        "authors",
+        "Horror tales",
+        "Cuentos de terror",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 12",
+        "Authors, biography",
+        "Horror tales, authorship",
+        "King, stephen, 1947-",
+        "Performing arts, biography",
+        "nyt:education=2014-12-07",
+        "New York Times bestseller",
+        "Personal memoirs",
+        "[document]",
+        "Style",
+        "Écrivains américains",
+        "Biographies",
+        "Récits d'horreur",
+        "Art d'écrire",
+        "Récits personnels",
+        "Création littéraire",
+        "Document",
+        "King, stephen , 1947-",
+        "Authorshipking, stephen , 1947-",
+        "Authors, american",
+        "Authors, american--20th century--biography",
+        "American authors--biography",
+        "Horror fiction--technique",
+        "Ps3561.i483 z475 2010",
+        "813/.54",
+        "Biography: general",
+        "Creative writing guides",
+        "Literature: History & Criticism",
+        "Biography/Autobiography",
+        "Biography & Autobiography",
+        "Biography / Autobiography",
+        "Literary",
+        "Composition & Creative Writing - General",
+        "Language Arts & Disciplines / Composition & Creative Writing",
+        "20th century",
+        "Horror fiction"
+      ],
+      "editions": {
+        "numFound": 8,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL22996851M",
+            "title": "Mientras escribo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5444df7355ca043438.json",
+    "sha256_archivo_anterior": "6a91d7b94583b4760eb013f5540fb3702e3d6d31709233409ed62683f3701bcf"
+  },
+  "OL17461718W": {
+    "datos": {
+      "author_key": [
+        "OL579518A"
+      ],
+      "author_name": [
+        "Robyn Donald"
+      ],
+      "cover_i": 7625671,
+      "first_publish_year": 2011,
+      "key": "/works/OL17461718W",
+      "title": "One Night In The Orient",
+      "subject": [
+        "Fiction",
+        "romance",
+        "Fiction, romance, general",
+        "Man-woman relationships",
+        "Fiction, romance, erotica",
+        "Man-woman relationships, fiction",
+        "Fiction, romance, erotic",
+        "Americans",
+        "Betrothal"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL29652139M",
+            "title": "Noche en Oriente",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/991a690c1dee9949e3.json",
+    "sha256_archivo_anterior": "51df1bbc504363fb3dd1d4168f8aa468e4c6f83437363b2b68798aafccb028d0"
+  },
+  "OL1914079W": {
+    "datos": {
+      "author_key": [
+        "OL229268A"
+      ],
+      "author_name": [
+        "Ken Follett"
+      ],
+      "cover_i": 362346,
+      "first_publish_year": 1961,
+      "key": "/works/OL1914079W",
+      "title": "World Without End",
+      "subject": [
+        "Fiction",
+        "Great Britain",
+        "New York Times bestseller",
+        "Peste Negra",
+        "Historia",
+        "Plague",
+        "Historical fiction",
+        "Peste bubónica",
+        "Epidemics",
+        "Open Library Staff Picks",
+        "Novela histórica",
+        "Epidemias",
+        "History",
+        "Black Death",
+        "Suspense",
+        "nyt:mass_market_paperback=2010-08-15",
+        "Ficción",
+        "Fiction, historical",
+        "England, fiction",
+        "Middle Ages",
+        "Roman anglais",
+        "Familie",
+        "Kirchenbau",
+        "Baumeister",
+        "Fiction, historical, general",
+        "Peste noire",
+        "Romans, nouvelles",
+        "Histoire",
+        "Novela"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL23125290M",
+            "title": "Un mundo sin fin",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/6084e48977a268e5bf.json",
+    "sha256_archivo_anterior": "6c965e350f98b59986e5d8dca1a9453f86d1565772a8b16db2ecf2f7648f92be"
+  },
+  "OL20168133W": {
+    "datos": {
+      "author_key": [
+        "OL7147517A"
+      ],
+      "author_name": [
+        "Matthew P. Walker"
+      ],
+      "cover_i": 8814155,
+      "first_publish_year": 2017,
+      "key": "/works/OL20168133W",
+      "title": "Why We Sleep",
+      "subject": [
+        "sleep",
+        "health & fitness",
+        "sleep & sleep disorders",
+        "science",
+        "life sciences",
+        "Human Anatomy & Physiology",
+        "psychology",
+        "mental health",
+        "Sleep, psychological aspects",
+        "Dreams",
+        "nyt:science=2017-11-12",
+        "New York Times bestseller",
+        "Physiological aspects",
+        "Physiology",
+        "Health and Wellbeing"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL30777366M",
+            "title": "Por qué dormimos",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8c9ec138a773d15fa7.json",
+    "sha256_archivo_anterior": "39899a07a842c6ee9a71ccd3467317f18619ffd7f8de714f11b9e010e296d4bb"
+  },
+  "OL17038299W": {
+    "datos": {
+      "author_key": [
+        "OL1353999A"
+      ],
+      "author_name": [
+        "Daniel James Brown"
+      ],
+      "cover_i": 12722394,
+      "first_publish_year": 2013,
+      "key": "/works/OL17038299W",
+      "title": "The Boys in the Boat",
+      "subject": [
+        "University of Washington",
+        "Olympic Games (11th : 1936 : Berlin, Germany)",
+        "Rowers",
+        "Olympics",
+        "Rowing",
+        "American Participation",
+        "Biography",
+        "History",
+        "Juvenile literature",
+        "Athletic Performance",
+        "Olympic Games. fast (OCoLC)fst01408249",
+        "Olympic games, 1936 (Berlin, Germany)",
+        "Athletes, united states",
+        "Athletes, biography",
+        "Olympics, juvenile literature",
+        "Athletes, juvenile literature",
+        "Athletes",
+        "Large type books",
+        "SPORTS & RECREATION / Olympics",
+        "nyt:hardcover-nonfiction=2013-06-23",
+        "New York Times bestseller",
+        "Remo (Deporte)",
+        "Historia",
+        "Remeros",
+        "Biografía",
+        "SPORTS & RECREATION",
+        "Social aspects",
+        "Olympic Games (11th : 1936 : Berlin, Germany) (uri) http://id.loc.gov/authorities/names/n85136486 (uri) http://viaf.org/viaf/sourceID/LC|n85136486"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL27226080M",
+            "title": "Remando como un solo hombre",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/268e648081a6e2baa3.json",
+    "sha256_archivo_anterior": "d92cffc6b186a71995cab37ce453b8c3d6dba0cbb627c40b44413a5b2d76fcf0"
+  },
+  "OL27675460W": {
+    "datos": {
+      "author_key": [
+        "OL2630398A"
+      ],
+      "author_name": [
+        "Tui T. Sutherland"
+      ],
+      "cover_i": 12649941,
+      "first_publish_year": 2013,
+      "key": "/works/OL27675460W",
+      "title": "The Dark Secret",
+      "subject": [
+        "Er tong wen xue",
+        "Chang pian xiao shuo",
+        "Children's fiction",
+        "Dragons, fiction",
+        "Identity, fiction",
+        "Adventure and adventurers, fiction",
+        "Identity (Psychology)",
+        "Juvenile fiction",
+        "Dragons",
+        "Prophecy",
+        "Identity",
+        "Fiction",
+        "Adolescence, fiction",
+        "Fantasy fiction",
+        "Adventure and adventurers",
+        "Secrets",
+        "Prophecies",
+        "Action & Adventure",
+        "Fantasy & Magic",
+        "Social Themes",
+        "Adolescence",
+        "Secrecy",
+        "Adventure fiction",
+        "nyt:series-books=2013-11-17",
+        "New York Times bestseller",
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "Prophétie",
+        "Identité (Psychologie)"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47350851M",
+            "title": "El oscuro secreto",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/39dced7315e65dad1c.json",
+    "sha256_archivo_anterior": "8f7fbfcc72aa2004ebca3da11837e29360e135447dbff5699c5eef7a91bb206f"
+  },
+  "OL2727030W": {
+    "datos": {
+      "author_key": [
+        "OL399295A"
+      ],
+      "author_name": [
+        "Matthew Woodring Stover"
+      ],
+      "cover_i": 6631590,
+      "first_publish_year": 2005,
+      "key": "/works/OL2727030W",
+      "title": "Star Wars Episode III - Revenge of the Sith",
+      "subject": [
+        "Space warfare",
+        "Star Wars fiction",
+        "Fiction",
+        "Science fiction",
+        "Life on other planets",
+        "Fiction, science fiction, general",
+        "collectionID:starwars"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13354143M",
+            "title": "Star Wars, Episodio III/Star Wars, Episode III",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/46505a973e5e178d51.json",
+    "sha256_archivo_anterior": "06e784a5a71df18cd5ebad6d689719d8a70d904dbc90e637a38eb32b372c7e34"
+  },
+  "OL8076306W": {
+    "datos": {
+      "author_key": [
+        "OL18977A"
+      ],
+      "author_name": [
+        "Nora Roberts"
+      ],
+      "cover_i": 6461849,
+      "first_publish_year": 1996,
+      "key": "/works/OL8076306W",
+      "title": "Rapture in Death",
+      "subject": [
+        "Women detectives",
+        "Detective and mystery stories",
+        "Police",
+        "Eve Dallas (Fictitious character)",
+        "Policewomen",
+        "Policewoman",
+        "Fiction",
+        "Dallas, eve (fictitious character), fiction",
+        "Fiction, mystery & detective, women sleuths",
+        "New york (n.y.), fiction",
+        "Policewomen, fiction",
+        "Fiction, mystery & detective, police procedural",
+        "Large type books",
+        "Spanish fiction",
+        "Spanish language materials",
+        "Materiales en espanol",
+        "Ficcion"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL32097850M",
+            "title": "Extasis ante la muerte",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/64426eb49faa7d20ac.json",
+    "sha256_archivo_anterior": "e6189283adcf4fa71dab2b53f09cf45a51ab9650f3a947d9df405c6e97f42e94"
+  },
+  "OL25960185W": {
+    "datos": {
+      "author_key": [
+        "OL9812944A"
+      ],
+      "author_name": [
+        "Carley Fortune"
+      ],
+      "cover_i": 15105890,
+      "first_publish_year": 2022,
+      "key": "/works/OL25960185W",
+      "title": "Every Summer After",
+      "subject": [
+        "nyt:trade-fiction-paperback=2022-06-19",
+        "New York Times bestseller",
+        "Fiction, women",
+        "Fiction, romance, contemporary"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL48238136M",
+            "title": "Todos Nuestros Veranos",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/ade2c6bcae3a684827.json",
+    "sha256_archivo_anterior": "35ff9e2c6c1829c1f4f045acca991c8c032f9c730c19d8e2c6864496f40cf6bf"
+  },
+  "OL106084W": {
+    "datos": {
+      "author_key": [
+        "OL20243A"
+      ],
+      "author_name": [
+        "Graham Greene"
+      ],
+      "cover_i": 4345363,
+      "first_publish_year": 1940,
+      "key": "/works/OL106084W",
+      "title": "The Power and the Glory",
+      "subject": [
+        "Anti-clericalism",
+        "Catholic Church",
+        "Catholics",
+        "Clergy",
+        "Fiction",
+        "Persecution",
+        "Social life and customs",
+        "Classics",
+        "Multicultural",
+        "Supsense",
+        "Historical fiction",
+        "Classic",
+        "British and irish fiction (fictional works by one author)",
+        "Clergy, fiction",
+        "Mexico, fiction",
+        "Fiction, christian, general",
+        "Large type books",
+        "Anticléricalisme",
+        "Romans, nouvelles",
+        "Catholiques",
+        "Clergé",
+        "Aufsatzsammlung",
+        "English fiction",
+        "Priests",
+        "Fiction, general",
+        "History",
+        "Medicine",
+        "Scientists"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL46523962M",
+            "title": "El poder y la gloria",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/34057a9d5966483325.json",
+    "sha256_archivo_anterior": "5ce485d751ca95c0861af42205face399710fb791114ec3002963b6931a08204"
+  },
+  "OL46358W": {
+    "datos": {
+      "author_key": [
+        "OL34221A"
+      ],
+      "author_name": [
+        "Isaac Asimov"
+      ],
+      "cover_i": 14615999,
+      "first_publish_year": 1964,
+      "key": "/works/OL46358W",
+      "title": "Asimov's biographical encyclopedia of science and technology",
+      "subject": [
+        "Science",
+        "History",
+        "Biography",
+        "Scientists",
+        "Dictionaries",
+        "Chronology",
+        "Technology",
+        "Scientifiques",
+        "Biographies",
+        "Dictionnaires anglais",
+        "Naturwissenschaftler",
+        "Techniker",
+        "Biografie",
+        "Natuurwetenschappen",
+        "Techniek",
+        "Scientists, biography"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL22906395M",
+            "title": "Enciclopedia biográfica de ciencia y tecnología",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/7e7ff1c8ce229fb6cb.json",
+    "sha256_archivo_anterior": "7ebc65b33ba28943be83193e5549ebb177c150f6540c1939e8438c44f8216d4f"
+  },
+  "OL62073W": {
+    "datos": {
+      "author_key": [
+        "OL23561A"
+      ],
+      "author_name": [
+        "Richard Bach"
+      ],
+      "cover_i": 6522230,
+      "first_publish_year": 1970,
+      "key": "/works/OL62073W",
+      "title": "Jonathan Livingston Le Goeland",
+      "subject": [
+        "Gaviotas",
+        "Open Library Staff Picks",
+        "Gulls",
+        "Fiction",
+        "Ficción juvenil",
+        "Juvenile fiction",
+        "Goélands dans la littérature",
+        "Reading Level-Grade 7",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 8",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Fiction, visionary & metaphysical",
+        "Large type books",
+        "Goélands",
+        "Romans",
+        "CUENTOS ESTADOUNIDENSES",
+        "Messiah",
+        "Actualización de sí mismo (Psicología)",
+        "Ficción",
+        "Self-actualization (Psychology)",
+        "Self-perception",
+        "Novela juvenil",
+        "Novela estadounidense",
+        "Autorrealización (Psicología)",
+        "Novela",
+        "Literatura estadounidense",
+        "Animal behavior",
+        "Conducta animal",
+        "Fiction, general",
+        "award:Nēnē_award",
+        "Classics",
+        "Philosophy",
+        "Fantasy",
+        "Spirituality",
+        "Self Help",
+        "Inspirational",
+        "Literature",
+        "Novels",
+        "Animals"
+      ],
+      "editions": {
+        "numFound": 13,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL37824181M",
+            "title": "Juan Salvador Gaviota",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/fe7b94e430effc9ca9.json",
+    "sha256_archivo_anterior": "7ec343473ca6323b38e1b532bed86c869737e49764c04c49907f59d03d6fc6f3"
+  },
+  "OL5734643W": {
+    "datos": {
+      "author_key": [
+        "OL1394231A"
+      ],
+      "author_name": [
+        "John Scalzi"
+      ],
+      "cover_i": 876292,
+      "first_publish_year": 2005,
+      "key": "/works/OL5734643W",
+      "title": "Agent to the Stars",
+      "subject": [
+        "Theatrical agents",
+        "Extraterrestrial beings",
+        "Fiction",
+        "Human-alien encounters",
+        "Fiction, general",
+        "Hollywood (los angeles, calif.), fiction",
+        "Fiction, science fiction, general",
+        "Actors, fiction",
+        "Life on other planets",
+        "American literature"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL30153146M",
+            "title": "El agente de las estrellas",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/ed7429b217b8d7f410.json",
+    "sha256_archivo_anterior": "7ff3adf739db1d10a82b304a0b2cc38e3846b9e9fa4d7f77f9e0652324cecc3d"
+  },
+  "OL3759017W": {
+    "datos": {
+      "author_key": [
+        "OL661093A"
+      ],
+      "author_name": [
+        "Penny Jordan"
+      ],
+      "cover_i": 5004458,
+      "first_publish_year": 2003,
+      "key": "/works/OL3759017W",
+      "title": "Amor en el Desierto (Noches Arabes)",
+      "subject": [
+        "Spanish language materials",
+        "Fiction, romance, contemporary",
+        "Fiction, romance, general",
+        "Fiction, Romance, Contemporary",
+        "Arranged marriage, fiction"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9704390M",
+            "title": "Amor en el Desierto (Noches Arabes)",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/121d1ef8e406ffa324.json",
+    "sha256_archivo_anterior": "66b704559fe2ae10c297fab0ff698e272926ed6c92ef6351aaf4cc24fdefe069"
+  },
+  "OL5822718W": {
+    "datos": {
+      "author_key": [
+        "OL1426790A"
+      ],
+      "author_name": [
+        "Richard Yancey"
+      ],
+      "cover_i": 6266607,
+      "first_publish_year": 2009,
+      "key": "/works/OL5822718W",
+      "title": "The monstrumologist",
+      "subject": [
+        "Apprentices",
+        "Fiction",
+        "History",
+        "Monsters",
+        "Orphans",
+        "Supernatural",
+        "Horror stories",
+        "Juvenile fiction",
+        "Children's fiction",
+        "Supernatural, fiction",
+        "Monsters, fiction",
+        "Apprentices, fiction",
+        "Orphans, fiction",
+        "New england, fiction",
+        "Paranormal fiction",
+        "Horror tales",
+        "Scientists",
+        "Diary fiction",
+        "Historical fiction",
+        "Fantasy fiction",
+        "Ebook",
+        "Action & Adventure",
+        "Science Fiction, Fantasy, Magic",
+        "Other"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL34929741M",
+            "title": "monstrumólogo (Monstrumólogo 1)",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/27b8461d0c9de85e1c.json",
+    "sha256_archivo_anterior": "a15247af2272c8b2c3c2fe9d47e4831c48d51cb2e37c38ff4f3d91f2036d1c9d"
+  },
+  "OL2918760W": {
+    "datos": {
+      "author_key": [
+        "OL444620A"
+      ],
+      "author_name": [
+        "James Clavell"
+      ],
+      "cover_i": 1004316,
+      "first_publish_year": 1966,
+      "key": "/works/OL2918760W",
+      "title": "Tai-Pan (Asian Saga",
+      "subject": [
+        "19th century",
+        "British",
+        "Fiction",
+        "Historical Fiction",
+        "History",
+        "Fiction, historical, general",
+        "Hong kong (china), fiction",
+        "Fiction, general"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13822200M",
+            "title": "Taipan",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8c07c88fa7a5e16d32.json",
+    "sha256_archivo_anterior": "eccaba16fb2e143c1fd7452c0731d2498403b1d2597603d55490a95e0b1227e8"
+  },
+  "OL16814568W": {
+    "datos": {
+      "author_key": [
+        "OL466123A"
+      ],
+      "author_name": [
+        "Thomas Piketty"
+      ],
+      "cover_i": 7274591,
+      "first_publish_year": 2013,
+      "key": "/works/OL16814568W",
+      "title": "Le capital au XXIe siècle",
+      "subject": [
+        "Capitalism",
+        "wealth",
+        "capital",
+        "inequality",
+        "social welfare",
+        "democracy",
+        "Wohlstand",
+        "Income distribution",
+        "Produktionsfaktor",
+        "Einkommensverteilung",
+        "Labor economics",
+        "Arbeitsökonomie",
+        "Kapital",
+        "nyt:hardcover-nonfiction=2014-04-13",
+        "New York Times bestseller",
+        "economy",
+        "thomas piketty",
+        "History",
+        "Equality",
+        "Distribution (Economic theory)",
+        "Revenu",
+        "Répartition",
+        "Richesse",
+        "Économie du travail",
+        "BUSINESS & ECONOMICS",
+        "Finance",
+        "POLITICAL SCIENCE",
+        "Public Policy",
+        "Economic Policy",
+        "Kapitalism",
+        "Inkomstfördelning",
+        "Jämlikhet",
+        "Finance and Accounting",
+        "Hb501 .p43613 2014",
+        "332/.041",
+        "Qc 200",
+        "Capitalisme",
+        "Histoire",
+        "Répartition (Théorie économique)",
+        "Disparités de salaires"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25649859M",
+            "title": "El capital en el siglo XXI",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8c07c88fa7a5e16d32.json",
+    "sha256_archivo_anterior": "eccaba16fb2e143c1fd7452c0731d2498403b1d2597603d55490a95e0b1227e8"
+  },
+  "OL319529W": {
+    "datos": {
+      "author_key": [
+        "OL2981A"
+      ],
+      "author_name": [
+        "Kauṭalya."
+      ],
+      "cover_i": 14999026,
+      "first_publish_year": 1923,
+      "key": "/works/OL319529W",
+      "title": "The Arthashastra",
+      "subject": [
+        "Early works to 1800",
+        "History",
+        "Political science",
+        "Politics and government",
+        "Social conditions",
+        "State, The",
+        "The State",
+        "Political science, india",
+        "India, politics and government",
+        "India, social conditions",
+        "Political science, early works to 1800",
+        "Social life and customs",
+        "Administrative law",
+        "Sources",
+        "Law",
+        "Politics"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13266185M",
+            "title": "El arte de la riqueza",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/d5e24698da3f98d817.json",
+    "sha256_archivo_anterior": "41e9054e1038393ea0238a54036522ecf9759fdb335c6c2d8df2c69d1f14a0d6"
+  },
+  "OL3220664W": {
+    "datos": {
+      "author_key": [
+        "OL522117A"
+      ],
+      "author_name": [
+        "Miguel S. Wionczek"
+      ],
+      "cover_i": 4015266,
+      "first_publish_year": 1988,
+      "key": "/works/OL3220664W",
+      "title": "La transferencia internacional de tecnología",
+      "subject": [
+        "Technology",
+        "Technological innovations",
+        "Technology transfer"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL1780833M",
+            "title": "La transferencia internacional de tecnología",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/138e8b5cb3f230e11d.json",
+    "sha256_archivo_anterior": "3fa15e507ad1989651be62ec7bf12c79fd21606b67f024eee47f4e51c17dc3af"
+  },
+  "OL1140125W": {
+    "datos": {
+      "author_key": [
+        "OL4328696A"
+      ],
+      "author_name": [
+        "Pearl S. Buck"
+      ],
+      "cover_i": 3215453,
+      "first_publish_year": 1936,
+      "key": "/works/OL1140125W",
+      "title": "The Exile",
+      "subject": [
+        "Missions",
+        "Open Library Staff Picks",
+        "China",
+        "Vietnamese language books",
+        "Missionaries",
+        "Biography",
+        "Women missionaries",
+        "Mothers of authors"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL22900874M",
+            "title": "La exilada, retrato de una madre americana.",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/1e882e47ed9004d710.json",
+    "sha256_archivo_anterior": "2dd77f00dab08ef271e5915aa8ff188e8e34220632c6ea0375f0a525f63379bd"
+  },
+  "OL167169W": {
+    "datos": {
+      "author_key": [
+        "OL22258A"
+      ],
+      "author_name": [
+        "James Patterson"
+      ],
+      "cover_i": 189675,
+      "first_publish_year": 1997,
+      "key": "/works/OL167169W",
+      "title": "Cat & Mouse",
+      "subject": [
+        "Fiction",
+        "Police",
+        "Alex Cross (Fictitious character)",
+        "Serial murderers",
+        "Police psychologists",
+        "African American police",
+        "Detective and mystery stories",
+        "Psychologists",
+        "Alex Cross (Fictional character)",
+        "Serial killers",
+        "Large print books",
+        "African Americans",
+        "Cross, alex (fictitious character), fiction",
+        "Paris (france), fiction",
+        "Washington (d.c.), fiction",
+        "Fiction, mystery & detective, police procedural",
+        "Fiction, psychological",
+        "African americans, fiction",
+        "Serial murders, fiction",
+        "Fiction, thrillers, suspense",
+        "Policiers noirs américains",
+        "Romans, nouvelles",
+        "Psychologues policiers",
+        "Tueurs en série",
+        "Adventure / thriller",
+        "Crime & mystery",
+        "Horror & ghost stories",
+        "collectionid:ac",
+        "Politics and government",
+        "Opposition (Political science)",
+        "Riots",
+        "Demonstrations"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13188685M",
+            "title": "El gato y el ratón",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/03048a3553bd0f7200.json",
+    "sha256_archivo_anterior": "e3ba128034b16b684ad2b1f6883e05f600f68b1b6e2ce5ecf0d84d2f25fe2463"
+  },
+  "OL17209694W": {
+    "datos": {
+      "author_key": [
+        "OL2703408A"
+      ],
+      "author_name": [
+        "Elisabetta Dami"
+      ],
+      "cover_i": 7373904,
+      "first_publish_year": 1900,
+      "key": "/works/OL17209694W",
+      "title": "Amore alla corte degli zar",
+      "subject": [
+        "Fiction",
+        "Juvenile literature",
+        "Action Adventure",
+        "Mystery and detective stories",
+        "Stealing",
+        "Sisters",
+        "Mice",
+        "Contests",
+        "Ice skating",
+        "Letters",
+        "Thea Stilton series",
+        "Children's fiction",
+        "Letters, fiction"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25781868M",
+            "title": "Amor en la corte de los zares",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/80edcb57f855e23fc0.json",
+    "sha256_archivo_anterior": "c7d0e727f5117701ef1ebcc8bdd06868ea781ddfe34234e29080c263e6ebf5cf"
+  },
+  "OL2950913W": {
+    "datos": {
+      "author_key": [
+        "OL450295A"
+      ],
+      "author_name": [
+        "Carl Sagan"
+      ],
+      "cover_i": 6987034,
+      "first_publish_year": 1979,
+      "key": "/works/OL2950913W",
+      "title": "Broca's Brain",
+      "subject": [
+        "Ciencia y civilizacio n.",
+        "Ciencias espaciales",
+        "Science and civilization",
+        "Cerebro",
+        "Spanish language",
+        "Brain",
+        "Inteligencia",
+        "Space sciences",
+        "Intellect",
+        "Brain.\u001e 0",
+        "Extraterrestrial Environment",
+        "Sciences spatiales",
+        "Intelligence",
+        "Cerveau",
+        "Méthodologie",
+        "Science",
+        "Sciences",
+        "Broca, Paul, 1824-1880",
+        "Ciencias del espacio",
+        "ಕನ್ನಡ ಸಾಹಿತ್ಯ,ಬಿ.ಎಂ.ಶ್ರೀ ಸಂಚಯ"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9174418M",
+            "title": "El Cerebro de Broca",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/d5e24698da3f98d817.json",
+    "sha256_archivo_anterior": "41e9054e1038393ea0238a54036522ecf9759fdb335c6c2d8df2c69d1f14a0d6"
+  },
+  "OL18998144W": {
+    "datos": {
+      "author_key": [
+        "OL804042A"
+      ],
+      "author_name": [
+        "José Sanmartín"
+      ],
+      "cover_i": 3868036,
+      "first_publish_year": 1992,
+      "key": "/works/OL18998144W",
+      "title": "Estudios sobre sociedad y tecnología",
+      "subject": [
+        "Social aspects",
+        "Science",
+        "Technology"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL1041846M",
+            "title": "Estudios sobre sociedad y tecnología",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/138e8b5cb3f230e11d.json",
+    "sha256_archivo_anterior": "3fa15e507ad1989651be62ec7bf12c79fd21606b67f024eee47f4e51c17dc3af"
+  },
+  "OL23188W": {
+    "datos": {
+      "author_key": [
+        "OL25788A"
+      ],
+      "author_name": [
+        "John Steinbeck"
+      ],
+      "cover_i": 7148028,
+      "first_publish_year": 1951,
+      "key": "/works/OL23188W",
+      "title": "The Log from the Sea of Cortez",
+      "subject": [
+        "Biography & Autobiography",
+        "Description and travel",
+        "Journeys",
+        "Marine animals",
+        "Marine fauna",
+        "Marine invertebrates",
+        "Nonfiction",
+        "Pacific Ocean",
+        "Travel",
+        "Steinbeck, john, 1902-1968",
+        "Voyages and travels",
+        "California, gulf of (mexico)",
+        "Voyages",
+        "Récits de la mer",
+        "Descriptions et voyages",
+        "Récit de voyage",
+        "Geography",
+        "Adventure and adventurers in literature",
+        "Discoveries in geography"
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL47439951M",
+            "title": "Por el mar de Cortés",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/d87d9a8385e4818afb.json",
+    "sha256_archivo_anterior": "ae94fb93155e72671242b3520ea33e4b5c0c9650b6f573180a19a48cf7a7ba8e"
+  },
+  "OL259010W": {
+    "datos": {
+      "author_key": [
+        "OL9388A"
+      ],
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "cover_i": 7205924,
+      "first_publish_year": 1600,
+      "key": "/works/OL259010W",
+      "title": "A Midsummer Night's Dream",
+      "subject": [
+        "Drama",
+        "Courtship",
+        "Plays",
+        "Hippolyta (Greek mythology)",
+        "Theseus (Greek mythology)",
+        "Juvenile drama",
+        "Children's plays, English",
+        "Stage history",
+        "Textual Criticism",
+        "Nonfiction",
+        "Description and travel",
+        "Sources",
+        "Juvenile literature",
+        "Criticism and interpretation",
+        "Critique et interprétation",
+        "Classic Literature",
+        "English Young adult drama",
+        "Amateur theater",
+        "English drama",
+        "Open Library Staff Picks",
+        "Fairy plays",
+        "Silhouettes",
+        "Theater",
+        "Quartos",
+        "Problems, exercises",
+        "Cortejo amoroso",
+        "German Prints",
+        "Comedias",
+        "Teatro",
+        "Fantasy",
+        "Literary Criticism",
+        "English drama (Comedy)",
+        "Midsummer night's dream (Shakespeare, William)",
+        "Man-woman relationships, fiction",
+        "History and criticism",
+        "Shakespeare, William, 1564-1616",
+        "Courtship -- Drama",
+        "Athens (Greece) -- Drama",
+        "Children''s plays",
+        "Dramatic production",
+        "Atenas (Grecia)",
+        "Hipólita (Mitología griega)",
+        "Teseo (Mitología griega)",
+        "Magic",
+        "Adaptations",
+        "Gesher (Theater company : Tel Aviv, Israel)",
+        "Specimens",
+        "Theater programs",
+        "Comedy",
+        "British and irish drama (dramatic works by one author)",
+        "Shakespeare, william, 1564-1616, midsummer night's dream",
+        "Shakespeare, william, 1564-1616, adaptations",
+        "English literature, study and teaching",
+        "Drama (dramatic works by one author)",
+        "Shakespeare, william, 1564-1616, juvenile literature",
+        "English literature",
+        "British and irish fiction (fictional works by one author)",
+        "Drama, british and irish",
+        "Fiction, general",
+        "Children's plays",
+        "Children's fiction",
+        "Fairies, fiction",
+        "Cartoons and comics",
+        "Dreams, fiction",
+        "Shakespeare, william, 1564-1616, criticism and interpretation",
+        "Drama, collections",
+        "Comic books, strips",
+        "Juvenile fiction",
+        "Study and teaching (Secondary)",
+        "Literature",
+        "Shakespeare, william, 1564-1616, comedies",
+        "Theatre",
+        "Shakespeare, William. A midsummer night's dream",
+        "Education",
+        "Rhaeto-Romance/Romansh literature",
+        "Rhaeto-Romance/Romansh drama",
+        "Texts translated into Rhaeto-Romance/Romansh",
+        "Children's literature",
+        "Continental european drama (dramatic works by one author)",
+        "DRAMA / General",
+        "Relaciones hombre-mujer",
+        "Comedies",
+        "Forced removal and internment, 1942-1945",
+        "Shakespeare",
+        "Graphic novels",
+        "Comics & graphic novels, manga, general",
+        "Comics & graphic novels, literary",
+        "Comics & graphic novels, adaptations",
+        "Shakespeare, william , 1564-1616",
+        "Theseus",
+        "Hippolyta (greek mythology)--drama",
+        "Courtship--drama",
+        "Dreams in literature",
+        "Poetry",
+        "Film adaptations",
+        "Film and video adaptations",
+        "Japanese",
+        "Evacuation and relocation, 1942-1945",
+        "Fiction",
+        "Bibliography",
+        "Poetry of places",
+        "Voyages and travels",
+        "English comedy",
+        "Teʼaṭron ha-ʻironi Ḥefah",
+        "Man-woman relationships",
+        "Fiction, historical, general",
+        "Teʼaṭron ha-ʻironi Beʼer-Shevaʻ (Beersheba, Israel)",
+        "Translations into French",
+        "French drama",
+        "Japanese Translations",
+        "Translations into Japanese",
+        "Unrequited love",
+        "Porcelain",
+        "Exhibitions",
+        "Translations into Persian",
+        "A MIDSUMMER NIGHT'S DREAM",
+        "Comics & graphic novels, fantasy",
+        "Love, fiction",
+        "Fantasy fiction",
+        "Comic books, strips, etc.",
+        "Love and Its Madness",
+        "Reality vs. Illusion",
+        "Order and Chaos",
+        "Japanese Art",
+        "Illustrations"
+      ],
+      "editions": {
+        "numFound": 20,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL28339503M",
+            "title": "Ensueno de una noche de estío",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/34057a9d5966483325.json",
+    "sha256_archivo_anterior": "5ce485d751ca95c0861af42205face399710fb791114ec3002963b6931a08204"
+  },
+  "OL46191W": {
+    "datos": {
+      "author_key": [
+        "OL34221A"
+      ],
+      "author_name": [
+        "Isaac Asimov"
+      ],
+      "cover_i": 6706857,
+      "first_publish_year": 1972,
+      "key": "/works/OL46191W",
+      "title": "The early Asimov ; or, Eleven years of trying",
+      "subject": [
+        "American Science fiction"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL25431866M",
+            "title": "El joven Asimov",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/ed7429b217b8d7f410.json",
+    "sha256_archivo_anterior": "7ff3adf739db1d10a82b304a0b2cc38e3846b9e9fa4d7f77f9e0652324cecc3d"
+  },
+  "OL111499W": {
+    "datos": {
+      "author_key": [
+        "OL18977A"
+      ],
+      "author_name": [
+        "Nora Roberts"
+      ],
+      "cover_i": 3202771,
+      "first_publish_year": 1998,
+      "key": "/works/OL111499W",
+      "title": "Homeport",
+      "subject": [
+        "Fiction, Romance, Contemporary",
+        "Love stories, American fiction\"",
+        "Art forgeries, fiction",
+        "Art consultants, fiction",
+        "Art critics, fiction",
+        "Art thieves, fiction, \"Italy",
+        "fiction\"",
+        "Crítica",
+        "Arte",
+        "Novela",
+        "Falsificación de obras de arte",
+        "Large type books\"",
+        "Fiction, romance, suspense",
+        "Criminals, fiction",
+        "Maine",
+        "fiction",
+        ", Roman? suspense, Vol d'objets d'art, Art thefts, Histoires d'amour,",
+        "Romans",
+        "nouvelles\"",
+        "Fiction, gothic, Expertising, Expertises,"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL24764809M",
+            "title": "La dama del faro",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/991a690c1dee9949e3.json",
+    "sha256_archivo_anterior": "51df1bbc504363fb3dd1d4168f8aa468e4c6f83437363b2b68798aafccb028d0"
+  },
+  "OL17077942W": {
+    "datos": {
+      "author_key": [
+        "OL7231153A"
+      ],
+      "author_name": [
+        "Grady Hendrix"
+      ],
+      "cover_i": 8773505,
+      "first_publish_year": 2014,
+      "key": "/works/OL17077942W",
+      "title": "Horrorstör",
+      "subject": [
+        "Fiction",
+        "Furniture showrooms",
+        "Haunted places",
+        "Fiction, horror",
+        "horror comedy",
+        "thriller",
+        "paranormal",
+        "gore"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL37065885M",
+            "title": "Horrorstör",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/6d27e02ab2cfcb9aac.json",
+    "sha256_archivo_anterior": "109da77538bbc730f86abdf0e0a5510efa885106063a49986e52d119b5174803"
+  },
+  "OL362702W": {
+    "datos": {
+      "author_key": [
+        "OL9388A"
+      ],
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "cover_i": 7901303,
+      "first_publish_year": 1656,
+      "key": "/works/OL362702W",
+      "title": "Julius Caesar",
+      "subject": [
+        "Antoine (Marcus Antonius)",
+        "Assassination",
+        "Assassins",
+        "Bibliography",
+        "Biography",
+        "Classic Literature",
+        "Conspiracies",
+        "Drama",
+        "English literature",
+        "Fiction",
+        "Generals",
+        "Heads of state",
+        "History",
+        "History and criticism",
+        "Julius Caesar",
+        "Language",
+        "Outlines, syllabi",
+        "Plays",
+        "Problems, exercises",
+        "Promptbooks",
+        "Rome Civil War, 43-31 B.C.",
+        "Study and teaching",
+        "Théâtre",
+        "Translations into German",
+        "In literature",
+        "Examinations",
+        "Study guides",
+        "English drama",
+        "Rezeption",
+        "open_syllabus_project",
+        "Peace",
+        "Caesar, Julius",
+        "English literature: Shakespeare criticism",
+        "English literature: Shakespeare texts",
+        "Plays / Drama",
+        "English",
+        "Literary Criticism",
+        "Shakespeare",
+        "For National Curriculum Key Stage 3",
+        "Julius Caesar (Shakespeare, William)",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 8",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Tswana language",
+        "Texts",
+        "Teatro",
+        "Stage history",
+        "Translations from English",
+        "Tagalog drama",
+        "Translations into Tagalog",
+        "Nonfiction",
+        "British and irish drama (dramatic works by one author)",
+        "Shakespeare, william, 1564-1616, julius caesar",
+        "Caesar, julius, drama",
+        "Shakespeare, william, 1564-1616, adaptations",
+        "Shakespeare, william, 1564-1616, juvenile literature",
+        "Henry v, king of england, 1387-1422, drama",
+        "Large type books",
+        "Drama, british and irish",
+        "Shakespeare, william, 1564-1616, dramatic production",
+        "Shakespeare, william, 1564-1616",
+        "Renaissance Rhetoric",
+        "Literature",
+        "Education",
+        "Criticism and interpretation",
+        "Textual Criticism",
+        "Pictorial works",
+        "Juvenile fiction",
+        "Adaptations",
+        "Dictators",
+        "Shakespeare, William, 1564-1616, criticism and interpretation",
+        "English literature, history and criticism",
+        "Rome in literature",
+        "Rome",
+        "Histoire",
+        "Tragedies",
+        "Shakespeare, william, 1564-1616, study and teaching",
+        "LITERARY COLLECTIONS",
+        "General",
+        "Roman psychologique",
+        "Roman",
+        "Histoire et critique",
+        "Stream of consciousness",
+        "Shakespeare, william , 1564-1616",
+        "Assassinationcaesar, julius",
+        "Conspiracies--drama",
+        "Assassins--drama",
+        "Pr2808.a2 c45 2012",
+        "822.3/3",
+        "Textbooks",
+        "Literary studies: c 1500 to c 1800",
+        "English drama (Tragedy)",
+        "Early works to 1800",
+        "Fiction, general",
+        "Conspiracies -- Drama",
+        "Brutus, Marcus Junius, 85 B.C.?-42 B.C. -- Drama",
+        "Caesar, Julius -- Assassination -- Drama",
+        "Assassins -- Drama",
+        "Rome -- History -- Civil War, 43-31 B.C. -- Drama",
+        "Drama (dramatic works by one author)",
+        "Fiction, historical, general",
+        "English Tragedy",
+        "American drama",
+        "Translations into Japanese",
+        "Theater programs",
+        "Specimens",
+        "Habimah",
+        "Drama, collections",
+        "Power and Corruption",
+        "Loyalty and Betrayal",
+        "Miniature books",
+        "Juvenile drama"
+      ],
+      "editions": {
+        "numFound": 12,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL32248732M",
+            "title": "Julio César",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5444df7355ca043438.json",
+    "sha256_archivo_anterior": "6a91d7b94583b4760eb013f5540fb3702e3d6d31709233409ed62683f3701bcf"
+  },
+  "OL3931534W": {
+    "datos": {
+      "author_key": [
+        "OL2724944A"
+      ],
+      "author_name": [
+        "Miklós Nyiszli"
+      ],
+      "cover_i": 6822749,
+      "first_publish_year": 1960,
+      "key": "/works/OL3931534W",
+      "title": "Dr. ​Mengele boncolóorvosa voltam az auschwitzi krematóriumban",
+      "subject": [
+        "Holocaust",
+        "Atrocities",
+        "Auschwitz (Concentration camp)",
+        "Biography",
+        "Human experimentation in medicine",
+        "Hungarian Personal narratives",
+        "Physicians",
+        "World War, 1939-1945",
+        "Mengele, josef, 1911-1979",
+        "Human Experimentation",
+        "History",
+        "Guerre mondiale, 1939-1945",
+        "Atrocités",
+        "World war, 1939-1945, personal narratives, hungarian",
+        "World war, 1939-1945, atrocities",
+        "Human experimentation in medicine, history",
+        "Physicians, biography",
+        "Prisons",
+        "Violence"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL27934353M",
+            "title": "Fui asistente del doctor Mengele",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/268e648081a6e2baa3.json",
+    "sha256_archivo_anterior": "d92cffc6b186a71995cab37ce453b8c3d6dba0cbb627c40b44413a5b2d76fcf0"
+  },
+  "OL1835957W": {
+    "datos": {
+      "author_key": [
+        "OL6595354A"
+      ],
+      "author_name": [
+        "Alison Bechdel"
+      ],
+      "cover_i": 12366765,
+      "first_publish_year": 2000,
+      "key": "/works/OL1835957W",
+      "title": "Fun Home",
+      "subject": [
+        "Cartoonists",
+        "Graphic novels",
+        "Comic books, strips",
+        "Closeted gays",
+        "Homosexuality",
+        "Lesbians",
+        "Family relationships",
+        "Lesbian cartoonists",
+        "Biography",
+        "Novela gráfica",
+        "Novelas gráficas",
+        "Caricaturistas",
+        "Muñequitos, tiras cómicas",
+        "Reading Level-Grade 7",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 8",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Comics & graphic novels, nonfiction, general",
+        "Lesbians, biography",
+        "LGBTQ biography and memoir",
+        "LGBTQ graphic novels",
+        "Stonewall Book Awards",
+        "Lambda Literary Awards",
+        "Lambda Literary Award Winner",
+        "nyt:paperback-graphic-books=2012-05-20",
+        "New York Times bestseller",
+        "New York Times reviewed",
+        "collection:judy_grahn_award=winner",
+        "collectionID:TexChallenge2021",
+        "Homosexualität",
+        "collectionID:KellerChallenge",
+        "Tecknade serier",
+        "Family Relations",
+        "SOCIAL SCIENCE",
+        "Lesbian Studies",
+        "Tochter",
+        "Comiczeichnerin",
+        "Serietecknare",
+        "Mishnah",
+        "collectionID:bannedbooks",
+        "Fathers and daughters",
+        "Fiction",
+        "collection:israel_fishman_non-fiction_award=winner"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL23124669M",
+            "title": "Fun Home",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/5444df7355ca043438.json",
+    "sha256_archivo_anterior": "6a91d7b94583b4760eb013f5540fb3702e3d6d31709233409ed62683f3701bcf"
+  },
+  "OL18013978W": {
+    "datos": {
+      "author_key": [
+        "OL1388341A"
+      ],
+      "author_name": [
+        "Maureen Johnson"
+      ],
+      "cover_i": 8367745,
+      "first_publish_year": 2018,
+      "key": "/works/OL18013978W",
+      "title": "Truly Devious",
+      "subject": [
+        "Schools",
+        "Mystery and detective stories",
+        "Fiction",
+        "Cold cases (Criminal investigation)",
+        "Boarding schools",
+        "Children's fiction",
+        "Vermont, fiction",
+        "Boarding schools, fiction",
+        "Kidnapping victims",
+        "Private schools",
+        "Riddles"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL28332858M",
+            "title": "El caso Vermont",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Amystery&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/64426eb49faa7d20ac.json",
+    "sha256_archivo_anterior": "e6189283adcf4fa71dab2b53f09cf45a51ab9650f3a947d9df405c6e97f42e94"
+  },
+  "OL38128674W": {
+    "datos": {
+      "author_key": [
+        "OL11132702A"
+      ],
+      "author_name": [
+        "Navessa Allen"
+      ],
+      "cover_i": 14641117,
+      "first_publish_year": 2024,
+      "key": "/works/OL38128674W",
+      "title": "Lights Out",
+      "subject": [
+        "romance",
+        "dark",
+        "contemporary",
+        "funny",
+        "dual pov",
+        "possessive hero",
+        "praise kink",
+        "bondage",
+        "mafia",
+        "suspense",
+        "primal play",
+        "consensual non-consent",
+        "insta-love",
+        "friends to lovers",
+        "good grovel",
+        "alpha male",
+        "fighting/mma/boxing",
+        "exhibitionism",
+        "past abuse",
+        "Dark Romance",
+        "Smut",
+        "Fiction",
+        "Adult",
+        "Contemporary Romance",
+        "Thriller",
+        "Spicy",
+        "Stalker"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL62559593M",
+            "title": "A oscuras",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8b2614429bf19d1f88.json",
+    "sha256_archivo_anterior": "e15d671fa3a17097e77b261393becf25675370b9db5adc21ba29e2a4dcf8a0ff"
+  },
+  "OL2023483W": {
+    "datos": {
+      "author_key": [
+        "OL244300A"
+      ],
+      "author_name": [
+        "August Derleth"
+      ],
+      "cover_i": 6456749,
+      "first_publish_year": 1958,
+      "key": "/works/OL2023483W",
+      "title": "The mask of Cthulhu",
+      "subject": [
+        "Cthulhu (Fictitious character)",
+        "Fiction",
+        "Horror tales",
+        "Fiction, science fiction, general",
+        "Fiction, horror",
+        "American Horror tales",
+        "Horror tales, American"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13192653M",
+            "title": "La Mascara de Cthulhu",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/bb9b663bc72c1c270f.json",
+    "sha256_archivo_anterior": "f815be4cf456bd6ee15d6e3702ab24dca2d82ca8823a5efdbf32aafa5f2eca74"
+  },
+  "OL5952812W": {
+    "datos": {
+      "author_key": [
+        "OL1476359A"
+      ],
+      "author_name": [
+        "Jennifer Donnelly"
+      ],
+      "cover_i": 5277137,
+      "first_publish_year": 2002,
+      "key": "/works/OL5952812W",
+      "title": "The Tea Rose",
+      "subject": [
+        "Fiction",
+        "Death",
+        "Fathers",
+        "Revenge",
+        "Tea trade",
+        "Murder victims' families",
+        "Businesswomen",
+        "Tea industry",
+        "Businesspeople",
+        "Historical fiction",
+        "Love stories",
+        "London (england), fiction",
+        "New york (n.y.), fiction",
+        "Fiction, romance, historical",
+        "English fiction",
+        "Fiction, historical, general",
+        "Fiction, romance, general",
+        "Fiction, romance, historical, general"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13359261M",
+            "title": "La Rosa De Te/ the Tea Rose",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistorical_fiction&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/f9de579eaf61b395b6.json",
+    "sha256_archivo_anterior": "1876b8adc95325287bdbb57d12bb53ee8ec69f982cc14b54ec46f38a68ca6bf9"
+  },
+  "OL259017W": {
+    "datos": {
+      "author_key": [
+        "OL9388A"
+      ],
+      "author_name": [
+        "William Shakespeare"
+      ],
+      "cover_i": 7339281,
+      "first_publish_year": 1700,
+      "key": "/works/OL259017W",
+      "title": "Measure for Measure",
+      "subject": [
+        "Drama",
+        "Chastity",
+        "Brothers and sisters",
+        "Comedy",
+        "Problems, exercises",
+        "Bibliography",
+        "English drama",
+        "Brothers and sisters in literature",
+        "English literature",
+        "Plays",
+        "Chastity in literature",
+        "English Young adult drama",
+        "Fiction",
+        "Classic Literature",
+        "Law and legislation",
+        "History and criticism",
+        "Criticism and interpretation",
+        "Corruption",
+        "Concordances",
+        "English drama (Comedy)",
+        "Dramatic production",
+        "Measure for measure (Shakespeare, William)",
+        "British and irish drama (dramatic works by one author)",
+        "Shakespeare, william, 1564-1616, measure for measure",
+        "Drama (dramatic works by one author)",
+        "Shakespeare, william, 1564-1616",
+        "Shakespeare, william, 1564-1616, juvenile literature",
+        "Continental european drama (dramatic works by one author)",
+        "Siblings",
+        "Shakespeare, william, 1564-1616, concordances",
+        "Comedy - drama",
+        "Family/domestic drama",
+        "Siblings in literature",
+        "History",
+        "Sources",
+        "Justice",
+        "Mercy",
+        "Adaptations",
+        "Comedies",
+        "Siblings -- Drama",
+        "Chastity -- Drama",
+        "Vienna (Austria) -- Drama"
+      ],
+      "editions": {
+        "numFound": 5,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13068611M",
+            "title": "Medida Por Medida",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/8c07c88fa7a5e16d32.json",
+    "sha256_archivo_anterior": "eccaba16fb2e143c1fd7452c0731d2498403b1d2597603d55490a95e0b1227e8"
+  },
+  "OL5841457W": {
+    "datos": {
+      "author_key": [
+        "OL1432776A"
+      ],
+      "author_name": [
+        "Nicholas C. Zakas"
+      ],
+      "cover_i": 10724347,
+      "first_publish_year": 2005,
+      "key": "/works/OL5841457W",
+      "title": "Professional JavaScript for Web developers",
+      "subject": [
+        "Web site development",
+        "JavaScript (Computer program language)",
+        "Computer Technology",
+        "Nonfiction",
+        "JavaScript",
+        "COMPUTERS",
+        "Web",
+        "Web Programming"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9131814M",
+            "title": "Javascript Para Desarrolladores Web/javascript for Web Development (Anaya Multimedia)",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/e7e13347300aae5414.json",
+    "sha256_archivo_anterior": "36fb6c9fb35df774e45fd2bb5f107ecb0b90a829e6295ba507f3c20b9a0dc50f"
+  },
+  "OL8453734W": {
+    "datos": {
+      "author_key": [
+        "OL2820536A"
+      ],
+      "author_name": [
+        "Aron Ralston"
+      ],
+      "cover_i": 479305,
+      "first_publish_year": 2004,
+      "key": "/works/OL8453734W",
+      "title": "Between a Rock and a Hard Place",
+      "subject": [
+        "Open Library Staff Picks",
+        "Rock climbing accidents",
+        "Mountaineers",
+        "Wilderness survival",
+        "Amputees",
+        "Survival",
+        "Biography",
+        "Mountaineering",
+        "Rock climbing",
+        "Mountaineering accidents",
+        "Desert survival",
+        "Description and travel",
+        "Travel",
+        "Alpinister",
+        "Alpinism",
+        "Olyckor",
+        "Hiking injuries",
+        "Courage",
+        "Mountain Climbing",
+        "nyt:paperback-nonfiction=2010-12-12",
+        "New York Times bestseller",
+        "Accidents and injuries",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 12",
+        "Bergunfall",
+        "Überleben",
+        "Escalamiento",
+        "Alpinistas",
+        "Rocas",
+        "Supervivencia fuera de la civilización"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL27158475M",
+            "title": "127 horas",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Abiography&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/1e882e47ed9004d710.json",
+    "sha256_archivo_anterior": "2dd77f00dab08ef271e5915aa8ff188e8e34220632c6ea0375f0a525f63379bd"
+  },
+  "OL3261123W": {
+    "datos": {
+      "author_key": [
+        "OL531502A"
+      ],
+      "author_name": [
+        "Diana Gabaldon"
+      ],
+      "cover_i": 280733,
+      "first_publish_year": 1994,
+      "key": "/works/OL3261123W",
+      "title": "The Fiery Cross",
+      "subject": [
+        "Fiction, fantasy, historical",
+        "North carolina, fiction",
+        "Fraser, claire (fictitious character), fiction",
+        "Fiction, historical, general",
+        "Fraser, jamie (fictitious character), fiction",
+        "Fiction",
+        "Fantasy fiction",
+        "Historical Fiction",
+        "Time travel",
+        "History",
+        "Fiction, historical",
+        "Franklin, benjamin, 1706-1790, fiction"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL29735595M",
+            "title": "Cruz Ardiente/ the Fiery Cross",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/33df5ab9b5a52b3bcf.json",
+    "sha256_archivo_anterior": "7be5a3220e77cc645bd7102445aa39c61b5590eee4fa39aca7b4ce1293e096b3"
+  },
+  "OL767941W": {
+    "datos": {
+      "author_key": [
+        "OL63285A"
+      ],
+      "author_name": [
+        "Simone de Beauvoir"
+      ],
+      "cover_i": 78169,
+      "first_publish_year": 1949,
+      "key": "/works/OL767941W",
+      "title": "Le Deuxième Sexe",
+      "subject": [
+        "Women",
+        "Sex",
+        "Feminism",
+        "Sexual Behavior",
+        "Non-Fiction",
+        "Gender",
+        "Gender Studies",
+        "Theory",
+        "Philosophy",
+        "Sociology",
+        "Classics",
+        "Cultural",
+        "France",
+        "Sexuality",
+        "Economics",
+        "Biology",
+        "Deuxième sexe (Beauvoir, Simone de)",
+        "SOCIAL SCIENCE / Feminism & Feminist Theory",
+        "PHILOSOPHY / Movements / Existentialism",
+        "New York Times reviewed",
+        "Féminisme",
+        "Society",
+        "Social sciences",
+        "Women's studies",
+        "Teori, filosofi",
+        "Genus (socialt kön)",
+        "Hq1208 .b352 1989",
+        "Reference",
+        "Dictionaries",
+        "Sex role"
+      ],
+      "editions": {
+        "numFound": 12,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL8361597M",
+            "title": "Segundo sexo",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/ba1abb365b1dd82147.json",
+    "sha256_archivo_anterior": "dc69edd0630e7ee44730c1385c3e31cdb8e5a983ac140396e8a86ffa2dcaf94c"
+  },
+  "OL19977306W": {
+    "datos": {
+      "author_key": [
+        "OL7315784A"
+      ],
+      "author_name": [
+        "Colleen Hoover"
+      ],
+      "cover_i": 9306435,
+      "first_publish_year": 2014,
+      "key": "/works/OL19977306W",
+      "title": "Maybe someday",
+      "subject": [
+        "College students",
+        "Man-woman relationships",
+        "Betrayal",
+        "Friendship",
+        "Fiction",
+        "Guitarists",
+        "nyt:combined-print-and-e-book-fiction=2014-04-06",
+        "New York Times bestseller",
+        "Fiction, romance, contemporary",
+        "Romans, nouvelles",
+        "Musiciens",
+        "Amitié",
+        "Étudiantes",
+        "Infidélité"
+      ],
+      "editions": {
+        "numFound": 4,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL27904706M",
+            "title": "Tal vez mañana",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/c48d3a335b18731c7d.json",
+    "sha256_archivo_anterior": "27d4e4c32e5a7cb73f1195a043ae60ca81fee4f7d38db25a3bf63d9de05d6b23"
+  },
+  "OL15093856W": {
+    "datos": {
+      "author_key": [
+        "OL35524A"
+      ],
+      "author_name": [
+        "Robert Lawrence Stine"
+      ],
+      "cover_i": 408066,
+      "first_publish_year": 1992,
+      "key": "/works/OL15093856W",
+      "title": "The Best Friend",
+      "subject": [
+        "Fiction",
+        "Friendship",
+        "Horror tales",
+        "Stine, R. L.",
+        "Juvenile fiction",
+        "Horror stories",
+        "collectionID:FearStreet",
+        "Horror fiction",
+        "Friendship, fiction",
+        "Children's fiction",
+        "Ghosts, fiction"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13265150M",
+            "title": "Mejor Amiga, La",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/6222a90e74671511e6.json",
+    "sha256_archivo_anterior": "4cb7936d29e36e255a7dd3fb70aa4013ade1fd1d6f4f8d9a715f2f043698c00e"
+  },
+  "OL644246W": {
+    "datos": {
+      "author_key": [
+        "OL49630A"
+      ],
+      "author_name": [
+        "Alessandro Manzoni"
+      ],
+      "cover_i": 1007875,
+      "first_publish_year": 1800,
+      "key": "/works/OL644246W",
+      "title": "I promessi sposi",
+      "subject": [
+        "Fiction, historical, general",
+        "Italy, fiction",
+        "Fiction",
+        "Italian fiction",
+        "Promessi sposi",
+        "Continental european fiction (fictional works by one author)",
+        "History",
+        "Modern Literature",
+        "Italian",
+        "Fiction, romance, historical, general",
+        "Marriage, fiction",
+        "Textual Criticism",
+        "Peasants",
+        "Social life and customs",
+        "Italian language",
+        "Readers",
+        "Italian literature",
+        "Translations into English",
+        "Plague",
+        "Social conditions",
+        "Man-woman relationships, fiction",
+        "Fiction, historical",
+        "Fiction, general",
+        "Long Now Manual for Civilization",
+        "Criticism and interpretation"
+      ],
+      "editions": {
+        "numFound": 6,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL13241599M",
+            "title": "Los Novios",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/33df5ab9b5a52b3bcf.json",
+    "sha256_archivo_anterior": "7be5a3220e77cc645bd7102445aa39c61b5590eee4fa39aca7b4ce1293e096b3"
+  },
+  "OL76350W": {
+    "datos": {
+      "author_key": [
+        "OL18524A"
+      ],
+      "author_name": [
+        "Gilbert Keith Chesterton"
+      ],
+      "cover_i": 6268135,
+      "first_publish_year": 1874,
+      "key": "/works/OL76350W",
+      "title": "Orthodoxy",
+      "subject": [
+        "Apologetics",
+        "Christianity",
+        "History",
+        "Essence, genius, nature",
+        "Evidence",
+        "Nonfiction",
+        "Religion & Spirituality",
+        "Essays",
+        "Christendom",
+        "Christianisme",
+        "Apologetiek",
+        "Apologetics, history, 20th century",
+        "Chesterton, g. k. (gilbert keith), 1874-1936",
+        "Christianity, essence, genius, nature",
+        "Aplogetics",
+        "Filosofia e religiao",
+        "Apologetica",
+        "Theology",
+        "Philosophy and religion",
+        "Christianity -- Essence, genius, nature",
+        "Ha resie",
+        "Rechtgla ubigkeit",
+        "Literatur",
+        "Discipling (christianity)",
+        "Religion, philosophy",
+        "Religion",
+        "Biography",
+        "Chrześcijaństwo",
+        "Wiara",
+        "Religia",
+        "Wiara a nauka"
+      ],
+      "editions": {
+        "numFound": 12,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL40876411M",
+            "title": "Ortodoxia",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahistory&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/47f7a1123a5fa0696f.json",
+    "sha256_archivo_anterior": "71b27a9504a3528f19c6052fa06f4da064a6759c5c2b51367406adf3b7103577"
+  },
+  "OL63215W": {
+    "datos": {
+      "author_key": [
+        "OL14028A"
+      ],
+      "author_name": [
+        "Linus Pauling"
+      ],
+      "cover_i": 6505051,
+      "first_publish_year": 1947,
+      "key": "/works/OL63215W",
+      "title": "General chemistry",
+      "subject": [
+        "Thermodynamica",
+        "Textbooks",
+        "Chemie",
+        "Moleculen",
+        "Elektronen",
+        "Chemische binding",
+        "Science textbooks",
+        "Atoomkernen",
+        "Chemistry textbooks",
+        "Chemistry",
+        "Atomen",
+        "Reactiekinetiek",
+        "Long Now Manual for Civilization",
+        "Chimie",
+        "SCIENCE",
+        "General",
+        "Qd33 .p34 1988",
+        "540"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL15447926M",
+            "title": "Química general",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ascience&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/92b2e4a748afe1292c.json",
+    "sha256_archivo_anterior": "e5eb57e2f23fc90f34c0fa0ad122d27d622f61667382abcaebf9226b613c6580"
+  },
+  "OL1717271W": {
+    "datos": {
+      "author_key": [
+        "OL1008586A"
+      ],
+      "author_name": [
+        "Richard Platt"
+      ],
+      "cover_i": 422192,
+      "first_publish_year": 1992,
+      "key": "/works/OL1717271W",
+      "title": "Incredible Cross Sections",
+      "subject": [
+        "Juvenile literature",
+        "Interior architecture",
+        "Themes, motives",
+        "Architecture",
+        "Science",
+        "Technology",
+        "Pictorial works",
+        "Architecture, juvenile literature",
+        "Vehicles",
+        "Vehicles, juvenile literature",
+        "Arquitectura interior",
+        "Literatura juvenil",
+        "Temas, motivos",
+        "Arquitectura",
+        "Biesty, Stephen -- Themes, motives -- Juvenile literature -- Juvenile literature.",
+        "Biesty, Stephen -- Temas, motivos -- Literatura juvenil.",
+        "Interior architecture -- Juvenile literature.",
+        "Arquitectura interior -- Literatura juvenil.",
+        "Interior architecture.",
+        "Arquitectura interior.",
+        "Architecture.",
+        "Arquitectura."
+      ],
+      "editions": {
+        "numFound": 3,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL22946104M",
+            "title": "El asombroso libro del interior de las cosas",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Atechnology&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/7e7ff1c8ce229fb6cb.json",
+    "sha256_archivo_anterior": "7ebc65b33ba28943be83193e5549ebb177c150f6540c1939e8438c44f8216d4f"
+  },
+  "OL69612W": {
+    "datos": {
+      "author_key": [
+        "OL23767A"
+      ],
+      "author_name": [
+        "Frances Hodgson Burnett"
+      ],
+      "cover_i": 12622062,
+      "first_publish_year": 1911,
+      "key": "/works/OL69612W",
+      "title": "The Secret Garden",
+      "subject": [
+        "Fiction, general",
+        "Friendship, fiction",
+        "People with disabilities, fiction",
+        "Great britain, fiction",
+        "Child and youth fiction",
+        "Children's fiction",
+        "Gardens, fiction",
+        "England, fiction",
+        "American literature",
+        "Orphans, fiction",
+        "Great britain, history, fiction",
+        "English language",
+        "Orphans",
+        "Juvenile fiction",
+        "Gardens",
+        "Fiction",
+        "Children with disabilities",
+        "Loneliness in children",
+        "Fiction, coming of age",
+        "Fantasy fiction",
+        "Toy and movable books",
+        "American fiction",
+        "People with disabilities",
+        "Stories",
+        "Huérfanos",
+        "Ficción juvenil",
+        "Jardines",
+        "Impedidos",
+        "Friendship",
+        "Sick children",
+        "History",
+        "Families",
+        "Pictorial works",
+        "Familles",
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "Amitié",
+        "Jardins",
+        "Ouvrages illustrés",
+        "Children's stories, American",
+        "Great Britain",
+        "Personnes handicapées",
+        "Girls, fiction",
+        "American literature, study and teaching",
+        "American fiction, history and criticism",
+        "Children",
+        "Enfants",
+        "Romans, nouvelles",
+        "Orphelins",
+        "Roman pour la jeunesse",
+        "Physically handicapped",
+        "England",
+        "Literature",
+        "Dictionaries",
+        "Chinese",
+        "Selbsterziehung",
+        "Freundschaft",
+        "Garten",
+        "Waisenkind",
+        "Korean",
+        "Spanish",
+        "French",
+        "Therapeutic use",
+        "Gardening",
+        "Cousins",
+        "Spanish language materials",
+        "Detective and mystery stories",
+        "reading",
+        "strategies",
+        "classic",
+        "Physically disabled children",
+        "Children's stories, English",
+        "People with physical disabilities",
+        "Juvenile literature",
+        "Children's stories",
+        "JUVENILE FICTION / Family / Orphans & Foster Homes",
+        "JUVENILE FICTION / Girls & Women",
+        "JUVENILE FICTION / Social Themes / Friendship",
+        "JUVENILE FICTION / Lifestyles / Country Life",
+        "JUVENILE FICTION / Disabilities & Special Needs",
+        "English language, textbooks for foreign speakers",
+        "Readers",
+        "British and irish fiction (fictional works by one author)",
+        "Grandparents, fiction",
+        "Great britain, history, 19th century, fiction",
+        "Grandfathers",
+        "Language and languages, study and teaching",
+        "Love, fiction",
+        "Mystery and detective stories",
+        "Fiction, mystery & detective, general",
+        "Private investigators, fiction",
+        "Literature and fiction, juvenile",
+        "Fiction, action & adventure",
+        "Fiction, thrillers, suspense",
+        "Classic Literature",
+        "Long Now Manual for Civilization",
+        "Friendship in children",
+        "Loneliness",
+        "Fiction, fantasy, general"
+      ],
+      "editions": {
+        "numFound": 15,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL799594M",
+            "title": "El jardín secreto",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Afantasy&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/79da0c21a6ee4f5197.json",
+    "sha256_archivo_anterior": "f385ac24c81559f552f1ac303402986980697f680ec988d5f248fff638ad76b8"
+  },
+  "OL4278297W": {
+    "datos": {
+      "author_key": [
+        "OL829489A"
+      ],
+      "author_name": [
+        "Rebecca Winters"
+      ],
+      "cover_i": 1186092,
+      "first_publish_year": 2007,
+      "key": "/works/OL4278297W",
+      "title": "Matrimony With His Majesty (Harlequin Romance",
+      "subject": [
+        "Fiction, romance, general",
+        "Fiction",
+        "Romance",
+        "Tender Romance"
+      ],
+      "editions": {
+        "numFound": 1,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL10748961M",
+            "title": "Matrimonio Con El Rey",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Aromance&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/991a690c1dee9949e3.json",
+    "sha256_archivo_anterior": "51df1bbc504363fb3dd1d4168f8aa468e4c6f83437363b2b68798aafccb028d0"
+  },
+  "OL149155W": {
+    "datos": {
+      "author_key": [
+        "OL19981A"
+      ],
+      "author_name": [
+        "Stephen King"
+      ],
+      "cover_i": 10713065,
+      "first_publish_year": 2000,
+      "key": "/works/OL149155W",
+      "title": "Riding the Bullet",
+      "subject": [
+        "horror",
+        "stroke",
+        "hitchhiking",
+        "headstones",
+        "amusement rides",
+        "short stories",
+        "occult",
+        "Fiction, ghost",
+        "Spanish American fiction"
+      ],
+      "editions": {
+        "numFound": 2,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "key": "/books/OL9893797M",
+            "title": "Riding the Bullet",
+            "language": [
+              "spa"
+            ]
+          }
+        ]
+      }
+    },
+    "url": "https://openlibrary.org/search.json?q=language%3Aspa+subject%3Ahorror&offset=None&limit=100&fields=key%2Ctitle%2Cauthor_key%2Cauthor_name%2Ccover_i%2Cfirst_publish_year%2Csubject%2Ceditions",
+    "captura_utc": null,
+    "origen_anterior": "archivo/openlibrary/muestra_1000/cache_busquedas/27b8461d0c9de85e1c.json",
+    "sha256_archivo_anterior": "a15247af2272c8b2c3c2fe9d47e4831c48d51cb2e37c38ff4f3d91f2036d1c9d"
+  }
+}

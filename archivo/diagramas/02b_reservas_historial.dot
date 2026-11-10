@@ -1,0 +1,37 @@
+digraph ReservasLectura {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.43 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.7 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Socio [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Socio</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- documento: str<BR ALIGN="LEFT"/>- estado: EstadoSocio<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Obra [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Obra</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- tituloOriginal: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Ejemplar [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Ejemplar</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- codigoInventario: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Sede [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Sede</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- activa: bool<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Reserva [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Reserva</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaCreacion: datetime<BR ALIGN="LEFT"/>- limiteRetiro: datetime?<BR ALIGN="LEFT"/>- estado: EstadoReserva<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ asignarEjemplar()<BR ALIGN="LEFT"/>+ cancelar()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	SolicitudPrestamo [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>SolicitudPrestamo</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- estado: EstadoSolicitud<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Prestamo [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Prestamo</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaEntrega: datetime<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	RegistroLectura [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>RegistroLectura</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- fechaRegistro: datetime<BR ALIGN="LEFT"/>- fechaFinalizacion: date?<BR ALIGN="LEFT"/>- confirmadaPorSocio: bool<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ marcarLeida()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Socio -> Reserva [label=realiza headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Reserva -> Obra [label="obra reservada" headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Reserva -> Ejemplar [label="asignacion opcional" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+	Reserva -> Sede [label="retira en" headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Reserva -> SolicitudPrestamo [label="puede originar" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..1"]
+	Socio -> RegistroLectura [label="declara lectura" headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	RegistroLectura -> Obra [label="obra leida" headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	RegistroLectura -> Prestamo [label="referencia opcional" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..1"]
+}

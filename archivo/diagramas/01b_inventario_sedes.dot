@@ -1,0 +1,21 @@
+digraph InventarioFisico {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.52 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.9 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Obra [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Obra</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- tituloOriginal: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Edicion [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Edicion</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- titulo: str<BR ALIGN="LEFT"/>- isbn13: str?<BR ALIGN="LEFT"/>- idioma: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Ejemplar [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Ejemplar</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- codigoInventario: str {unique}<BR ALIGN="LEFT"/>- estadoOperativo: EstadoEjemplar<BR ALIGN="LEFT"/>- estadoFisico: EstadoFisico<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ estaDisponible(): bool<BR ALIGN="LEFT"/>+ registrarUbicacion(sede: Sede?)<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Sede [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Sede</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- nombre: str<BR ALIGN="LEFT"/>- direccion: str<BR ALIGN="LEFT"/>- contacto: str<BR ALIGN="LEFT"/>- horarios: str<BR ALIGN="LEFT"/>- activa: bool<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ estaActiva(): bool<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Obra -> Edicion [label=tiene headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Edicion -> Ejemplar [label="copias fisicas" headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Ejemplar -> Sede [label=propietaria headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	Ejemplar -> Sede [label="ubicacion fisica" color="#966a86" headlabel="0..1" labelangle=25 labeldistance=1.8 style=dashed taillabel="0..*"]
+}

@@ -1,0 +1,3628 @@
+{
+  "fecha_utc": "2026-11-07T19:33:48.811845+00:00",
+  "python": "3.14.8",
+  "sqlite": "3.51.2",
+  "plataforma": "Linux-7.2.15-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "base": "datos/generados/etapa3b4/sintetica.db",
+  "naturaleza": "SINTETICA",
+  "demora_artificial_ms": 0,
+  "reloj": "perf_counter_ns; sólo comparar intervalos del mismo proceso",
+  "eventos": [
+    {
+      "id": 1,
+      "tipo": "parche_enviado",
+      "instante_ns": 53492767135480,
+      "duracion_ms": 11.236991,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 2,
+      "tipo": "parche_enviado",
+      "instante_ns": 53492770247505,
+      "duracion_ms": 1.383132,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 3,
+      "tipo": "parche_enviado",
+      "instante_ns": 53492782640681,
+      "duracion_ms": 2.608347,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 4,
+      "tipo": "parche_enviado",
+      "instante_ns": 53496461038705,
+      "duracion_ms": 4.83668,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 5,
+      "tipo": "parche_enviado",
+      "instante_ns": 53496465355747,
+      "duracion_ms": 1.904643,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 6,
+      "tipo": "parche_enviado",
+      "instante_ns": 53496467457030,
+      "duracion_ms": 1.087526,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 7,
+      "tipo": "parche_enviado",
+      "instante_ns": 54871927902111,
+      "duracion_ms": 6.103676,
+      "destino": "Catálogo",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 8,
+      "tipo": "parche_enviado",
+      "instante_ns": 54871930294910,
+      "duracion_ms": 1.950256,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 9,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54871930567252,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 10,
+      "tipo": "consulta_fin",
+      "instante_ns": 54872379139621,
+      "consulta": 9,
+      "duracion_ms": 448.548565,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 11,
+      "tipo": "parche_enviado",
+      "instante_ns": 54872439841877,
+      "duracion_ms": 46.198277,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 12,
+      "tipo": "parche_enviado",
+      "instante_ns": 54872867761097,
+      "duracion_ms": 4.657186,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 13,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54873168962264,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_original0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 14,
+      "tipo": "consulta_fin",
+      "instante_ns": 54873264448297,
+      "consulta": 13,
+      "duracion_ms": 95.472487,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 15,
+      "tipo": "parche_enviado",
+      "instante_ns": 54873268040761,
+      "duracion_ms": 3.096121,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 16,
+      "tipo": "parche_enviado",
+      "instante_ns": 54873331031791,
+      "duracion_ms": 2.139713,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 17,
+      "tipo": "parche_enviado",
+      "instante_ns": 54873708710282,
+      "duracion_ms": 1.783042,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 18,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54874009805460,
+      "filtros": {
+        "texto": "Original sintético 000011",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 19,
+      "tipo": "consulta_fin",
+      "instante_ns": 54874121690826,
+      "consulta": 18,
+      "duracion_ms": 111.868203,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 20,
+      "tipo": "parche_enviado",
+      "instante_ns": 54874126040704,
+      "duracion_ms": 3.374725,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 21,
+      "tipo": "parche_enviado",
+      "instante_ns": 54874651032750,
+      "duracion_ms": 2.27687,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 22,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54874952109473,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_original1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 23,
+      "tipo": "consulta_fin",
+      "instante_ns": 54875040313766,
+      "consulta": 22,
+      "duracion_ms": 88.195035,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 24,
+      "tipo": "parche_enviado",
+      "instante_ns": 54875042639909,
+      "duracion_ms": 1.987747,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 25,
+      "tipo": "parche_enviado",
+      "instante_ns": 54875489320893,
+      "duracion_ms": 1.884523,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 26,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54875790431019,
+      "filtros": {
+        "texto": "Original sintético 000011",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 27,
+      "tipo": "consulta_fin",
+      "instante_ns": 54875899677693,
+      "consulta": 26,
+      "duracion_ms": 109.238359,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 28,
+      "tipo": "parche_enviado",
+      "instante_ns": 54875904680529,
+      "duracion_ms": 3.755391,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 29,
+      "tipo": "parche_enviado",
+      "instante_ns": 54876386273720,
+      "duracion_ms": 2.554793,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 30,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54876686877785,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_original2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 31,
+      "tipo": "consulta_fin",
+      "instante_ns": 54876781313884,
+      "consulta": 30,
+      "duracion_ms": 94.425669,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 32,
+      "tipo": "parche_enviado",
+      "instante_ns": 54876783719928,
+      "duracion_ms": 2.019998,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 33,
+      "tipo": "parche_enviado",
+      "instante_ns": 54877223837772,
+      "duracion_ms": 1.981164,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 34,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54877524837811,
+      "filtros": {
+        "texto": "Original sintético 000011",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 35,
+      "tipo": "consulta_fin",
+      "instante_ns": 54877636373909,
+      "consulta": 34,
+      "duracion_ms": 111.525008,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 36,
+      "tipo": "parche_enviado",
+      "instante_ns": 54877641145240,
+      "duracion_ms": 3.918608,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 37,
+      "tipo": "parche_enviado",
+      "instante_ns": 54878112550077,
+      "duracion_ms": 2.062026,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 38,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54878413770641,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_original3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 39,
+      "tipo": "consulta_fin",
+      "instante_ns": 54878501501563,
+      "consulta": 38,
+      "duracion_ms": 87.717347,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 40,
+      "tipo": "parche_enviado",
+      "instante_ns": 54878504699956,
+      "duracion_ms": 2.693704,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 41,
+      "tipo": "parche_enviado",
+      "instante_ns": 54878943318993,
+      "duracion_ms": 3.211779,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 42,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54879244367292,
+      "filtros": {
+        "texto": "Original sintético 000011",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 43,
+      "tipo": "consulta_fin",
+      "instante_ns": 54879346802210,
+      "consulta": 42,
+      "duracion_ms": 102.425219,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 44,
+      "tipo": "parche_enviado",
+      "instante_ns": 54879350714736,
+      "duracion_ms": 3.211979,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 45,
+      "tipo": "parche_enviado",
+      "instante_ns": 54879837318207,
+      "duracion_ms": 3.086673,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 46,
+      "tipo": "parche_enviado",
+      "instante_ns": 54880131443421,
+      "duracion_ms": 2.052519,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 47,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54880137991382,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_edicion0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 48,
+      "tipo": "consulta_fin",
+      "instante_ns": 54880228509545,
+      "consulta": 47,
+      "duracion_ms": 90.504979,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 49,
+      "tipo": "parche_enviado",
+      "instante_ns": 54880231662022,
+      "duracion_ms": 2.690458,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 50,
+      "tipo": "parche_enviado",
+      "instante_ns": 54880662014867,
+      "duracion_ms": 2.757654,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 51,
+      "tipo": "parche_enviado",
+      "instante_ns": 54880955730751,
+      "duracion_ms": 2.069511,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 52,
+      "tipo": "parche_enviado",
+      "instante_ns": 54880958235590,
+      "duracion_ms": 1.692883,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 53,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54880962729720,
+      "filtros": {
+        "texto": "Libro sintético 000012",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 54,
+      "tipo": "consulta_fin",
+      "instante_ns": 54881072943913,
+      "consulta": 53,
+      "duracion_ms": 110.20186,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 55,
+      "tipo": "parche_enviado",
+      "instante_ns": 54881077211878,
+      "duracion_ms": 3.515359,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 56,
+      "tipo": "parche_enviado",
+      "instante_ns": 54881571380382,
+      "duracion_ms": 2.113473,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 57,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54881872757330,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_edicion1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 58,
+      "tipo": "consulta_fin",
+      "instante_ns": 54881976123919,
+      "consulta": 57,
+      "duracion_ms": 103.355598,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 59,
+      "tipo": "parche_enviado",
+      "instante_ns": 54881979070779,
+      "duracion_ms": 2.58479,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 60,
+      "tipo": "parche_enviado",
+      "instante_ns": 54882401962427,
+      "duracion_ms": 2.539235,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 61,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54882702997522,
+      "filtros": {
+        "texto": "Libro sintético 000012",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 62,
+      "tipo": "consulta_fin",
+      "instante_ns": 54882808902313,
+      "consulta": 61,
+      "duracion_ms": 105.8886,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 63,
+      "tipo": "parche_enviado",
+      "instante_ns": 54882812986081,
+      "duracion_ms": 3.322466,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 64,
+      "tipo": "parche_enviado",
+      "instante_ns": 54883290101454,
+      "duracion_ms": 2.369745,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 65,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54883591261934,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_edicion2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 66,
+      "tipo": "consulta_fin",
+      "instante_ns": 54883685129364,
+      "consulta": 65,
+      "duracion_ms": 93.853844,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 67,
+      "tipo": "parche_enviado",
+      "instante_ns": 54883688683717,
+      "duracion_ms": 3.073128,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 68,
+      "tipo": "parche_enviado",
+      "instante_ns": 54884121550328,
+      "duracion_ms": 2.181381,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 69,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54884422579001,
+      "filtros": {
+        "texto": "Libro sintético 000012",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 70,
+      "tipo": "consulta_fin",
+      "instante_ns": 54884522237028,
+      "consulta": 69,
+      "duracion_ms": 99.650102,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 71,
+      "tipo": "parche_enviado",
+      "instante_ns": 54884528177887,
+      "duracion_ms": 4.794714,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 72,
+      "tipo": "parche_enviado",
+      "instante_ns": 54885008994098,
+      "duracion_ms": 1.822576,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 73,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54885310040083,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_edicion3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 74,
+      "tipo": "consulta_fin",
+      "instante_ns": 54885398427731,
+      "consulta": 73,
+      "duracion_ms": 88.377969,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 75,
+      "tipo": "parche_enviado",
+      "instante_ns": 54885402183853,
+      "duracion_ms": 3.203363,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 76,
+      "tipo": "parche_enviado",
+      "instante_ns": 54885850291508,
+      "duracion_ms": 2.598776,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 77,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54886152383811,
+      "filtros": {
+        "texto": "Libro sintético 000012",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 78,
+      "tipo": "consulta_fin",
+      "instante_ns": 54886256708572,
+      "consulta": 77,
+      "duracion_ms": 104.313009,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 79,
+      "tipo": "parche_enviado",
+      "instante_ns": 54886261257915,
+      "duracion_ms": 3.480112,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 80,
+      "tipo": "parche_enviado",
+      "instante_ns": 54886742699291,
+      "duracion_ms": 2.193824,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 81,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54887043868779,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_alternativo0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 82,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887130707965,
+      "duracion_ms": 1.711348,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 83,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887132873937,
+      "duracion_ms": 1.367762,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 84,
+      "tipo": "consulta_fin",
+      "instante_ns": 54887142387123,
+      "consulta": 81,
+      "duracion_ms": 98.505139,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 85,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887145679703,
+      "duracion_ms": 2.9199,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 86,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887566292666,
+      "duracion_ms": 1.960887,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 87,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887661644968,
+      "duracion_ms": 1.840651,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 88,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887664595866,
+      "duracion_ms": 1.944185,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 89,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54887867411529,
+      "filtros": {
+        "texto": "alternativa sintética 000050",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 90,
+      "tipo": "consulta_fin",
+      "instante_ns": 54887968924613,
+      "consulta": 89,
+      "duracion_ms": 101.503427,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 91,
+      "tipo": "parche_enviado",
+      "instante_ns": 54887973873437,
+      "duracion_ms": 4.01055,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 92,
+      "tipo": "parche_enviado",
+      "instante_ns": 54888463554134,
+      "duracion_ms": 2.906425,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 93,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54888763959325,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_alternativo1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 94,
+      "tipo": "consulta_fin",
+      "instante_ns": 54888861962942,
+      "consulta": 93,
+      "duracion_ms": 97.983208,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 95,
+      "tipo": "parche_enviado",
+      "instante_ns": 54888864582687,
+      "duracion_ms": 2.104576,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 96,
+      "tipo": "parche_enviado",
+      "instante_ns": 54889293857595,
+      "duracion_ms": 2.162445,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 97,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54889594907158,
+      "filtros": {
+        "texto": "alternativa sintética 000050",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 98,
+      "tipo": "parche_enviado",
+      "instante_ns": 54889658612820,
+      "duracion_ms": 2.069121,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 99,
+      "tipo": "parche_enviado",
+      "instante_ns": 54889661564700,
+      "duracion_ms": 1.836262,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 100,
+      "tipo": "consulta_fin",
+      "instante_ns": 54889709955309,
+      "consulta": 97,
+      "duracion_ms": 115.034466,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 101,
+      "tipo": "parche_enviado",
+      "instante_ns": 54889716644566,
+      "duracion_ms": 5.575422,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 102,
+      "tipo": "parche_enviado",
+      "instante_ns": 54890196662496,
+      "duracion_ms": 2.899562,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 103,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54890497174998,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_alternativo2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 104,
+      "tipo": "consulta_fin",
+      "instante_ns": 54890594242494,
+      "consulta": 103,
+      "duracion_ms": 97.055183,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 105,
+      "tipo": "parche_enviado",
+      "instante_ns": 54890596771319,
+      "duracion_ms": 2.136466,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 106,
+      "tipo": "parche_enviado",
+      "instante_ns": 54891025752445,
+      "duracion_ms": 2.114035,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 107,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54891327765238,
+      "filtros": {
+        "texto": "alternativa sintética 000050",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 108,
+      "tipo": "consulta_fin",
+      "instante_ns": 54891427795635,
+      "consulta": 107,
+      "duracion_ms": 100.022321,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 109,
+      "tipo": "parche_enviado",
+      "instante_ns": 54891431753827,
+      "duracion_ms": 3.176923,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 110,
+      "tipo": "parche_enviado",
+      "instante_ns": 54891917686357,
+      "duracion_ms": 2.501933,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 111,
+      "tipo": "parche_enviado",
+      "instante_ns": 54892103179382,
+      "duracion_ms": 1.501854,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 112,
+      "tipo": "parche_enviado",
+      "instante_ns": 54892106249273,
+      "duracion_ms": 2.188444,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 113,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54892218959990,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_titulo_alternativo3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 114,
+      "tipo": "consulta_fin",
+      "instante_ns": 54892315220880,
+      "consulta": 113,
+      "duracion_ms": 96.249528,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 115,
+      "tipo": "parche_enviado",
+      "instante_ns": 54892317552864,
+      "duracion_ms": 1.927273,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 116,
+      "tipo": "parche_enviado",
+      "instante_ns": 54892766617059,
+      "duracion_ms": 3.573729,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 117,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54893067853653,
+      "filtros": {
+        "texto": "alternativa sintética 000050",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 118,
+      "tipo": "consulta_fin",
+      "instante_ns": 54893174867829,
+      "consulta": 117,
+      "duracion_ms": 107.004719,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 119,
+      "tipo": "parche_enviado",
+      "instante_ns": 54893180087944,
+      "duracion_ms": 4.097915,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 120,
+      "tipo": "parche_enviado",
+      "instante_ns": 54893670018020,
+      "duracion_ms": 3.266812,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 121,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54893971230749,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_autor0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 122,
+      "tipo": "consulta_fin",
+      "instante_ns": 54894085233966,
+      "consulta": 121,
+      "duracion_ms": 113.992538,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 123,
+      "tipo": "parche_enviado",
+      "instante_ns": 54894088203348,
+      "duracion_ms": 2.634143,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 124,
+      "tipo": "parche_enviado",
+      "instante_ns": 54894538418977,
+      "duracion_ms": 2.900663,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 125,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54894840766179,
+      "filtros": {
+        "texto": "Autor sintético 0001",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 126,
+      "tipo": "consulta_fin",
+      "instante_ns": 54894982331395,
+      "consulta": 125,
+      "duracion_ms": 141.554676,
+      "total": 100,
+      "filas": 24
+    },
+    {
+      "id": 127,
+      "tipo": "parche_enviado",
+      "instante_ns": 54895043995510,
+      "duracion_ms": 51.14105,
+      "destino": "Catálogo",
+      "resumen": "100 obras · datos sintéticos",
+      "contador": "1–24 de 100 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 128,
+      "tipo": "parche_enviado",
+      "instante_ns": 54895456727807,
+      "duracion_ms": 5.426442,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 129,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54895758036536,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_autor1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 130,
+      "tipo": "consulta_fin",
+      "instante_ns": 54895864313497,
+      "consulta": 129,
+      "duracion_ms": 106.261281,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 131,
+      "tipo": "parche_enviado",
+      "instante_ns": 54895867353813,
+      "duracion_ms": 2.608996,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 132,
+      "tipo": "parche_enviado",
+      "instante_ns": 54896290493406,
+      "duracion_ms": 2.969473,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 133,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54896590903867,
+      "filtros": {
+        "texto": "Autor sintético 0001",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 134,
+      "tipo": "consulta_fin",
+      "instante_ns": 54896721252375,
+      "consulta": 133,
+      "duracion_ms": 130.335844,
+      "total": 100,
+      "filas": 24
+    },
+    {
+      "id": 135,
+      "tipo": "parche_enviado",
+      "instante_ns": 54896783510296,
+      "duracion_ms": 51.655106,
+      "destino": "Catálogo",
+      "resumen": "100 obras · datos sintéticos",
+      "contador": "1–24 de 100 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 136,
+      "tipo": "parche_enviado",
+      "instante_ns": 54897183405017,
+      "duracion_ms": 4.64339,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 137,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54897484409033,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_autor2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 138,
+      "tipo": "consulta_fin",
+      "instante_ns": 54897576928018,
+      "consulta": 137,
+      "duracion_ms": 92.501953,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 139,
+      "tipo": "parche_enviado",
+      "instante_ns": 54897579819955,
+      "duracion_ms": 2.37745,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 140,
+      "tipo": "parche_enviado",
+      "instante_ns": 54898015124029,
+      "duracion_ms": 2.201399,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 141,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54898316139807,
+      "filtros": {
+        "texto": "Autor sintético 0001",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 142,
+      "tipo": "consulta_fin",
+      "instante_ns": 54898433985118,
+      "consulta": 141,
+      "duracion_ms": 117.835382,
+      "total": 100,
+      "filas": 24
+    },
+    {
+      "id": 143,
+      "tipo": "parche_enviado",
+      "instante_ns": 54898492038153,
+      "duracion_ms": 47.739215,
+      "destino": "Catálogo",
+      "resumen": "100 obras · datos sintéticos",
+      "contador": "1–24 de 100 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 144,
+      "tipo": "parche_enviado",
+      "instante_ns": 54898922609529,
+      "duracion_ms": 4.945818,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 145,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54899223744592,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_autor3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 146,
+      "tipo": "consulta_fin",
+      "instante_ns": 54899318585312,
+      "consulta": 145,
+      "duracion_ms": 94.827454,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 147,
+      "tipo": "parche_enviado",
+      "instante_ns": 54899320974654,
+      "duracion_ms": 2.012134,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 148,
+      "tipo": "parche_enviado",
+      "instante_ns": 54899749302622,
+      "duracion_ms": 2.484401,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 149,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54900050333709,
+      "filtros": {
+        "texto": "Autor sintético 0001",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 150,
+      "tipo": "consulta_fin",
+      "instante_ns": 54900171690582,
+      "consulta": 149,
+      "duracion_ms": 121.343868,
+      "total": 100,
+      "filas": 24
+    },
+    {
+      "id": 151,
+      "tipo": "parche_enviado",
+      "instante_ns": 54900232397577,
+      "duracion_ms": 50.479347,
+      "destino": "Catálogo",
+      "resumen": "100 obras · datos sintéticos",
+      "contador": "1–24 de 100 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 152,
+      "tipo": "parche_enviado",
+      "instante_ns": 54900640677543,
+      "duracion_ms": 4.85622,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 153,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54900941882898,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_sin_resultados0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 154,
+      "tipo": "consulta_fin",
+      "instante_ns": 54901046578776,
+      "consulta": 153,
+      "duracion_ms": 104.685849,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 155,
+      "tipo": "parche_enviado",
+      "instante_ns": 54901049322335,
+      "duracion_ms": 2.396596,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 156,
+      "tipo": "parche_enviado",
+      "instante_ns": 54901470088696,
+      "duracion_ms": 2.4362,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 157,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54901771237405,
+      "filtros": {
+        "texto": "NoExiste_Benchmark_Horizonte",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 158,
+      "tipo": "consulta_fin",
+      "instante_ns": 54901867949984,
+      "consulta": 157,
+      "duracion_ms": 96.700647,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 159,
+      "tipo": "parche_enviado",
+      "instante_ns": 54901870495880,
+      "duracion_ms": 2.145203,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 160,
+      "tipo": "parche_enviado",
+      "instante_ns": 54902379196907,
+      "duracion_ms": 2.580562,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 161,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54902680331490,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_sin_resultados1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 162,
+      "tipo": "consulta_fin",
+      "instante_ns": 54902775351767,
+      "consulta": 161,
+      "duracion_ms": 95.009707,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 163,
+      "tipo": "parche_enviado",
+      "instante_ns": 54902778565118,
+      "duracion_ms": 2.775468,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 164,
+      "tipo": "parche_enviado",
+      "instante_ns": 54903199280844,
+      "duracion_ms": 1.891366,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 165,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54903500200552,
+      "filtros": {
+        "texto": "NoExiste_Benchmark_Horizonte",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 166,
+      "tipo": "consulta_fin",
+      "instante_ns": 54903595861665,
+      "consulta": 165,
+      "duracion_ms": 95.647507,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 167,
+      "tipo": "parche_enviado",
+      "instante_ns": 54903598654496,
+      "duracion_ms": 2.438445,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 168,
+      "tipo": "parche_enviado",
+      "instante_ns": 54904093445150,
+      "duracion_ms": 2.461788,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 169,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54904394566697,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_sin_resultados2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 170,
+      "tipo": "consulta_fin",
+      "instante_ns": 54904504596304,
+      "consulta": 169,
+      "duracion_ms": 110.014478,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 171,
+      "tipo": "parche_enviado",
+      "instante_ns": 54904508069924,
+      "duracion_ms": 3.043132,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 172,
+      "tipo": "parche_enviado",
+      "instante_ns": 54904927758630,
+      "duracion_ms": 2.156555,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 173,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54905228889034,
+      "filtros": {
+        "texto": "NoExiste_Benchmark_Horizonte",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 174,
+      "tipo": "consulta_fin",
+      "instante_ns": 54905332073471,
+      "consulta": 173,
+      "duracion_ms": 103.168126,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 175,
+      "tipo": "parche_enviado",
+      "instante_ns": 54905334749762,
+      "duracion_ms": 2.251363,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 176,
+      "tipo": "parche_enviado",
+      "instante_ns": 54905816622820,
+      "duracion_ms": 2.183245,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 177,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54906117649439,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_sin_resultados3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 178,
+      "tipo": "consulta_fin",
+      "instante_ns": 54906204306994,
+      "consulta": 177,
+      "duracion_ms": 86.647405,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 179,
+      "tipo": "parche_enviado",
+      "instante_ns": 54906206720602,
+      "duracion_ms": 2.055545,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 180,
+      "tipo": "parche_enviado",
+      "instante_ns": 54906638699874,
+      "duracion_ms": 2.302829,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 181,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54906939644510,
+      "filtros": {
+        "texto": "NoExiste_Benchmark_Horizonte",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 182,
+      "tipo": "consulta_fin",
+      "instante_ns": 54907033401271,
+      "consulta": 181,
+      "duracion_ms": 93.73962,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 183,
+      "tipo": "parche_enviado",
+      "instante_ns": 54907036124692,
+      "duracion_ms": 2.276911,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 184,
+      "tipo": "parche_enviado",
+      "instante_ns": 54907524362576,
+      "duracion_ms": 2.135585,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 185,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54907825429250,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_pagina_completa0",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 186,
+      "tipo": "consulta_fin",
+      "instante_ns": 54907923137100,
+      "consulta": 185,
+      "duracion_ms": 97.695607,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 187,
+      "tipo": "parche_enviado",
+      "instante_ns": 54907925627713,
+      "duracion_ms": 2.123502,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 188,
+      "tipo": "parche_enviado",
+      "instante_ns": 54908351014081,
+      "duracion_ms": 1.980944,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 189,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54908652222702,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 190,
+      "tipo": "consulta_fin",
+      "instante_ns": 54911158459840,
+      "consulta": 189,
+      "duracion_ms": 2506.227039,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 191,
+      "tipo": "parche_enviado",
+      "instante_ns": 54911221888522,
+      "duracion_ms": 53.456724,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 192,
+      "tipo": "parche_enviado",
+      "instante_ns": 54911780781034,
+      "duracion_ms": 4.949766,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 193,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54912081184311,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_pagina_completa1",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 194,
+      "tipo": "consulta_fin",
+      "instante_ns": 54912178875340,
+      "consulta": 193,
+      "duracion_ms": 97.68093,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 195,
+      "tipo": "parche_enviado",
+      "instante_ns": 54912181668872,
+      "duracion_ms": 2.316174,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 196,
+      "tipo": "parche_enviado",
+      "instante_ns": 54912613880081,
+      "duracion_ms": 3.231015,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 197,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54912914378116,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 198,
+      "tipo": "consulta_fin",
+      "instante_ns": 54915664110508,
+      "consulta": 197,
+      "duracion_ms": 2749.722654,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 199,
+      "tipo": "parche_enviado",
+      "instante_ns": 54915722573204,
+      "duracion_ms": 48.426196,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 200,
+      "tipo": "parche_enviado",
+      "instante_ns": 54916041426569,
+      "duracion_ms": 5.561045,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 201,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54916342868629,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_pagina_completa2",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 202,
+      "tipo": "consulta_fin",
+      "instante_ns": 54916454037948,
+      "consulta": 201,
+      "duracion_ms": 111.155744,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 203,
+      "tipo": "parche_enviado",
+      "instante_ns": 54916456879310,
+      "duracion_ms": 2.390134,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 204,
+      "tipo": "parche_enviado",
+      "instante_ns": 54916872445144,
+      "duracion_ms": 2.147338,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 205,
+      "tipo": "parche_enviado",
+      "instante_ns": 54917009397097,
+      "duracion_ms": 2.343145,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 206,
+      "tipo": "parche_enviado",
+      "instante_ns": 54917011853736,
+      "duracion_ms": 1.953142,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 207,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54917173715361,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 208,
+      "tipo": "parche_enviado",
+      "instante_ns": 54919251330228,
+      "duracion_ms": 2.844618,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 209,
+      "tipo": "consulta_fin",
+      "instante_ns": 54919876357359,
+      "consulta": 207,
+      "duracion_ms": 2702.633122,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 210,
+      "tipo": "parche_enviado",
+      "instante_ns": 54919934907449,
+      "duracion_ms": 48.637193,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 211,
+      "tipo": "parche_enviado",
+      "instante_ns": 54920287832793,
+      "duracion_ms": 4.262394,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 212,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54920588907052,
+      "filtros": {
+        "texto": "PreparaciónSinCoincidencias_pagina_completa3",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 213,
+      "tipo": "consulta_fin",
+      "instante_ns": 54920679798236,
+      "consulta": 212,
+      "duracion_ms": 90.878731,
+      "total": 0,
+      "filas": 0
+    },
+    {
+      "id": 214,
+      "tipo": "parche_enviado",
+      "instante_ns": 54920682235959,
+      "duracion_ms": 1.979742,
+      "destino": "Catálogo",
+      "resumen": "0 obras · datos sintéticos",
+      "contador": "Sin resultados",
+      "tema": "light"
+    },
+    {
+      "id": 215,
+      "tipo": "parche_enviado",
+      "instante_ns": 54921118080870,
+      "duracion_ms": 2.011212,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 216,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54921420157212,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 217,
+      "tipo": "parche_enviado",
+      "instante_ns": 54922065195136,
+      "duracion_ms": 2.227097,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 218,
+      "tipo": "parche_enviado",
+      "instante_ns": 54922976512881,
+      "duracion_ms": 2.084109,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 219,
+      "tipo": "consulta_fin",
+      "instante_ns": 54923970826156,
+      "consulta": 216,
+      "duracion_ms": 2550.653696,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 220,
+      "tipo": "parche_enviado",
+      "instante_ns": 54924041585832,
+      "duracion_ms": 60.632455,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 221,
+      "tipo": "parche_enviado",
+      "instante_ns": 54924418148436,
+      "duracion_ms": 2.085501,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 222,
+      "tipo": "parche_enviado",
+      "instante_ns": 54924539303879,
+      "duracion_ms": 5.062638,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 223,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54924539684725,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 224,
+      "tipo": "consulta_fin",
+      "instante_ns": 54924935530824,
+      "consulta": 223,
+      "duracion_ms": 395.836521,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 225,
+      "tipo": "parche_enviado",
+      "instante_ns": 54924996112684,
+      "duracion_ms": 49.304428,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 226,
+      "tipo": "parche_enviado",
+      "instante_ns": 54925025731701,
+      "duracion_ms": 2.358314,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 227,
+      "tipo": "parche_enviado",
+      "instante_ns": 54925444677900,
+      "duracion_ms": 5.435128,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 228,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54925445064507,
+      "filtros": {
+        "texto": null,
+        "genero_id": "abd51fe0-3f51-59d1-8b5d-e8c1c896d22f",
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 229,
+      "tipo": "consulta_fin",
+      "instante_ns": 54926190337141,
+      "consulta": 228,
+      "duracion_ms": 745.264359,
+      "total": 18182,
+      "filas": 24
+    },
+    {
+      "id": 230,
+      "tipo": "parche_enviado",
+      "instante_ns": 54926254781303,
+      "duracion_ms": 53.810138,
+      "destino": "Catálogo",
+      "resumen": "18182 obras · datos sintéticos",
+      "contador": "1–24 de 18182 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 231,
+      "tipo": "parche_enviado",
+      "instante_ns": 54926438454837,
+      "duracion_ms": 4.160312,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 232,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54926438751615,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 233,
+      "tipo": "consulta_fin",
+      "instante_ns": 54926839142649,
+      "consulta": 232,
+      "duracion_ms": 400.38343,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 234,
+      "tipo": "parche_enviado",
+      "instante_ns": 54926900614361,
+      "duracion_ms": 50.464338,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 235,
+      "tipo": "parche_enviado",
+      "instante_ns": 54926922173414,
+      "duracion_ms": 2.149471,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 236,
+      "tipo": "parche_enviado",
+      "instante_ns": 54927321910399,
+      "duracion_ms": 4.990162,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 237,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54927322254455,
+      "filtros": {
+        "texto": null,
+        "genero_id": "abd51fe0-3f51-59d1-8b5d-e8c1c896d22f",
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 238,
+      "tipo": "consulta_fin",
+      "instante_ns": 54928057662564,
+      "consulta": 237,
+      "duracion_ms": 735.397218,
+      "total": 18182,
+      "filas": 24
+    },
+    {
+      "id": 239,
+      "tipo": "parche_enviado",
+      "instante_ns": 54928121510043,
+      "duracion_ms": 52.627434,
+      "destino": "Catálogo",
+      "resumen": "18182 obras · datos sintéticos",
+      "contador": "1–24 de 18182 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 240,
+      "tipo": "parche_enviado",
+      "instante_ns": 54928279645894,
+      "duracion_ms": 5.703934,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 241,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54928279961337,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 242,
+      "tipo": "parche_enviado",
+      "instante_ns": 54928315902390,
+      "duracion_ms": 2.081844,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 243,
+      "tipo": "parche_enviado",
+      "instante_ns": 54928319271093,
+      "duracion_ms": 2.210045,
+      "destino": "Inicio",
+      "resumen": "",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 244,
+      "tipo": "consulta_fin",
+      "instante_ns": 54928805201980,
+      "consulta": 241,
+      "duracion_ms": 525.226397,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 245,
+      "tipo": "parche_enviado",
+      "instante_ns": 54928865780263,
+      "duracion_ms": 49.918552,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 246,
+      "tipo": "parche_enviado",
+      "instante_ns": 54929168781835,
+      "duracion_ms": 4.644862,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 247,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54929169184112,
+      "filtros": {
+        "texto": null,
+        "genero_id": "abd51fe0-3f51-59d1-8b5d-e8c1c896d22f",
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 248,
+      "tipo": "consulta_fin",
+      "instante_ns": 54930065378484,
+      "consulta": 247,
+      "duracion_ms": 896.183231,
+      "total": 18182,
+      "filas": 24
+    },
+    {
+      "id": 249,
+      "tipo": "parche_enviado",
+      "instante_ns": 54930203384608,
+      "duracion_ms": 123.237287,
+      "destino": "Catálogo",
+      "resumen": "18182 obras · datos sintéticos",
+      "contador": "1–24 de 18182 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 250,
+      "tipo": "parche_enviado",
+      "instante_ns": 54930619414755,
+      "duracion_ms": 6.975164,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 251,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54930619805229,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 252,
+      "tipo": "consulta_fin",
+      "instante_ns": 54931158945505,
+      "consulta": 251,
+      "duracion_ms": 539.131449,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 253,
+      "tipo": "parche_enviado",
+      "instante_ns": 54931237148204,
+      "duracion_ms": 63.742652,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 254,
+      "tipo": "parche_enviado",
+      "instante_ns": 54931521884105,
+      "duracion_ms": 5.645013,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 255,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54931522200129,
+      "filtros": {
+        "texto": null,
+        "genero_id": "abd51fe0-3f51-59d1-8b5d-e8c1c896d22f",
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 256,
+      "tipo": "consulta_fin",
+      "instante_ns": 54932292487915,
+      "consulta": 255,
+      "duracion_ms": 770.277656,
+      "total": 18182,
+      "filas": 24
+    },
+    {
+      "id": 257,
+      "tipo": "parche_enviado",
+      "instante_ns": 54932369597929,
+      "duracion_ms": 65.271236,
+      "destino": "Catálogo",
+      "resumen": "18182 obras · datos sintéticos",
+      "contador": "1–24 de 18182 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 258,
+      "tipo": "parche_enviado",
+      "instante_ns": 54932926867900,
+      "duracion_ms": 4.283654,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 259,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54932927174737,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 260,
+      "tipo": "consulta_fin",
+      "instante_ns": 54933317455803,
+      "consulta": 259,
+      "duracion_ms": 390.273973,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 261,
+      "tipo": "parche_enviado",
+      "instante_ns": 54933384790810,
+      "duracion_ms": 56.113719,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 262,
+      "tipo": "parche_enviado",
+      "instante_ns": 54933799322880,
+      "duracion_ms": 6.15372,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 263,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54933799572740,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 264,
+      "tipo": "consulta_fin",
+      "instante_ns": 54934342168001,
+      "consulta": 263,
+      "duracion_ms": 542.586856,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 265,
+      "tipo": "parche_enviado",
+      "instante_ns": 54934402171213,
+      "duracion_ms": 44.986229,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 266,
+      "tipo": "parche_enviado",
+      "instante_ns": 54934672882035,
+      "duracion_ms": 4.594628,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 267,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54934673168133,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": true,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 268,
+      "tipo": "consulta_fin",
+      "instante_ns": 54935199583385,
+      "consulta": 267,
+      "duracion_ms": 526.407396,
+      "total": 15824,
+      "filas": 24
+    },
+    {
+      "id": 269,
+      "tipo": "parche_enviado",
+      "instante_ns": 54935259989675,
+      "duracion_ms": 48.526474,
+      "destino": "Catálogo",
+      "resumen": "15824 obras · datos sintéticos",
+      "contador": "1–24 de 15824 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 270,
+      "tipo": "parche_enviado",
+      "instante_ns": 54935590830748,
+      "duracion_ms": 4.647758,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 271,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54935591171518,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 272,
+      "tipo": "consulta_fin",
+      "instante_ns": 54935996107257,
+      "consulta": 271,
+      "duracion_ms": 404.928135,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 273,
+      "tipo": "parche_enviado",
+      "instante_ns": 54936054659791,
+      "duracion_ms": 47.142963,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 274,
+      "tipo": "parche_enviado",
+      "instante_ns": 54936468615828,
+      "duracion_ms": 4.937603,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 275,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54936468939507,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 276,
+      "tipo": "consulta_fin",
+      "instante_ns": 54936981652798,
+      "consulta": 275,
+      "duracion_ms": 512.704734,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 277,
+      "tipo": "parche_enviado",
+      "instante_ns": 54937058377287,
+      "duracion_ms": 57.541013,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 278,
+      "tipo": "parche_enviado",
+      "instante_ns": 54937332489635,
+      "duracion_ms": 6.52098,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 279,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54937332869619,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": true,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 280,
+      "tipo": "consulta_fin",
+      "instante_ns": 54937888080529,
+      "consulta": 279,
+      "duracion_ms": 555.19982,
+      "total": 15824,
+      "filas": 24
+    },
+    {
+      "id": 281,
+      "tipo": "parche_enviado",
+      "instante_ns": 54937966121744,
+      "duracion_ms": 62.476351,
+      "destino": "Catálogo",
+      "resumen": "15824 obras · datos sintéticos",
+      "contador": "1–24 de 15824 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 282,
+      "tipo": "parche_enviado",
+      "instante_ns": 54938273350203,
+      "duracion_ms": 6.144232,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 283,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54938273896260,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 284,
+      "tipo": "consulta_fin",
+      "instante_ns": 54938735318468,
+      "consulta": 283,
+      "duracion_ms": 461.413212,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 285,
+      "tipo": "parche_enviado",
+      "instante_ns": 54938820466775,
+      "duracion_ms": 71.519153,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 286,
+      "tipo": "parche_enviado",
+      "instante_ns": 54939165357253,
+      "duracion_ms": 6.343195,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 287,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54939165798012,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 288,
+      "tipo": "consulta_fin",
+      "instante_ns": 54939810172167,
+      "consulta": 287,
+      "duracion_ms": 644.364367,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 289,
+      "tipo": "parche_enviado",
+      "instante_ns": 54939884678486,
+      "duracion_ms": 60.984827,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 290,
+      "tipo": "parche_enviado",
+      "instante_ns": 54940064907174,
+      "duracion_ms": 7.281961,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 291,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54940065283081,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": true,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 292,
+      "tipo": "consulta_fin",
+      "instante_ns": 54940708127500,
+      "consulta": 291,
+      "duracion_ms": 642.834831,
+      "total": 15824,
+      "filas": 24
+    },
+    {
+      "id": 293,
+      "tipo": "parche_enviado",
+      "instante_ns": 54940780609794,
+      "duracion_ms": 57.862738,
+      "destino": "Catálogo",
+      "resumen": "15824 obras · datos sintéticos",
+      "contador": "1–24 de 15824 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 294,
+      "tipo": "parche_enviado",
+      "instante_ns": 54941025477398,
+      "duracion_ms": 7.772523,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 295,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54941026049113,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 296,
+      "tipo": "consulta_fin",
+      "instante_ns": 54941549201561,
+      "consulta": 295,
+      "duracion_ms": 523.142298,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 297,
+      "tipo": "parche_enviado",
+      "instante_ns": 54941634711157,
+      "duracion_ms": 74.144489,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 298,
+      "tipo": "parche_enviado",
+      "instante_ns": 54941924275706,
+      "duracion_ms": 8.028885,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 299,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54941924754206,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 300,
+      "tipo": "consulta_fin",
+      "instante_ns": 54942518491900,
+      "consulta": 299,
+      "duracion_ms": 593.728136,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 301,
+      "tipo": "parche_enviado",
+      "instante_ns": 54942586943405,
+      "duracion_ms": 57.26291,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 302,
+      "tipo": "parche_enviado",
+      "instante_ns": 54942817741518,
+      "duracion_ms": 5.5208,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 303,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54942818089583,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": "077350a5-2867-5c24-81ce-d27c6a4cd78c",
+        "disponibles": true,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 304,
+      "tipo": "consulta_fin",
+      "instante_ns": 54943346398835,
+      "consulta": 303,
+      "duracion_ms": 528.301578,
+      "total": 15824,
+      "filas": 24
+    },
+    {
+      "id": 305,
+      "tipo": "parche_enviado",
+      "instante_ns": 54943411634224,
+      "duracion_ms": 52.456443,
+      "destino": "Catálogo",
+      "resumen": "15824 obras · datos sintéticos",
+      "contador": "1–24 de 15824 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 306,
+      "tipo": "parche_enviado",
+      "instante_ns": 54943760612597,
+      "duracion_ms": 5.989621,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 307,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54943760953087,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 308,
+      "tipo": "consulta_fin",
+      "instante_ns": 54944289621725,
+      "consulta": 307,
+      "duracion_ms": 528.655734,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 309,
+      "tipo": "parche_enviado",
+      "instante_ns": 54944365621332,
+      "duracion_ms": 59.795742,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 310,
+      "tipo": "parche_enviado",
+      "instante_ns": 54944628742275,
+      "duracion_ms": 11.941581,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 311,
+      "tipo": "parche_enviado",
+      "instante_ns": 54944634055334,
+      "duracion_ms": 4.906325,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 312,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54944634417234,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 24
+      }
+    },
+    {
+      "id": 313,
+      "tipo": "consulta_fin",
+      "instante_ns": 54945054471617,
+      "consulta": 312,
+      "duracion_ms": 420.025077,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 314,
+      "tipo": "parche_enviado",
+      "instante_ns": 54945110579204,
+      "duracion_ms": 46.290601,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "25–48 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 315,
+      "tipo": "parche_enviado",
+      "instante_ns": 54945544706937,
+      "duracion_ms": 11.641527,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "25–48 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 316,
+      "tipo": "parche_enviado",
+      "instante_ns": 54945549355136,
+      "duracion_ms": 4.245051,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 317,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54945549561544,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 48
+      }
+    },
+    {
+      "id": 318,
+      "tipo": "consulta_fin",
+      "instante_ns": 54945936960982,
+      "consulta": 317,
+      "duracion_ms": 387.390331,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 319,
+      "tipo": "parche_enviado",
+      "instante_ns": 54945997307439,
+      "duracion_ms": 47.411348,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "49–72 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 320,
+      "tipo": "parche_enviado",
+      "instante_ns": 54946479977766,
+      "duracion_ms": 13.904682,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "49–72 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 321,
+      "tipo": "parche_enviado",
+      "instante_ns": 54946485347632,
+      "duracion_ms": 4.818289,
+      "destino": "Catálogo",
+      "resumen": "Cargando catálogo…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 322,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54946485615425,
+      "filtros": {
+        "texto": null,
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 72
+      }
+    },
+    {
+      "id": 323,
+      "tipo": "consulta_fin",
+      "instante_ns": 54946891975502,
+      "consulta": 322,
+      "duracion_ms": 406.352232,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 324,
+      "tipo": "parche_enviado",
+      "instante_ns": 54946972594924,
+      "duracion_ms": 67.439834,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "73–96 de 100000 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 325,
+      "tipo": "parche_enviado",
+      "instante_ns": 54986362948464,
+      "duracion_ms": 6.372591,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 326,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54986664145614,
+      "filtros": {
+        "texto": "Original sintético 000011",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 327,
+      "tipo": "consulta_fin",
+      "instante_ns": 54986767423487,
+      "consulta": 326,
+      "duracion_ms": 103.269086,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 328,
+      "tipo": "parche_enviado",
+      "instante_ns": 54986772819021,
+      "duracion_ms": 4.144251,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "light"
+    },
+    {
+      "id": 329,
+      "tipo": "parche_enviado",
+      "instante_ns": 54987173312607,
+      "duracion_ms": 3.040196,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "light"
+    },
+    {
+      "id": 330,
+      "tipo": "consulta_inicio",
+      "instante_ns": 54987474485592,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 331,
+      "tipo": "parche_enviado",
+      "instante_ns": 54987577966365,
+      "duracion_ms": 1.924708,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "dark"
+    },
+    {
+      "id": 332,
+      "tipo": "consulta_fin",
+      "instante_ns": 54990037166339,
+      "consulta": 330,
+      "duracion_ms": 2562.669326,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 333,
+      "tipo": "parche_enviado",
+      "instante_ns": 54990092383032,
+      "duracion_ms": 45.393073,
+      "destino": "Catálogo",
+      "resumen": "100000 obras · datos sintéticos",
+      "contador": "1–24 de 100000 · 24 por página",
+      "tema": "dark"
+    },
+    {
+      "id": 334,
+      "tipo": "parche_enviado",
+      "instante_ns": 55017796319930,
+      "duracion_ms": 5.693595,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "dark"
+    },
+    {
+      "id": 335,
+      "tipo": "consulta_inicio",
+      "instante_ns": 55018096618740,
+      "filtros": {
+        "texto": "Original sintético 000012",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 336,
+      "tipo": "consulta_fin",
+      "instante_ns": 55018201945735,
+      "consulta": 335,
+      "duracion_ms": 105.316686,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 337,
+      "tipo": "parche_enviado",
+      "instante_ns": 55018207320751,
+      "duracion_ms": 4.351451,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "dark"
+    },
+    {
+      "id": 338,
+      "tipo": "parche_enviado",
+      "instante_ns": 55018599109812,
+      "duracion_ms": 3.314833,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "dark"
+    },
+    {
+      "id": 339,
+      "tipo": "consulta_inicio",
+      "instante_ns": 55018900225338,
+      "filtros": {
+        "texto": "sintético",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 340,
+      "tipo": "parche_enviado",
+      "instante_ns": 55018985584752,
+      "duracion_ms": 2.268926,
+      "destino": "Catálogo",
+      "resumen": "Buscando…",
+      "contador": "",
+      "tema": "dark"
+    },
+    {
+      "id": 341,
+      "tipo": "consulta_fin",
+      "instante_ns": 55021435204114,
+      "consulta": 339,
+      "duracion_ms": 2534.966682,
+      "total": 100000,
+      "filas": 24
+    },
+    {
+      "id": 342,
+      "tipo": "consulta_inicio",
+      "instante_ns": 55021435421873,
+      "filtros": {
+        "texto": "Original sintético 001234",
+        "genero_id": null,
+        "sede_id": null,
+        "disponibles": null,
+        "limite": 24,
+        "desplazamiento": 0
+      }
+    },
+    {
+      "id": 343,
+      "tipo": "consulta_fin",
+      "instante_ns": 55021540027101,
+      "consulta": 342,
+      "duracion_ms": 104.597704,
+      "total": 1,
+      "filas": 1
+    },
+    {
+      "id": 344,
+      "tipo": "parche_enviado",
+      "instante_ns": 55021545123182,
+      "duracion_ms": 4.144442,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "dark"
+    },
+    {
+      "id": 345,
+      "tipo": "parche_enviado",
+      "instante_ns": 55060285868496,
+      "duracion_ms": 2.87761,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "dark"
+    },
+    {
+      "id": 346,
+      "tipo": "parche_enviado",
+      "instante_ns": 55060288764260,
+      "duracion_ms": 2.47326,
+      "destino": "Catálogo",
+      "resumen": "1 obra · datos sintéticos",
+      "contador": "1–1 de 1 · 24 por página",
+      "tema": "dark"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+digraph Importador {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.44 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.75 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Obra [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Obra</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- idOpenLibrary: str {unique}<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Edicion [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Edicion</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- idOpenLibrary: str {unique}<BR ALIGN="LEFT"/>- idioma: str<BR ALIGN="LEFT"/>- idiomaVerificado: bool<BR ALIGN="LEFT"/>- estadoValidacion: EstadoValidacion<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	MateriaOriginal [label=<<TABLE BORDER="1" COLOR="#4c6578" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#f0f4f6">
+    <TR><TD BGCOLOR="#4c6578" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>MateriaOriginal</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/>- textoOriginal: str<BR ALIGN="LEFT"/>- fuente: str<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ObraMateria [label=<<TABLE BORDER="1" COLOR="#4c6578" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#f0f4f6">
+    <TR><TD BGCOLOR="#4c6578" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ObraMateria</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#f0f4f6"><FONT FACE="DejaVu Sans" COLOR="#405a70" POINT-SIZE="9"><I>tabla asociativa</I></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- obraId: UUID<BR ALIGN="LEFT"/>- materiaId: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ServicioImportacion [label=<<TABLE BORDER="1" COLOR="#4c6578" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#f0f4f6">
+    <TR><TD BGCOLOR="#4c6578" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ServicioImportacion</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ importarDumps()<BR ALIGN="LEFT"/>+ validarEdicion()<BR ALIGN="LEFT"/>+ normalizarMaterias()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Obra -> Edicion [label=posee headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	Obra -> ObraMateria [label=metadatos headlabel="0..*" labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+	ObraMateria -> MateriaOriginal [label=materia headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel="0..*"]
+	ServicioImportacion -> Obra [label="crea / actualiza" arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioImportacion -> Edicion [label=valida arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioImportacion -> MateriaOriginal [label=normaliza arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+}

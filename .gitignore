@@ -1,0 +1,56 @@
+# Entornos, cachés y resultados de herramientas.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+build/
+dist/
+*.egg-info/
+
+# Bases locales y salidas reproducibles. Los JSON fuente y portadas sí se versionan.
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+/datos/generados/
+/datos/openlibrary/prevalidacion/*
+!/datos/openlibrary/prevalidacion/README.md
+
+# Archivo local redundante: ZIP, extractores previos y cachés.
+/archivo/paquetes/
+/archivo/openlibrary/
+/archivo/documentos_iniciales/*.docx
+/archivo/documentos_iniciales/CONTRATO_PARA_UML.md
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Configuración privada del equipo, credenciales y temporales.
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+*.pem
+*.key
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/extensions.json

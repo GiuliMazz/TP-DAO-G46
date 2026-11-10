@@ -1,0 +1,40 @@
+digraph State {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.5 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.65 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	Remito [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Remito</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- estadoActual: EstadoRemitoBase<BR ALIGN="LEFT"/>- numero: str<BR ALIGN="LEFT"/></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ empaquetar(); despachar()<BR ALIGN="LEFT"/>+ registrarTransito(); recibir()<BR ALIGN="LEFT"/>+ cancelar()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	EstadoBase [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>EstadoRemitoBase</B></FONT></TD></TR>
+    <TR><TD BGCOLOR="#fff4eb"><FONT FACE="DejaVu Sans" COLOR="#405a70" POINT-SIZE="9"><I>abstracta / interfaz</I></FONT></TD></TR><TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ empaquetar(remito)<BR ALIGN="LEFT"/>+ despachar(remito)<BR ALIGN="LEFT"/>+ registrarTransito(remito)<BR ALIGN="LEFT"/>+ recibir(remito)<BR ALIGN="LEFT"/>+ cancelar(remito)<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Pendiente [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Pendiente</B></FONT></TD></TR>
+    </TABLE>>]
+	Pendiente -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Empaquetado [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Empaquetado</B></FONT></TD></TR>
+    </TABLE>>]
+	Empaquetado -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Despachado [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Despachado</B></FONT></TD></TR>
+    </TABLE>>]
+	Despachado -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	EnTransito [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>EnTransito</B></FONT></TD></TR>
+    </TABLE>>]
+	EnTransito -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Recibido [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Recibido</B></FONT></TD></TR>
+    </TABLE>>]
+	Recibido -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Incidencia [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ConIncidencias</B></FONT></TD></TR>
+    </TABLE>>]
+	Incidencia -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Cancelado [label=<<TABLE BORDER="1" COLOR="#9c5836" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#fff4eb">
+    <TR><TD BGCOLOR="#9c5836" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Cancelado</B></FONT></TD></TR>
+    </TABLE>>]
+	Cancelado -> EstadoBase [label=hereda arrowhead=empty dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	Remito -> EstadoBase [label="delega comportamiento" arrowhead=vee dir=forward headlabel=1 labelangle=25 labeldistance=1.8 style=solid taillabel=1]
+}

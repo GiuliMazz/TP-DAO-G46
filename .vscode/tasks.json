@@ -1,0 +1,74 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Horizonte: aplicación de escritorio",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "main.py"
+      ],
+      "isBackground": true,
+      "problemMatcher": [],
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/python.exe"
+      }
+    },
+    {
+      "label": "Horizonte: vista previa local",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "main.py",
+        "--web",
+        "--port",
+        "8550"
+      ],
+      "isBackground": true,
+      "problemMatcher": [],
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/python.exe"
+      }
+    },
+    {
+      "label": "Horizonte: pruebas",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/python.exe"
+      },
+      "args": [
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Horizonte: preparar catálogo local",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/python.exe"
+      },
+      "args": [
+        "-m",
+        "herramientas.preparar_catalogo_local"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Horizonte: preparar socios demo",
+      "type": "shell",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "windows": {
+        "command": "${workspaceFolder}/.venv/Scripts/python.exe"
+      },
+      "args": [
+        "-m",
+        "herramientas.preparar_socios_demo"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

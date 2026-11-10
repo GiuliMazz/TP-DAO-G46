@@ -1,0 +1,37 @@
+digraph ServiciosComplementarios {
+	bgcolor=white fontname="DejaVu Sans" nodesep=.52 outputorder=edgesfirst pad=0.34 rankdir=LR ranksep=.87 splines=polyline
+	node [fontname="DejaVu Sans" shape=plaintext]
+	edge [arrowhead=none arrowsize=.65 color="#6b8094" fontname="DejaVu Sans" fontsize=10 labelfontcolor="#52677b" penwidth=1.25]
+	ServicioRecomendaciones [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ServicioRecomendaciones</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ sugerirPorGenero(obra): list[Obra]<BR ALIGN="LEFT"/>+ ordenarPorEtiquetas(obra): list[Obra]<BR ALIGN="LEFT"/>+ filtrarDisponibles(sede): list[Obra]<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ServicioReportes [label=<<TABLE BORDER="1" COLOR="#246d5d" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eaf6f1">
+    <TR><TD BGCOLOR="#246d5d" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>ServicioReportes</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">+ prestamosActivosYVencidos()<BR ALIGN="LEFT"/>+ disponibilidadPorSede()<BR ALIGN="LEFT"/>+ obrasMasSolicitadas()<BR ALIGN="LEFT"/>+ transitosEIncidencias()<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Obra [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Obra</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Genero [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Genero</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Etiqueta [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Etiqueta</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Ejemplar [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Ejemplar</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Prestamo [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Prestamo</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	Remito [label=<<TABLE BORDER="1" COLOR="#153c63" CELLBORDER="0" CELLSPACING="0" BGCOLOR="#eef5fb">
+    <TR><TD BGCOLOR="#153c63" CELLPADDING="7"><FONT FACE="DejaVu Sans" COLOR="white" POINT-SIZE="13"><B>Remito</B></FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT" CELLPADDING="6"><FONT FACE="DejaVu Sans" POINT-SIZE="10">- id: UUID<BR ALIGN="LEFT"/></FONT></TD></TR></TABLE>>]
+	ServicioRecomendaciones -> Obra [label=consulta arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioRecomendaciones -> Genero [label=consulta arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioRecomendaciones -> Etiqueta [label=consulta arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioRecomendaciones -> Ejemplar [label=consulta arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioReportes -> Obra [label=resume arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioReportes -> Ejemplar [label=resume arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioReportes -> Prestamo [label=resume arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+	ServicioReportes -> Remito [label=resume arrowhead=vee dir=forward labelangle=25 labeldistance=1.8 style=dashed]
+}

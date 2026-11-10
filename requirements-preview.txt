@@ -1,0 +1,3 @@
+# Sólo para verificar los mismos controles en un navegador local.
+-r requirements.txt
+flet-web==1.0.5
